@@ -1,11 +1,8 @@
 # Absenteeism and Tardiness
 
-####The Rule:####
 > If you are not working when you are reasonably expected to be working, you are absent or late.
 
-
-####The Spirit:####
-> In order to be successful as an organization, wherever possible people need to be contributing consistently at an expected level, or our team suffers. 
+<i> In order to be successful as an organization, wherever possible people need to be contributing consistently at an expected level, or our team suffers. There is a reasonable expectation for our mutual success that you will working when you say you will be where you say you will be.</i>
 
 
 Treefrog has [flexible hours](hours#flexible_hours) for most positions (with the exception of positions which are critical to client-facing localized hours - e.g. tech support, front desk, etc., for reasons of [customer-service](manual/customer-service.md). However, if you have set an expectation to be at Treefrog at a certain time, other Frogs will be counting on you being there. By not being available when you have promised to be, you increase the [cost-of-chaos](manual/cost-of-chaos.md) and reduce the overall effectiveness of the team.
@@ -41,17 +38,18 @@ If you are going to be late, need to take moments off, or feel sick, etc, please
 
 https://treefrog.slack.com/messages/absent/
 
-1. 24 Hours Notice - Our Handbook states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning. Not as a measure of bureaucracy but of mutual respect and love.
+4. <b>You <i>must</i> notify</b> - There needs to be a record of why you are absent. Otherwise, you cost other people time and energy. Slack is fine for this.
 
-2. 24 Hours Notice - Telling people 3 months ahead of time you won't be available doesn't help. Warn people in reaonable measure with the anticipated activity.
+1. <b>24 Hours Notice</b> - Our Handbook states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning. Not as a measure of bureaucracy but of mutual respect and love.
 
-3. Don't follow the channel unless you need to - You shouldn't need to follow the channel (Cost of Chaos!), but rather go in and look if you are wondering where people are. Exclusions are communication hubs, i.e. Robyn.
+2. <b>A few days ahead of time, commensurate with team productivity</b> - Telling people 3 months ahead of time you won't be available doesn't help. Warn people in reaonable measure with the anticipated activity.
 
-4. You must Notify - There needs to be a record of why you are absent. Otherwise, you cost other people time and energy. Slack is fine for this.
+3. <b>You don't need to watch this channel unless you need to watch this channel</b> -  Don't follow the channel unless you need to - You shouldn't need to follow the channel (Cost of Chaos!), but rather go in and look if you are wondering where people are. Exclusions are communication hubs, i.e. Front Desk.
 
-5. And make sure you call out people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
 
-6. Tell people why - Please also indicate why. If it is a private issue, please just note something general so people aren't left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something. An issue such as "I am having an emergency bypass", though your right to keep to yourself, has obvious greater impact than "There is a emergency sale on shoes at The Bay and I will be catching up later this evening on my hours".
+5. <b>Call out critical people in your warning</b> - And make sure you call out people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
+
+6. <b>Tell people why</b> - Please also indicate why. If it is a private issue, please just note something general so people aren't left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something. An issue such as "I am having an emergency bypass", though your right to keep to yourself, has obvious greater impact than "There is a emergency sale on shoes at The Bay and I will be catching up later this evening on my hours".
 
 #### Example of Appropriate Messages:
 
