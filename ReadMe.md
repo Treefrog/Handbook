@@ -14,7 +14,7 @@ This manual is organized into two parts: the "why", and the "how". Initially, th
 Each section of the "Manual" is composed of more than just "the rules" - but rather with a "spirit", a "simple acid test hard rule", and with detailed examples of interpretation and examples of how this rule came to exist.
 
 1. First Principles
-	* [The Sacred Cow Principle](/First Princinples/TheCowPrinciple.md)
+	* [The Sacred Cow Principle](First Principles/TheCowPrinciple.md)
 2. Manual
 
 
