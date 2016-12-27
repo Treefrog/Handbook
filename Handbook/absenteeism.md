@@ -1,12 +1,12 @@
 # Absenteeism and Tardiness
 
-<fieldset><legend>The Rule:</legend>
-If you are not working when you are reasonably expected to be working, you are absent or late.
-</fieldset>
+####The Rule:####
+> If you are not working when you are reasonably expected to be working, you are absent or late.
 
-<fieldset><legend>The Spirit:</legend>
-In order to be successful as an organization, wherever possible people need to be contributing consistently at an expected level, or our team suffers. 
-</fieldset>
+
+####The Spirit:####
+> In order to be successful as an organization, wherever possible people need to be contributing consistently at an expected level, or our team suffers. 
+
 
 Treefrog has [flexible hours](hours#flexible_hours) for most positions (with the exception of positions which are critical to client-facing localized hours - e.g. tech support, front desk, etc., for reasons of [customer-service](manual/customer-service.md). However, if you have set an expectation to be at Treefrog at a certain time, other Frogs will be counting on you being there. By not being available when you have promised to be, you increase the [cost-of-chaos](manual/cost-of-chaos.md) and reduce the overall effectiveness of the team.
 
