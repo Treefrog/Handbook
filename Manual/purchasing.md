@@ -2,7 +2,7 @@
 
 > Buy the best you can get within reason, and expect it to last longer.
 
-There needs to be a strategy to how we buy everything. Not everything will fit into these rules but this gives you a rationale as to **why** we buy like this.
+There is a strategy to how we buy everything. Not everything will fit into these rules but this gives you a rationale as to **why** we buy like this.
 
 We buy the best quality products in the marketplace, before the cost curve breaks up into "unnecessarily expensive", because:
 
@@ -15,7 +15,7 @@ We buy the best quality products in the marketplace, before the cost curve break
 - We are the best so we want to be represented by the best
 - We sustain a competitive advantage by staying out in front
 
-### Buy Two
+### The "Buy Multiples" Rule
 
 > Buy one as an experiment. If it is Epic, buy them for everyone.
 

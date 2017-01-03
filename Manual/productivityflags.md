@@ -18,7 +18,7 @@ We also have a whole whack of methodologies for chronic disturbation:
 - iChat (A nice way to time-warp questions directly but still an intrusion)
 - Open office discussion (I do not want to miss anything!)
 
-We need to start developing stronger team skills for productivity. It is not enough to have mutual skill sets that enable us to complete larger works as a group. It is not enough to have one another's backs. We also need to protect one another's ability to do work.
+In order to be successful, strong team productivity skills are critical. It is not enough to have mutual skill sets that enable us to complete larger works as a group. It is not enough to have one another's backs. We also need to protect one another's ability to do work without being bothered.
 
 ### Treefrog Today
 

@@ -10,7 +10,7 @@ Treefrog maintains a policy of non-discrimination for all Frogs and job applican
 
 ### Gender Discrimination vs. Recognition
 
-Although we do not discriminate on gender, we do expect (for reasons of cultural appropriateness and according to [sexual harassment](sexual harassment)) that different genders have different needs. For example, in bathroom usage. Recognizing genders is not discrimination.
+Although we do not discriminate on gender, we do expect (for reasons of cultural appropriateness and according to [sexual harassment](sexual harassment)) that different genders have different needs. For example, in bathroom usage. Matching plumbing to plumbing is not discrimination, it's plumbing.
 
 ### Recognizing Gender
 
@@ -22,4 +22,13 @@ If you have difficulty recognizing the gender of your fellow Frog, please try th
 4. **Check the ear.** The ear of the frog is near the brain. If it is big, it's a male but if it is small, then it's a female.
 
 Hold off on naming a frog until you know what sex it is, unless you are willing to change the name later. Or you could name it something that would work for a male or a female, like Jumpy, for example.
+
+If you are confused by this section, you should not be making decisions, comments or complaints based on gender.
+
+### Washrooms and Gender
+
+If you're in a public bathroom and you think a stranger's gender does not match the sign on the door, follow these steps:
+
+1. Don't worry about it, they know better than you.
+
 

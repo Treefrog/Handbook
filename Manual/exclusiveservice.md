@@ -81,7 +81,7 @@ Many people at Treefrog have been asked by clients to do work under the table fo
 
 Approach the CEO and disclose all of the facets of the potential work. Consider if this helps your career or if it limits your career. Consider if it helps your team or compromises your team.
 
-Make sure there is a paper trail.
+Make sure there is a paper trail (read: send an email detailing this). It is not the CEO's job to remember your details.
 
 #### How to Handle it if you are Working Now, Cause You Forgot This Section Of Our Employee Manual
 

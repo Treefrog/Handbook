@@ -6,10 +6,10 @@ Treefrog will make a concerted effort to ensure you always have quality, working
 
 If your behaviour or lack of respect for a device leads to the destruction of a device, tool or piece of office equipment, you should replace the device at your own cost or you will be reviewed for termination. Some examples may include:
 
-1. Using your device for non-Treefrog related activities (e.g. gaming, video rendering)
-2. Sitting on your laptop in a car
-3. Using your device in the rain
-4. Knocking over a coffee onto your laptop
+1. Using your device for non-Treefrog related activities (e.g. gaming, video rendering).
+2. Sitting on your laptop in a car.
+3. Using your device in the rain.
+4. Knocking over a coffee onto your laptop at home.
 
 However, should you have the dumb luck to destroy or damage a device unintentionally, Treefrog will replace it **once**. If you have a second mishap, a review of your respect of devices will be engaged.
 
@@ -26,7 +26,7 @@ For those Frogs that have portable computers we need to ensure you are operating
 
 ### Software Lisencing
 
-We do not use software at Treefrog, or put it on our laptops, unless it has been paid for. Not only is it unethical and counterintuitive to Treefrog's values, but also, if we are caught doing this, it could hurt us.
+We do not use software at Treefrog, or put it on our laptops, unless it has been paid for. Not only is it unethical and counterintuitive to Treefrog's values, but also, if we are caught doing this, it could hurt our team through litigation or problems.
 
 1. Don't install software you don't use
 2. Don't install software without express consent from the [quartermaster](manual/quartermaster.md)

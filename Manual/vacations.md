@@ -2,13 +2,32 @@
 
 > Think about the Frogs before you book. Don't be selfish.
 
-Vacations will be allotted on a first-come, first-served basis, subject to Treefrog’s approval. All vacation requests must be submitted via the vacation system at least 2 weeks prior to the start of the vacation time. Treefrog has the sole discretion to approve or decline the requested vacation dates, based on the impact to company deliverables.
+### Amount of Vacation
 
-By law, Frogs must take a minimum of 5 consecutive days vacation in any calendar year. The remainder of the allotted vacation days may be taken in subsequent requests consisting of (but not limited to) shorter periods.
+Every Frog has the same amount of vacation: 2 weeks (or 10 working days).
+
+Vacations will be allotted on a **first-come, first-served** basis, subject to Treefrog’s approval. All vacation requests must be submitted via the vacation system at least **2 weeks prior** to the start of the vacation time, to ensure the company can make up for your absence. Treefrog has the sole discretion to approve or decline the requested vacation dates, based on the impact to company deliverables. *But we will do everything reasonable to accomodate you, providing it doesn't hurt others or damage Treefrog.
+
+By law, Frogs must take a minimum of **5 consecutive days** vacation in any calendar year. The remainder of the allotted vacation days may be taken in subsequent requests consisting of (but not limited to) shorter periods.
 
 Frogs should also NOT take more than 5 consecutive days if possible, to minimize the exhaustion of other team members supporting their absence. Holidays over 5 days should be discussed in detail with your Pod leader before approval.
 
 If circumstances require you to cancel the already approved vacation time, Treefrog has the sole discretion to approve/decline the change in vacation dates.
+
+If you have any time remaining in December, you must arrange with your Pod leader to take the holidays ASAP. We are legally obliged to ensure you take this holiday within the year - and it is easiest if you use your time
+
+### Your First Year
+
+- first 3 months
+- cumulative holiday in first year
+
+### Core Personal Days
+
+Every Frog will get 
+
+### Tenured Personal Days
+
+
 
 ### Carry Over Time
 
@@ -19,6 +38,7 @@ You should take vacation days during the calendar year in which it is earned. Ho
 3. Pay in lieu of unused vacation will not be offered, except as required by law under termination circumstances. If you don't take your holidays and then cease to be employed by Treefrog, you don't get paid out for your holiday.
 
 You are responsible to schedule your own holidays. If you feel pressured by Treefrog in any way to *not* take your holiday, please send it in writing directly to the CEO, who will help you manage it accordingly. Everybody needs a break.
+
 ### Amount of Holiday
 
 During the first three years of continuous service at Treefrog, Frogs will be eligible for two weeks (ten working days) paid vacation per year.

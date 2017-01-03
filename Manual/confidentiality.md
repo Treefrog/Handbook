@@ -30,7 +30,11 @@ This includes, but is not limited to, using designs or code in external projects
 
 ### Laptop Security
 
-For those Frogs that have portable computers we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off site locations. If one of our computers got into the wrong hands it could be severely detrimental to thousands of clients. All machines will have a software called “Undercover” installed that will allow us to track our computers and the whereabouts very quickly so we can notify the police as soon as possible. This knowledge regarding this software and information is to be kept extremely confidential as a closely-held Frog secret.
+> Almost everyone gets a laptop. Look after it like an appendage.
+
+<i>For those Frogs that have portable computers we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off site locations. If one of our computers got into the wrong hands it could be severely detrimental to thousands of clients.</i>
+
+All machines will have a software called “Undercover” installed that will allow us to track our computers and the whereabouts very quickly so we can notify the police as soon as possible. This knowledge regarding this software and information is to be kept extremely confidential as a closely-held Frog secret.
 
 It is important to know that Treefrog has granted "Undercover" access to your laptop at any time, no matter where you are. In order to make sure this does not represent a violation of your privacy, only two people have acces to this - The IT Person (currently Eric) and the CEO (currently Sean) - who will only do so *for testing* with explicit warning and with your explicit permission.
 

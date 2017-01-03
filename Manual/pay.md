@@ -1,8 +1,14 @@
-# Salary
+# Pay
 
-### Pay Schedule
+> Payment of Frogs shouldn't get in the way of life or productivity.
+
+<i> We intentionally do things which require more administration and hassle at Treefrog to make it easier on Frogs and their familes.</i>
+
+### Pay Schedule: Weekly
 
 Treefrog pays salaried employees on a weekly basis on the week subsequent to the week worked. Payment is by Direct Deposit on Friday. In order to best benefit Frogs, we endeavour to pay earlier than this to minimize banking turnaround limitations.
+
+Despite the difficulties this presents to cash flow and banking costs associated, it has been our experience that this greatly helps Frogs (especially at the beginning of their careers) to live without "bumps".
 
 #### By Cheque
 

@@ -1,6 +1,6 @@
 # Birthdays
 
-> Treefrog doesn't pay for birthday celebrations. We pay for Frogaversaries.
+> Treefrog doesn't celebrate birthdays. We celebrate Frogaversaries.
 
 Treefrog does not formally celebrate birthdays (read: pay for the celebration or manage the celebration), as a matter of tolerance to Frogs who do not actively celebrate birthdays. Our workplace is a place where all parties can find safety and happiness and are treated equally.
 
@@ -9,4 +9,6 @@ However, we do celebrate "Frogaversaries" - the yearly date upon which you becam
 #### Tolerance Both Ways
 
 However, this does not mean you have to shut up about your birthday, just that the company will not pay for the celebration. Go ahead and announce it, talk about it, bring your own ballons, or bring ballons for someone else.
+
+Sean is gonna celebrate the hell out of his Birthday, that's for sure.
 
