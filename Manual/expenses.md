@@ -2,12 +2,12 @@
 
 > If Treefrog should have paid for it, we will reimburse you.
 
-Once a month, if you have appropriate expenses, you should submit a report to the controller for reimbursement from Treefrog.
+Once a month, if you have appropriate expenses, you should submit a report to the Controller for reimbursement from Treefrog.
 
 1. Expense reports must be completed and forwarded to the Controller.
 2. Original receipts must be submitted as attachments to the expense report.
 3. Expense reports must be filled out for anything charged to a company credit card.
-4. Expense reports for non-trivial amounts, over $100 or single amounts, must be signed off on by the CEO.
+4. Expense reports for non-trivial amounts over $100 or single amounts, must be signed off on by the CEO.
 
 Expenses are paid within 30 days of submission of an approved expense report.
 
