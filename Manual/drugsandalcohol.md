@@ -10,7 +10,7 @@ Under no circumstances! Seriously people, do not do it.
 
 If you have a beer while at Treefrog and you intend to drive home, we will arrange for you to be taken home by another sober Frog or an Uber. Walk, bus, train, or otherwise crawl your way home, but never drive. If you are not sure, do not question it. We will find you a way home.
 
-You may, if absolutely necessary, sleep off your hangover in the sleep room at Treefrog to prevent you from driving. However, you may not, under any cirsumstances, bring non-Frogs into the office during this period.
+You may, if absolutely necessary, to prevent you from driving, sleep off your hangover in the sleep room at Treefrog. However, you may not, under any cirsumstances, bring non-Frogs into the office during this period.
 
 ### Drugs
 
@@ -24,7 +24,7 @@ The fact that a section on this needs to be included makes me crazy.
 
 We do, sometimes, serve alcohol to people who do not work here.
 
-Make sure they are always served by someone with a SmartServe certification, and do not let them drive home.
+Make sure they are always served by someone with a Smart Serve certification, and do not let them drive home.
 
 ### SmartServe Certification
 
