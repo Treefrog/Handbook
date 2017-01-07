@@ -21,12 +21,12 @@ If you are using your own device for Treefrog activities, please let the [quarte
 
 #### Laptop Security
 
-For those Frogs that have portable computers, we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off site locations. If one of our computers got into the wrong hands, it could be severely detrimental to thousands of clients. All machines will have a software called “Undercover” installed that will allow us to track our computers and the computer's location very quickly so we can notify the police as soon as possible. This knowledge regarding this software and information is to be kept extremely confidential as a closely-held Frog secret.
+For those Frogs that have portable computers, we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off-site locations. If one of our computers came into the wrong hands, it could be severely detrimental to thousands of clients. All machines will have installed a software called “Undercover” that will allow us to track our computers and the computer's location very quickly so that we can notify the police as soon as possible. This knowledge regarding this software and information is to be kept extremely confidential as a closely-held Frog secret.
 
 
 ### Software Lisencing
 
-We do not use software at Treefrog or put it on our laptops, unless it has been paid for. Not only is it unethical and counterintuitive to Treefrog's values, but also, if we are caught doing this, it could hurt our team through litigation or problems.
+We do not use software at Treefrog or put it on our laptops unless it has been paid for. Not only is it unethical and counterintuitive to Treefrog's values, but also, if we are caught doing this, it could hurt our team through litigation or problems.
 
 1. Do not install software you do not use
 2. Do not install software without express consent from the [quartermaster](manual/quartermaster.md)
