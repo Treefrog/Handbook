@@ -20,15 +20,15 @@ Many of these specifics are covered within its own section of the Manual.
 
 When a Frog’s absences are both high in number and the frequency of personal absences becomes excessive as compared to the company’s average or the absences establish a pattern, for example, Mondays, Fridays , the Frog’s absenteeism will be considered **excessive**.
 
-Frogs with excessive absences will receive a letter issued by his or her [Pod Champion](manual/pod-champion.md) that will detail attendance records and set performance expectations over a defined period of time.
+Frogs with excessive absences will receive a letter that is issued by his or her [Pod Champion](manual/pod-champion.md) and that will detail attendance records and set performance expectations over a defined period of time.
 
-If absences continue, a further meeting will be held to identify the reasons for the ongoing absences. Each case will be reviewed individually and appropriate steps will be taken in accordance to the severity of the issue.
+If absences continue, a further meeting will be held to identify the reasons for the ongoing absences. Each case will be reviewed individually, and appropriate steps will be taken in accordance to the severity of the issue.
 
-Majority of the work done at Treefrog is interdependent on co-workers. Therefore, it is extremely important that Frogs are punctual and consistent with his or her schedule. Habitually arriving late for work is not acceptable and is subject to disciplinary action.
+Majority of the work done at Treefrog is interdependent on co-workers. Therefore, it is extremely important that each Frog is punctual and consistent with his or her schedule. Habitually arriving late for work is not acceptable and is subject to disciplinary action.
 
 ### Warn Your Pod Champion
 
-You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least 48 hours prior to the time missed. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up and these hours must be approved by your [Pod Champion](manual/pod-champion.md).
+You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least 48 hours prior to the time missed. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up, and these hours must be approved by your [Pod Champion](manual/pod-champion.md).
 
 Absence due to tardiness must be made up based on a schedule approved by your Pod Leader.
 
@@ -40,29 +40,28 @@ https://treefrog.slack.com/messages/absent/
 
 1. <b>You <i>must</i> notify</b> - There needs to be a record of why you are absent. Otherwise, you cost other people time and energy. Slack is fine for this.
 
-2. <b>24 Hours Notice</b> - Our Manual states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning. Not as a measure of bureaucracy but of mutual respect and love.
+2. <b>24 Hours Notice</b> - Our Manual states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning - not as a measure of bureaucracy but of mutual respect and love.
 
-3. <b>A few days ahead of time, commensurate with team productivity</b> - Telling people 3 months ahead of time you will not be available does not help. Warn people in reaonable measure with the anticipated activity.
+3. <b>Notification a few days ahead of time is commensurate with team productivity</b> - Telling people 3 months ahead of time that you will not be available does not help. Warn people in reaonable measure with the anticipated activity.
 
 4. <b>You do not need to watch this channel unless you need to watch this channel</b> - Do not follow the channel unless you need to. You should not need to follow the channel (Cost of Chaos!), but rather, go in and look if you are wondering where people are. Exclusions are communication hubs, i.e. Front Desk.
 
+5. <b>Reach out to critical people in your warning</b> - Make sure you reach out to people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
 
-5. <b>Call out critical people in your warning</b> - Make sure you call out people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
+6. <b>Tell people why</b> - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
 
-6. <b>Tell people why</b> - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something. An issue such as "I am having an emergency bypass", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
-
-#### Example of Appropriate Messages:
+#### Examples of Appropriate Messages:
 
 - "Reminder: I will be out for a doctor's appointment tomorrow after 3:00pm. Just a checkup. Call or Slack with emergencies 905-392-6997 ATTN: @Kevin"
-- "I have a migraine so I need to go home. I should be in tomorrow. My migraines usually only last a day. Slack only, I will check when the pain subsides. ATTN: @Jim"
+- "I have a migraine, and so, I need to go home. I should be in tomorrow. My migraines usually only last a day. Slack only, I will check in when the pain subsides. ATTN: @Jim"
 
 ####Some reminders for all involved:
 
 - If you are sick, get better. If you need to go to a doctor or dentist, do not wait. We work around one another.
 - Working from home is a privilege, not a right. Not being here makes you more difficult to communicate with and less likely to help Treefrog and yourself be successful. Only work from home if it is absolutely necessary, not because it would be nice.
-- Getting an appointment late or early in the day is usually achieved by simply asking for it, saving you a complete-day-meltdown. Ask for it, and come to work for as long as possible.
+- Getting an appointment late or early in the day is usually achieved by simply asking for it. This saves you from a complete-day-meltdown. Ask for it, and come to work for as long as possible.
 
-We do not want Treefrog to be antagonistic towards life. However, we do not want life to be antagonistic towards Treefrog. These things can and should be in harmonious balance and can be achieved through communication to the right people at the right time.
+We do not want Treefrog to be antagonistic towards life. However, we do not want life to be antagonistic towards Treefrog. These can and should be in harmonious balance and can be achieved through communication to the right people at the right time.
 
 
 
