@@ -30,5 +30,3 @@ If you are confused by this section, you should not be making decisions, comment
 If you are in a public bathroom and you think a stranger's gender does not match the sign on the door, follow these steps:
 
 1. Do not worry about it - he or she knows better than you.
-
-
