@@ -1,29 +1,19 @@
-# Sick (aka "Emergency Reserve Personal Days")
+# Sick
 
-> Three (3) sick days is an acceptable industry norm. If you need more than this, we need to talk about how we can help you improve your health. We want healthy Frogs!
+> Five (5) sick days is an acceptable industry norm. If you need more than this, we need to talk about why.
 
-A sick day is just a Personal Day kept in reserve for emergencies, requiring a Doctor's Note.
+During the first three (3) months of continuous service, new employees, no sick time will be granted. Therefore, Frogs will not be paid for time-off due to sickness.
 
-As per the [Personal Day]() accrual, sick days are accrued through months of service, up to a maximum of 3 emergency reserved sick days. 
+After the first three months, Frogs will be permitted five (5) sick days per year with pay. In cases where the Frog takes three (3) or more days continuous sick leave, written documentation from their doctor, doctor’s note, must be given to his or her manager for manager's file.
 
-| Years at Treefrog    | Accumulated Days | Time to Accumulate 3 Sick Days |
-|----------------------|:----------------:|:------------------------------:|
-| First Year           | .5               | 6 Months                       |
-| 2-1000 Years         | 1                | 3 Months                       |
-
-Frogs will not be paid for time-off due to sickness in their first 3 months. However, if you get sick in your first 3 months, you can take a day off with a Doctor's Note - you just don't get paid for it. 
-
-Once Sick Days (and eventually Personal Days) have been accrued, should a person take the day off sick, a accrued day is removed from their accrued amount of days - starting with whatever Personal Days are available.
-
-Should only 3 accrued days or less remain ("Remaining Accrued Sick Days"), the remaining days are now used. Note that these are *not equivalent to Personal Days* - they are in case you get really, truly sick - so they must be accompanied by a Doctor's note.
-
-Should you have no sick or Personal Days remaining and need to take a sick or Personal Day of any form, you will not be paid. In the absence of a Doctor's note, this is grounds for immediate dismissal. A meeting with the Pod Leader and CEO should happen immediately upon your return.
+Should a Frog require or take more than five days per year without written documentation and/or Treefrog’s approval, Frogs will not be paid for time-off due to sickness.
 
 Part-time and temporary Frogs will not be paid for sick time.
 
-Frogs cannot carry over unused sick days or trade them for vacation time.
+Frogs cannot carry over unused sick leave days or trade them for vacation time.
 
 If you take a sick day, you need to log it at http://holidays.treefrog.ca or contact Tina so she can update it for you.
+
 
 ### Get Better, For Goodness' Sake
 
@@ -55,11 +45,11 @@ Different types of sicknesses have different policies:
 
 ##### Broken/Busted
 
-- We will work with you, within reason, to get you well and back to work as soon as possible. Ideally, you work as much as you can while getting better.
+We will work with you, within reason, to get you well and back to work as soon as possible. Ideally, you work as much as you can while getting better.
 
 ##### Bummed Out
 
-- See [Work From Home](manual/workfromhome)
+See [workfromhome](manual/workfromhome)
 
 ### Kids/Parents and Sickness
 
@@ -68,8 +58,6 @@ We love kids, and having a sick kid sucks. It happens to parents as well. The Tr
 Make sure that you are capable of being at least 75% productive while your kid is sick and work from home. If you cannot get work done because your kid is that sick, take a sick day. Make sure you communicate effectively to the rest of the team what you are doing and do not let it cripple your productivity. Problem solved.
 
 Of course, if your kid is sick, it means you are going to get sick and that may mean the whole team is going to get sick as a result. Therefore, think hard about what you are doing for the next week, and ensure that you are prepared for the inevitable.
-
-- See [Work From Home](manual/workfromhome)
 
 ### Partial Days
 
@@ -84,7 +72,4 @@ Even easier, if you want to work a half-day because you are looking after a love
 
 If you are sick but are still able to work from home, you may request a “Frog blog day” and blog from home. You must track your time on “Frog web” if you are blogging.
 
-
-Be sensitive to the fact that you have a brain-related job and sickness prevents you from doing your job properly. Do not, for example, lick the walls, or kiss random sick people. Tina needs to be emailed or copied directly if you are sick. She is responsible for updating sick time in the holiday system and Frogweb. Tina needs to know if you take a full sick day or partial so she can update your hours accurately in Frogweb. If you are absent for 3 consecutive sick days, you are technically required to provide a doctor’s note. Also, we may want to have a discussion about EI if you are going to be sick for a while. We pay into it so we should take advantage of it. Part time Frogs are not eligible for sick benefits.
-
-
+* Be sensitive to the fact that you have a brain-related job and sickness prevents you from doing your job properly. Do not, for example, lick the walls, or kiss random sick people. Tina needs to be emailed or copied directly if you are sick. She is responsible for updating sick time in the holiday system and Frogweb. Tina needs to know if you take a full sick day or partial so she can update your hours accurately in Frogweb. If you are absent for 3 consecutive sick days, you are technically required to provide a doctor’s note. Also, we may want to have a discussion about EI if you are going to be sick for a while. We pay into it so we should take advantage of it. Part time Frogs are not eligible for sick benefits.
