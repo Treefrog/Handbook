@@ -10,11 +10,13 @@ The following statutory holidays are observed by the company:
 - Good Friday (Friday before Easter)
 - Victoria Day (Monday before May 25th)
 - Canada Day (July 1st, except if on a Sunday)
-- Simcoe Day (First Monday in August)
+- Simcoe Day (First Monday in August)*
 - Labour Day (First Monday in September)
 - Thanksgiving Day (Second Monday in October)
 - Christmas Day (December 25)
 - Boxing Day (December 26)
+
+*Technically, Simcoe Day is a Civic holiday, not a statutory holiday, but we observe it anyway. We *do not* observe a second day during the Easter Holidays.
 
 Requests for time off for observances of other religious holidays must be submitted in writing. Approval is at the discretion of Treefrog.
 
