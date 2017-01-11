@@ -32,9 +32,6 @@ During the first six (6) months of continuous service for new employees, no vaca
 | 3 to 10 years        | Paid Salary                | 15 days                  |
 | 10 to 20 years       | Paid Salary                | 20 days                  |
 
-#### When will I be eligible to receive holiday pay?
-
-Frogs will receive payment for holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive.
 
 ### Vacation Calendar
 

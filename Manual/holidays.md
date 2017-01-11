@@ -3,7 +3,7 @@
 > We take holidays when the government says we should.
 > And we additionally celebrate Frogness.
 
-The following statutory holidays are observed by the company:
+The following Ontario statutory holidays are observed by the company:
 
 - New Years Day (January 1st)
 - Family Day (Third Monday in February)
@@ -28,11 +28,11 @@ With previous consent from your Pod Leader, you may take an alternate day than t
 
 ### The Walk the Parade Rule
 
-A Pod member can request a super-special recognition from their Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. Technically, if you don't celebrate the event you shouldn't get the holiday. Just because you don't celebrate a certain recognized religious holiday, doesn't mean it is "fair" to get alternative time off - you aren't walking in the parade. It's not "free time". It's "time to support the religious or cultural event" as demanded by the regulations of the state.
+A Pod member can request a super-special recognition from their Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. Technically, if you don't celebrate the event you shouldn't get the holiday. Just because you don't celebrate a certain recognized religious holiday, doesn't mean it is "fair" to get alternative time off - you aren't walking in the parade. It's not "free time". It's "time to support the religious or cultural event" as demanded by the regulations of the Province.
 
 ### International Holidays
 
-We observe Canadian Holidays only.
+We observe Ontario Provincial Holidays only, because all of our employees currently work in Ontario.
 
 ### Other Holidays or Special Requests
 
@@ -70,6 +70,12 @@ Celebrations we will and will not participant in are as follows:
 *St Patrick's Day is not a religious holiday. It's a day where everyone is Irish.
 
 
+
+
+
+#### When will I be eligible to receive holiday pay?
+
+Frogs will receive payment for Holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive.
 
 
 
