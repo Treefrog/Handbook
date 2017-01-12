@@ -15,7 +15,7 @@ Treefrog believes that a fair and just disciplinary process is based on three fo
 The following outlines our progressive discipline procedures:
 
 1. **1st occurrence: *Verbal Counselling*** - Details of the verbal counselling may be documented and kept in the Frog's personnel file or kept in follow-up emails by the counsellor.
-2. **2nd occurrence: *Written Warning*** - A written account of the performance that needs improvement,the behavior that needs correcting, and the Frog’s personal plan of action to improve.
+2. **2nd occurrence: *Written Warning*** - A written account of the performance that needs improvement, the behavior that needs correcting, and the Frog’s personal plan of action to improve.
 3. **3rd occurrence: *Suspension*** - 1 to 3 unpaid days, depending on the individual situation. This time should be used by the Frog to consider whether he or she chooses to improve his or her performance and/or correct his or her behavior. Upon completion of the suspension, the Frog will return to work and review his or her plan of action with the CEO.
 4. **4th occurrence: *Termination of Employment***.
 
