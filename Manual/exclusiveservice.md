@@ -17,7 +17,7 @@ If you are doing work after hours that is unrelated to your work at Treefrog, th
 3. **For a Good Cause** - You are doing work that Treefrog would usually do, but you have rationalized doing it for a “family member”, or a “not for profit”, or because “the client could not afford Treefrog’s pricing”, or you feel obligated to do it for the individual because of your relationship with them. You could be doing it for free, or for pay, or for free for someone else who is getting paid, such as, a family member.
 4. **Competitive Conflict of Interest** - You are doing work for someone whose work "could have been done by Treefrog" for pay.
 5. **Direct Conflict of Interest** - You are doing work for one of our clients on the side.
-6. **Community Support** - You are working for a not for profit on the side to help the community to do work that does not create a conflict of interest with Treefrog’s products or services (i.e. handing out hotdogs).
+6. **Community Support** - You are working for a not for profit on the side to help the community to do work that does not create a conflict of interest with Treefrog’s products or services (i.e. handing out hotdogs, or Run for the Cure).
 7. **Religious Activity Work** - Not relevant.
 
 Note that our contracts are very clear on the matter - you have agreed to “exclusive service” with Treefrog, and any work you do on the side is grounds to lose your job without warning. We are not an hourly-pay company. We pay you a salary for your time and energy with lots of bells and whistles, and the expectation is that all of your energy belongs to Treefog.
