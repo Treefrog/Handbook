@@ -20,7 +20,7 @@ Take breaks regularly!
 
 #### Coffee Breaks
 
-Treefrog does not standardize coffee breaks to two 15 minute breaks like most manufactories. An employees may take breaks for tea/coffee/smoking at his or her discretion based on his or her individual work schedules.
+Treefrog does not standardize coffee breaks to two 15 minute breaks like most manufactories. An employee may take breaks for tea/coffee/smoking at his or her discretion based on his or her individual work schedule.
 
 You are not paid for the time during which you are taking a break.
 
