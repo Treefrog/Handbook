@@ -2,7 +2,7 @@
 
 > Consistently working more than 44 hours a week will cause you to burnout and that is not in the best interests for you or Treefrog.
 
-In accordance with the [Ontario Employment Standards Act](http://www.ontario.ca/laws/regulation/010285), [Information Technology Professionals](Information Technology Professionals), and managers ([Pod Champions](Pod Champions), everyone in the company unless explicitly identified, is not entitled to overtime pay.
+In accordance with the [Ontario Employment Standards Act](http://www.ontario.ca/laws/regulation/010285), [Information Technology Professionals](Information Technology Professionals), and managers ([Pod Champions] (Pod Champions)), everyone in the company unless explicitly identified, is not entitled to overtime pay.
 
 Positions that are not IT or managerial in nature are potentially eligible for overtime pay. This must be clearly agreed upon in advance and in writing and should not be regarded as the default. Roles explicitly identified for overtime pay would not be salaried and would have a lot less flexibility than currently available to regular Frogs.
 
