@@ -14,7 +14,7 @@ All dental and health forms should be submitted directly to the provider and dir
 
 ### Everyone Must Comply
 
-Not only because our benefits providers require it but also because we genuinely want people to be happy and healthy, we are not going to help you avoid the system just because you think you are bullet-proof or luckier than other people. 
+Not only because our benefits providers require it but also because we genuinely want people to be happy and healthy. We are not going to help you avoid the system just because you think you are bullet-proof or luckier than other people. 
 
 Everybody gets sick. Everybody has issues. We want everyone to be protected.
 
