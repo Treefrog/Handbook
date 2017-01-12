@@ -27,7 +27,7 @@ Let us see where this new system leads us.
 
 Firstly, if it causes you an iota of professional embarrassment, it is probably a mistake. Some other examples:
 
-1. **Big Visual Issues** - If the client can find it in 30 seconds, gimme a break.
+1. **Big Visual Issues** - If the client can find it in 30 seconds, not acceptable.
 2. **Bugs** - If there is a bug in your code where something does not work the way it was intended and you send it to the client, this is a blatant mistake. The client should not pay for a mistake. 
 3. **Omissions** - A missing piece of critical functionality, no matter how you spin it, is a mistake. If you do not catch it and fix it, it is your mistake. A missing section in a design is also your mistake. A missing article or missing content - you get the picture. You are a professional. You are a Frog. You should be able to look at the project and take ownership of what it should be.
 4. **Spelling Mistakes** - Everyone in this company can spell. If you are having a bad day, have a second set of eyes look at it.
