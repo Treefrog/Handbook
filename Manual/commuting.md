@@ -18,6 +18,6 @@ It is safer and better if you live close to Treefrog for a number of reasons:
 - **You are part of our Family** - You will be more likely to interact with other Frogs in your extra time. This will better connect you with the rest of the team.
 - **Emergencies Arise** - You can get home faster in an emergency - like severe diarrhea.
 
-Treefrog will actively promote your living closer in any reaonable way possible (helping you move!), and additionally, Treefrog will consider your living proximity to Treefrog when hiring you for the reasons stated above.
+Treefrog will actively promote your living closer in any reasonable way possible (helping you move!), and additionally, Treefrog will consider your living proximity to Treefrog when hiring you for the reasons stated above.
 
 
