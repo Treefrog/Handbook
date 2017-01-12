@@ -8,7 +8,7 @@ Productivity is the same. You can sit in your chair, bothered all day long by th
 
 We need blocks of 3 hours of productivity, or more, to accomplish major tasks well.
 
-There is additional the double-edged sword in that we have a very open and transparent culture and a sardine-tin like desk environment. There are no cubicles here. Cubicles forcibly enhance productivity while simultaneously crushing your soul and creativity. We naturally bug one another all day and want to stay open for one another as a team, while, at the time, also wanting to accomplish great work.
+There is additionally the double-edged sword in that we have a very open and transparent culture and a sardine-tin like desk environment. There are no cubicles here. Cubicles forcibly enhance productivity while simultaneously crushing your soul and creativity. We naturally bug one another all day and want to stay open for one another as a team, while, at the same time, also wanting to accomplish great work.
 
 We also have a whole whack of methodologies with which we can disturb others: 
 
@@ -60,5 +60,5 @@ More ideas are welcome!
 
 More suggestions are welcome!
 
-Hopefully, with some good ole fashioned Treefrog creativity, these flags will radically help us improve as a team, minimize frustration and maximize job satisfaction and productivity.
+Hopefully, with some good ole fashioned Treefrog creativity, these flags will radically help us improve as a team, minimize frustration, and maximize job satisfaction and productivity.
 

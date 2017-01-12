@@ -7,7 +7,7 @@ There is a strategy as to how we purchase everything. Not everything will fit in
 We purchase the best quality products in the marketplace before the cost curve increases into "unnecessarily expensive" because:
 
 - We expect the product to be more reliable than something cheaper
-- We can expect the product to last longer if it is better of better quality, and this will ensure that we get a longer return on our investment
+- We can expect the product to last longer if it is of better quality, and this will ensure that we get a longer return on our investment
 - There are less setup and admin costs when replacing the product
 - There are less training costs when replacing the product
 - If the product lasts longer, we return less to the garbage. Therefore, we are more environmentally friendly 
@@ -76,7 +76,7 @@ Cash is King in our business, and we are always tight and trying to grow. Theref
 
 Leases, though expensive, keep cash in our bank account and allow us to grow. Leases help our credit rating, help add value to our bottom line, and keep the company moving.
 
-1. **Always Lease to Buy for $1** - This way, we can eith sell the product or keep it longer than expected.
+1. **Always Lease to Buy for $1** - This way, we can sell the product or keep it longer than expected.
 2. **Bundle Leases for Common Business Units** - Small leases get lost in adminstration, and we end up paying the lease by mistake years later. Fewer leases mean less administrative mistakes. 
 3. **Check all Lease Options before Leasing** - Leasing people have no soul. Make sure you check the numbers with multiple lease people before signing anything.
 

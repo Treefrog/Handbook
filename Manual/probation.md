@@ -4,7 +4,7 @@ Upon hiring, you will be asked to sign an offer of employment that cites certain
 
 ### Getting to know us
 
-All new Frogs will participate in an orientation session prior to their official start date. At this time, the handbook and company's policies and procedures will be explained and any necessary paperwork will be completed. We will discuss company values and goals, and we will review your job description and work standards.
+All new Frogs will participate in an orientation session prior to their official start date. At this time, the Manual and company's policies and procedures will be explained and any necessary paperwork will be completed. We will discuss company values and goals, and we will review your job description and work standards.
 
 ### Probationary Period
 
