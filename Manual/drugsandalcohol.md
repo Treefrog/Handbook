@@ -18,7 +18,7 @@ Seriously people? There are never, ever, to ever be illegal substances on the pr
 
 This could end Treefrog - not just our reputation, but our business. We have zero tolerance of this.
 
-The fact that a section on this needs to be included makes me crazy.
+The fact that a section on this needs to be included is crazy.
 
 ### After Hours Events - Alcohol
 
