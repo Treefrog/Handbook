@@ -10,7 +10,7 @@ Meal breaks are <b>not</b> paid for by Treefrog. The standard allotted time for 
 
 External meetings, such as, client or networking meetings, where a meal is provided as part of the meeting, are considered to be the standard meal break.
 
-If you qualify as an [information-technology-professional](manual/information-technology-professional.md) or [manager](manual/manager.md), you may choose to work through this lunch while at your desk and continue your work. By not taking an official break, you may reduce the [hours](manual/hours) you are physiaclly at Treefrog. It is our recommendation that you take a break, regardless of how short it is, and stretch your legs. The option exists for your convenience and overall efficiency.
+If you qualify as an [information-technology-professional](manual/information-technology-professional.md) or [manager](manual/manager.md), you may choose to work through this lunch while at your desk and continue your work. By not taking an official break, you may reduce the [hours](manual/hours) you are physically at Treefrog. It is our recommendation that you take a break, regardless of how short it is, and stretch your legs. The option exists for your convenience and overall efficiency.
 
 Meeting during lunch <i>can</i> count as "working time". Providing the material covered during the meeting is exclusively work related. This is a great way to work on a collaborative team project, if you have one, without losing efficiency.
 
@@ -20,7 +20,7 @@ Take breaks regularly!
 
 #### Coffee Breaks
 
-Treefrog does not standardize coffee breaks to two 15 minute breaks like most manufactories. An employee may take breaks for tea/coffee/smoking at his or her discretion based on his or her individual work schedule.
+Treefrog does not standardize coffee breaks to two 15 minute breaks like most factories do. An employee may take breaks for tea/coffee/smoking at his or her discretion based on his or her individual work schedule.
 
 You are not paid for the time during which you are taking a break.
 
