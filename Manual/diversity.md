@@ -6,7 +6,7 @@ We celebrate diversity and embrace the creativity that comes from being open to 
 
 ### Equal Opportunity
 
-Treefrog maintains a policy of non-discrimination for all Frogs and job applicants. This includes, but is not limited to, recruitment, hiring, training, promotion, compensation, benefits, and all terms of employment. We will not discriminate on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed (religion), gender, sexual orientation, age, record of offences, marital status, family status (being in a parent-child relationship), disability, or any other grounds prohibited by the Ontario Human Rights Code. All aspects of employment will be governed on the basis of individual experience, skills, ability, attitude, and potential, without bias or prejudice.
+Treefrog maintains a policy of non-discrimination for all Frogs and job applicants. This includes, but is not limited to, recruitment, hiring, training, promotion, compensation, benefits, and all terms of employment. Applications are encouraged from all persons including persons with disabilities and all persons will be made aware that accommodations are avaailable, if required. We will not discriminate on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status, disability, or any other grounds prohibited by the applicable Human Rights legislation. All aspects of employment will be governed on the basis of individual experience, skills, ability, attitude, and potential, without bias or prejudice.
 
 ### Gender Discrimination vs. Recognition
 
