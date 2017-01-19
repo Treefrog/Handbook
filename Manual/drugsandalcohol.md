@@ -24,9 +24,9 @@ The fact that a section on this needs to be included is crazy.
 
 We do, sometimes, serve alcohol to people who do not work here.
 
-Make sure they are always served by someone with a Smart Serve certification, and do not let them drive home.
+Make sure they are always served by someone with a [**Smart Serve**](http://www.smartserve.ca) certification, and do not let them drive home.
 
-### SmartServe Certification
+### [**Smart Serve**](http://www.smartserve.ca) Certification
 
-Ideally, everyone should get trained in SmartServe.
+Ideally, everyone should get trained in [**Smart Serve**](http://www.smartserve.ca).
 
