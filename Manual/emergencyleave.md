@@ -11,8 +11,7 @@ Treefrog is aware that things happen and time off is sometimes needed. Therefore
 5. A relative of the employee who is dependent on the employee for care or assistance
 6. Any person who lives with the employee as a member of the family
 
-
-*Note: “spouse” includes both married and common-law couples of the same sex or the opposite sex.
+**Note: “spouse” includes both married and common-law couples of the same sex or the opposite sex.*
 
 Under special circumstances, bereavement leave may be granted upon the passing of a significant person in the individual’s life who is not an immediate family member. Bereavement leave under these circumstances must be applied for in advance and approved by the individual’s manager. This does not usually apply to third-party relationships, such as, the passing away of a friend's friend.
 
