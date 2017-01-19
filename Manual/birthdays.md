@@ -2,7 +2,7 @@
 
 > Treefrog does not celebrate birthdays. We celebrate Frogaversaries.
 
-Treefrog does not formally celebrate birthdays (read <i>"Pay for the celebration or manage the celebration"</i>) as a matter of tolerance to Frogs who do not actively celebrate birthdays. Our workplace is a place where all parties can find safety and happiness and are treated equally.
+Treefrog does not formally celebrate birthdays (read *"Pay for the celebration or manage the celebration"*) as a matter of tolerance to Frogs who do not actively celebrate birthdays. Our workplace is a place where all parties can find safety and happiness and are treated equally.
 
 However, we do celebrate "Frogaversaries", the yearly date upon which you became a Frog.
 
