@@ -2,7 +2,7 @@
 
 > We want all Frogs to be healthy and protected from harm.
 
-<i>Sickness and bad things happen to good people. We should accept this and try to leverage the size of Treefrog to help the whole team look and feel better as much as we can.</i>
+*Sickness and bad things happen to good people. We should accept this and try to leverage the size of Treefrog to help the whole team look and feel better as much as we can.*
 
 The following is a brief description of Treefrog’s benefit program. Upon eligibility, you will receive a more detailed and comprehensive package. All full-time Frogs are eligible to participate in the program following his or her 3-month observation period. Participation in the program is mandatory unless proper documentation is provided detailing involvement in a spouse’s benefit plan. Benefit programs are in place for:
 
@@ -26,7 +26,7 @@ These voting realities do need to be balanced with the capacity of the company t
 
 ### Use Benefits When Appropriate, Not Just Because
 
-One often forgotten reality is that <i>benefit rates are commensurate with usage</i>. This point is not made to deter your use of preventative and appropriate preventative measures, for example, massage therapy or naturopathy, but rather, to be reaonable in your use of said services commensurate with your needs. 
+One often forgotten reality is that *benefit rates are commensurate with usage*. This point is not made to deter your use of preventative and appropriate preventative measures, for example, massage therapy or naturopathy, but rather, to be reaonable in your use of said services commensurate with your needs. 
 
 In other words, there is a net effect to the whole team if you abuse the system. Therefore, do not abuse the system.
 
@@ -34,4 +34,4 @@ In other words, there is a net effect to the whole team if you abuse the system.
 
 1. We had a Frog who voted that Long Term Disability was a waste of money and soon after developed cancer. Ironically, the lack of LTD required the person to quit and pursue an alternate career.
 
-2. We had a Frog suggest that <i>"There are only 7 days left in the calendar year! Everyone should go and get as many massages as possible!"</i>. Yes, massage therapy is good for you, can reduce stress, and can be a preventative to future issues. However, getting 5 massages in 7 days does not exponentially improve your health. Please be aware that the sudden influx of unnecessary massages increased our individual rates by $7 each the next year. Ironically, this situation caused everyone increased stress and thus, the need for massages. <i>Use the appropriate health professionals when appropriate.</i>
+2. We had a Frog suggest that *"There are only 7 days left in the calendar year! Everyone should go and get as many massages as possible!"*. Yes, massage therapy is good for you, can reduce stress, and can be a preventative to future issues. However, getting 5 massages in 7 days does not exponentially improve your health. Please be aware that the sudden influx of unnecessary massages increased our individual rates by $7 each the next year. Ironically, this situation caused everyone increased stress and thus, the need for massages. *Use the appropriate health professionals when appropriate.*
