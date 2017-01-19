@@ -2,15 +2,15 @@
 
 > You only have ONE job.
 
-Employment with Treefrog is on an "Exclusive Service" basis. This means that a Treefrog employee cannot preform work, paid or not paid, for a client or for himself or herself "after hours". This is known as "moonlighting".
+Employment with Treefrog is on an "Exclusive Service" basis. This means that a Treefrog employee cannot preform work, paid or not paid, for a client or for himself or herself "after hours". This is known as ["moonlighting"](conflictofinterest.md).
 
-As Treefrog is a service business with flexible hours, offering multiple products and services, we represent dozens of skills and disciplines. This is a fairly complex issue with many variables. It would be a bureaucratic nightmare to police or describe all of the specifics of this policy. Therefore, we make it simple - do not moonlight.
+As Treefrog is a service business with flexible hours, offering multiple products and services, we represent dozens of skills and disciplines. This is a fairly complex issue with many variables. It would be a bureaucratic nightmare to police or describe all of the specifics of this policy. Therefore, we make it simple - do not [moonlight](conflictofinterest.md).
 
 Bottom line, if you are a salaried employee, we pay for your exclusive service at Treefrog, meaning you cannot work elsewhere.
 
-### Types of Moonlighting
+### Types of [Moonlighting](conflictofinterest.md)
 
-If you are doing work after hours that is unrelated to your work at Treefrog, then you are moonlighting. **Some of these are in conflict of interest with Treefrog, and some are not.** This work can fall into a few different areas:
+If you are doing work after hours that is unrelated to your work at Treefrog, then you are [moonlighting](conflictofinterest.md). **Some of these are in conflict of interest with Treefrog, and some are not.** This work can fall into a few different areas:
 
 1. **Second Completely Different Job** - You are doing work completely unrelated to Treefrog. (I.e. being a waitress or an actor).
 2. **Hobby Work** - You have a regular "hobby" on the side that generates regular revenue (i.e. selling soap or selling tupperware). If you do not get paid for it, it is a "hobby" not "hobby work", and thus, not relevant.
