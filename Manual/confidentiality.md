@@ -32,23 +32,23 @@ This includes, but is not limited to, using designs or code in external projects
 
 > Almost everyone gets a laptop. Look after it like an appendage.
 
-<i>For those Frogs that have portable computers, we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off-site locations. If one of our computers came into the wrong hands, it could be severely detrimental to thousands of clients.</i>
+*For those Frogs that have portable computers, we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off-site locations. If one of our computers came into the wrong hands, it could be severely detrimental to thousands of clients.*
 
 All machines will have a software called “Undercover” installed. The software allows us to track our computers and their whereabouts very quickly so that we can notify the police as soon as possible. This knowledge regarding this software and information is to be kept extremely confidential as a closely-held Frog secret.
 
-It is important to know that Treefrog has granted "Undercover" access to your laptop at any time, no matter where you are. In order to make sure this does not represent a violation of your privacy, only two people have acces to this, the IT Person, currently Eric, and the CEO, currently Sean, who will only do so *for testing* with explicit warning and with your explicit permission.
+It is important to know that Treefrog has granted "Undercover" access to your laptop at any time, no matter where you are. In order to make sure this does not represent a violation of your privacy, only two people have access to this, the IT Person, currently Eric, and the CEO, currently Sean, who will only do so *for testing* with explicit warning and with your explicit permission.
 
 ##### Examples
 
 1. We once had a client threaten to sue us because an ex-Frog used the design he or she did, with help from other Frogs, as part of his or her portfolio. The design came up second on Google for the client's company name. Not only did it undermine our work for the client (Treefrog was accused of outsourcing and "ripping the client off"), but the client
 2. We once had a Frog post something to his or her portfolio in which he or she had only been slightly involved. The Frog who did the majority of the work was extraordinarily insulted. His or her relationship with the first designer was permanently damaged. From thereon in, the two designers refused to work as a team.
-3. We once had a Frog use client code in an external project. When the client discovered this, Treefrog received a cease-and-desist. We claimed that it was not the client's code, had it taken down, and let the developer go for [moonlighting](manual/moonlighting.md) with a COI.
+3. We once had a Frog use client code in an external project. When the client discovered this, Treefrog received a cease-and-desist. We claimed that it was not the client's code, had it taken down, and let the developer go for [moonlighting](conflictofinterest.md) with a COI.
 
 #### Why Confidentiality?
 
 There are many reasons why:
 
-- As a Canadian business, we are legally obligated in keeping client's information confidential. [https://www.priv.gc.ca/index_e.asp legally obligated](https///www.priv.gc.ca/index_e.asp legally obligated)
+- As a Canadian business, we are legally obligated in keeping client's information confidential. 
 - Many of the clients we work with are very particular about privacy. Some companies are like this because of their own privacy regulations (e.g. a Hospital) and some because of Intellectual Property (e.g. a start-up). If any information from us leaks 
 
 
