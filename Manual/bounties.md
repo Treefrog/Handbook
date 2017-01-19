@@ -2,7 +2,7 @@
 
 > If you need extra cash, Treefrog will try and help you.
 
-<i>Everyone needs a little cash now and then. Ideally, we have enough extra revenue to afford to have you do out-of-phase projects that benefit Treefrog using your skills, instead of your getting a second job to stay alive.</i> 
+*Everyone needs a little cash now and then. Ideally, we have enough extra revenue to afford to have you do out-of-phase projects that benefit Treefrog using your skills, instead of your getting a second job to stay alive.* 
 
 Treefrog allows for after-hours work to be done by Frogs in order to collect rewards. These bounties are subject to change.
 
