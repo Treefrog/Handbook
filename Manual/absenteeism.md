@@ -2,18 +2,17 @@
 
 > If you are not working when you are reasonably expected to be working, you are absent or late.
 
-<i> In order to be successful as an organization, wherever possible, people need to be contributing consistently at an expected level, or our team suffers. There is a reasonable expectation for our mutual success that you will be working when you say you will be and where you say you will be.</i>
+*In order to be successful as an organization, wherever possible, people need to be contributing consistently at an expected level, or our team suffers. There is a reasonable expectation for our mutual success that you will be working when you say you will be and where you say you will be.*
 
-
-Treefrog has [flexible hours](hours#flexible_hours) for most positions with the exception of positions that are critical to client-facing localized hours (e.g. tech support, front desk, etc.) for reasons of [customer-service](manual/customer-service.md). However, if you have set an expectation to be at Treefrog at a certain time, other Frogs will be counting on you being there. By not being available when you have promised to be, you increase the [cost-of-chaos](manual/cost-of-chaos.md) and reduce the overall effectiveness of the team.
+Treefrog has [flexible hours](hours.md) for most positions with the exception of positions that are critical to client-facing localized hours (e.g. tech support, front desk, etc.) for reasons of [customer-service](manual/customer-service.md). However, if you have set an expectation to be at Treefrog at a certain time, other Frogs will be counting on you being there. By not being available when you have promised to be, you increase the [cost-of-chaos](manual/cost-of-chaos.md) and reduce the overall effectiveness of the team.
 
 Frogs are responsible for contacting his or her [Pod Champion](manual/pod-champion.md) before the start of the Pod Champion's regular committed hours if a Frog is going to be absent or late. Frogs can be absent or late because of any of the following:
 
-1. [Sickness](manual/sickness.md)
-2. An [emergency](manual/emergency.md) (an accident)
-3. Inclement [weather](manual/weather.md)
+1. [Sickness](sickdays.md)
+2. An emergency (an accident)
+3. Inclement weather
 4. Traffic issues
-5. Child or pet-related illness or emergency
+5. Child or pet-related [illness](sickdays.md) or [emergency](emergencyleave.md)
 6. etc.
 
 Many of these specifics are covered within its own section of the Manual.
@@ -36,19 +35,19 @@ Absence due to tardiness must be made up based on a schedule approved by your Po
 
 If you are going to be late, need to take moments off, or feel sick, etc, please make a point of letting the team know in the below channel on Slack:
 
-https://treefrog.slack.com/messages/absent/
+[Absent Channel](https://treefrog.slack.com/messages/absent/)
 
-1. <b>You <i>must</i> notify</b> - There needs to be a record of why you are absent. Otherwise, you cost other people time and energy. Slack is fine for this.
+1. **You *must* notify** - There needs to be a record of why you are absent. Otherwise, you cost other people time and energy. Slack is fine for this.
 
-2. <b>24 Hours Notice</b> - Our Manual states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning - not as a measure of bureaucracy but of mutual respect and love.
+2. **24 Hours Notice** - Our Manual states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning - not as a measure of bureaucracy but of mutual respect and love.
 
-3. <b>Notification a few days ahead of time is commensurate with team productivity</b> - Telling people 3 months ahead of time that you will not be available does not help. Warn people in reaonable measure with the anticipated activity.
+3. **Notification a few days ahead of time is commensurate with team productivity** - Telling people 3 months ahead of time that you will not be available does not help. Warn people in reaonable measure with the anticipated activity.
 
-4. <b>You do not need to watch this channel unless you need to watch this channel</b> - Do not follow the channel unless you need to. You should not need to follow the channel (Cost of Chaos!), but rather, go in and look if you are wondering where people are. Exclusions are communication hubs, i.e. Front Desk.
+4. **You do not need to watch this channel unless you need to watch this channel** - Do not follow the channel unless you need to. You should not need to follow the channel (Cost of Chaos!), but rather, go in and look if you are wondering where people are. Exclusions are communication hubs, i.e. Front Desk.
 
-5. <b>Reach out to critical people in your warning</b> - Make sure you reach out to people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
+5. **Reach out to critical people in your warning** - Make sure you reach out to people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
 
-6. <b>Tell people why</b> - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
+6. **Tell people why** - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
 
 #### Examples of Appropriate Messages:
 
