@@ -8,8 +8,8 @@ Treefrog allows for after-hours work to be done by Frogs in order to collect rew
 
 ###Current Bounties Available
 
-1. **Smart Serve** - Smart Serve certification is open to everyone.
-2. **Google Certification** - 
+1. [**Smart Serve**](http://www.smartserve.ca) - Smart Serve certification is open to everyone.
+2. [**Google Certification**](https://support.google.com/partners/answer/3154326?hl=en) - 
 
 Bounties are only paid out if you do these on your own time or if your role at Treefrog does not require that the goals of these bounties need to be completed. 
 
