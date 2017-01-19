@@ -2,17 +2,17 @@
 
 > Keep your stuff at home and Treefrog's stuff at Treefrog.
 
-<i>Best to not mix personal items with Treefrog items if at all possible. Best not to take home <b>anything</b> belonging to Treefrog for personal use without explicit permission.</i>*
+*Best to not mix personal items with Treefrog items if at all possible. Best not to take home **anything** belonging to Treefrog for personal use without explicit permission*
 
 *This obviously does not apply to laptops.
 
 Frogs are discouraged from bringing personal items to the workplace. If necessary, only the minimal amount of personal belongings should be kept at the workplace, and it is the Frog’s responsibility to keep his or her belongings in a secure location. Treefrog will not accept responsibility for lost, stolen, or damaged personal articles. This includes the use of your own personal devices at work.
 
-If you need something at work required to do your job, <b>Treefrog should be buying it for you</b>. You should not have to buy the item yourself. If there is something <i>absolutley required</i> to do your job, ask Treefrog to provide it.
+If you need something at work required to do your job, **Treefrog should be buying it for you**. You should not have to buy the item yourself. If there is something *absolutley required* to do your job, ask Treefrog to provide it.
 
 This does not apply to specialty items, especially food.
 
-If there is an item that you own that is at Treefrog under extenuating circumstances, <b>make sure it is marked clearly with your name on it</b>, like your mother used to do with your underwear. Then we know it is yours.
+If there is an item that you own that is at Treefrog under extenuating circumstances, **make sure it is marked clearly with your name on it**, like your mother used to do with your underwear. Then we know it is yours.
 
 One place where this breaks down is in items you use for commuting or dual-purposes (e.g. headphones). Best case scenario, get two pairs. Use one pair for when you are at work that Treefrog will provide because you need noise reduction while working. Once you get to work, lock up your personal pair and then take them home when you leave.
 
