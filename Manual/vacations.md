@@ -8,7 +8,7 @@ Every Frog has the same amount of vacation: 2 weeks (or 10 working days).
 
 Vacations will be allotted on a **first-come, first-served** basis, subject to Treefrog’s approval. All vacation requests must be submitted via the vacation system at least **2 weeks prior** to the start of the vacation time, to ensure the company can make up for your absence. Treefrog has the sole discretion to approve or decline the requested vacation dates, based on the impact to company deliverables. *But we will do everything reasonable to accomodate you, providing it doesn't hurt others or damage Treefrog.
 
-By law, Frogs must take a minimum of **5 consecutive days** vacation in any calendar year. The remainder of the allotted vacation days may be taken in subsequent requests consisting of (but not limited to) shorter periods.
+By law, Frogs are encouraged take a minimum of **5 consecutive days** vacation in any calendar year. However, Frogs may request a single day in writing pending approval of the CEO.  The remainder of the allotted vacation days may be taken in subsequent requests consisting of (but not limited to) shorter periods.
 
 Frogs should also NOT take more than 5 consecutive days if possible, to minimize the exhaustion of other team members supporting their absence. Holidays over 5 days should be discussed in detail with your Pod leader before approval.
 
@@ -31,11 +31,11 @@ Every Frog will get
 
 ### Carry Over Time
 
-You should take vacation days during the calendar year in which it is earned. However, unused vacation days may be carried over so that an employee may have a maximum of one additional week (more than they are entitled too) in any one year.
+You should take vacation days during the calendar year in which it is earned. However, unused vacation days may be carried over so that an employee may have a maximum of one additional week (more than they are entitled to) in any one year.
 
 1. Permission to carry over any unused vacation time must be requested prior to the start of a new calendar year.
 2. Should a Frog carry over vacation time from one year to the next, at the time permission is requested to carry such time over, the Frog must provide Treefrog with a timeframe as to when said vacation time shall be used.
-3. Pay in lieu of unused vacation will not be offered, except as required by law under termination circumstances. If you don't take your holidays and then cease to be employed by Treefrog, you don't get paid out for your holiday.
+3. Anything in excess of 10 days that has been carried over and not used by the pre-determined timeframe will be lost and not compensated. Upon termination of employment, an employee shall receive vacation pay for any accrued but unused vacation. If the employee terminates from the company with a negative vacation balance, their final pay cheque will be reduced by those hours/days taken in advance.   As per the Ontario Employment Standards Act, 2000, an employee shall not receive less than 4% of gross wages in vacation pay for any unused vacation.  
 
 You are responsible to schedule your own holidays. If you feel pressured by Treefrog in any way to *not* take your holiday, please send it in writing directly to the CEO, who will help you manage it accordingly. Everybody needs a break.
 
@@ -52,10 +52,6 @@ During the first six (6) months of continuous service for new employees, no vaca
  | 10 to 20 years       | Paid Salary                | 20 days                  |
 
 
-#### When will I be eligible to receive holiday pay?
-
-Frogs will receive payment for holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive.
-
 ### Vacation Calendar
 
 Vacation requests are to be logged in the holiday system (http://holidays.treefrog.ca). Everyone can see a full calendar with all Frogs' time that has been booked off tentatively (orange), and approved (green). You must go into the calendar and select the time off you are requesting. Your Champion will view your request and approve or decline your request based on staffing and company deliverables. All vacation requests must be submitted in the tracking system at least 2 weeks prior to the start of your request.
@@ -66,7 +62,7 @@ Some Frogs hired from other companies who already had earned holidays through lo
 
 After three years, these holidays become regular holiday days - they do not get appended, but resolved into the regular calendar.
 
-On termination of employment, "holiday days" accrued as "education days" are not payable.
+On termination of employment, "education days" unused are not payable.
 
 These days are not for public discussion and may only be granted by the CEO during initial contractual negotiation before starting at Treefrog.
 

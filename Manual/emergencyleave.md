@@ -2,21 +2,24 @@
 
 > If your family member dies, you should take a break and mourn.
 
-Treefrog is aware that things happen and time off is sometimes needed. Therefore, it is Treefrog’s policy to provide up to three (3) days paid leave to a Frog for emergency leave due to: death, illness, injury, medical emergency, or urgent matter relating to the following family members:
+Treefrog is aware that things happen and time off is sometimes needed. Therefore, it is Treefrog’s policy to provide up to five (5) days paid leave to a Frog for Personal illness, injury or medical emergency, or 
+Death, illness, injury, medical emergency or urgent matter relating to the following frog family members:
 
 1. A spouse*
-2. A parent, step-parent, foster parent, child, step-child, foster child, grandparent, step-grandparent, grandchild or step-grandchild of the employee or the employee's spouse
-3. The spouse of an employee's child
-4. A brother or sister of the employee
-5. A relative of the employee who is dependent on the employee for care or assistance
-6. Any person who lives with the employee as a member of the family
+2. A parent, step-parent, foster parent, child, step-child, foster child, grandparent, step-grandparent, grandchild or step-grandchild of the frog or the frog's spouse
+3. The spouse of an frog's child
+4. A brother or sister of the frog
+5. A relative of the frog who is dependent on the frog for care or assistance
+6. Any person who lives with the frog as a member of the family
 
 
 *Note: “spouse” includes both married and common-law couples of the same sex or the opposite sex.
 
 Under special circumstances, bereavement leave may be granted upon the passing of a significant person in the individual’s life who is not an immediate family member. Bereavement leave under these circumstances must be applied for in advance and approved by the individual’s manager. This does not usually apply to third-party relationships such as the passing away of a friend's friend.
 
-You cannot carry over unused emergency leave days.
+Frogs will not be compensated for any unused emergency leave days nor may they be carried over to the next year.  
+
+Emergency leave days may not be used in lieu of vacation days.
 
 Special considerations may be made for individuals whose family members are not locate and/or need to travel overseas.
 

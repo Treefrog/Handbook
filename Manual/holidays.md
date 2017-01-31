@@ -1,16 +1,16 @@
-# Holidays
+# Public Holidays (Stat Days)
 
 > We take holidays when the government says we should.
 > And we additionally celebrate Frogness.
 
-The following statutory holidays are observed by the company:
+The following  Ontario statutory holidays are observed by the company:
 
 - New Years Day (January 1st)
 - Family Day (Third Monday in February)
 - Good Friday (Friday before Easter)
 - Victoria Day (Monday before May 25th)
 - Canada Day (July 1st, except if on a Sunday)
-- Simcoe Day (First Monday in August)
+- Simcoe Day (First Monday in August) * not a stat but observed by Treefrog
 - Labour Day (First Monday in September)
 - Thanksgiving Day (Second Monday in October)
 - Christmas Day (December 25)
@@ -18,7 +18,7 @@ The following statutory holidays are observed by the company:
 
 Requests for time off for observances of other religious holidays must be submitted in writing. Approval is at the discretion of Treefrog.
 
-### Holiday Switching
+### Public Holiday Switching
 
 With previous consent from your Pod Leader, you may take an alternate day than the formal statutory holiday that is more convenient for you providing it does not compromise productivity.
 
@@ -30,7 +30,7 @@ A Pod member can request a super-special recognition from their Pod Champion to 
 
 ### International Holidays
 
-We observe Canadian Holidays only.
+We observe Canadian & Provincial Holidays only.
 
 ### Other Holidays or Special Requests
 
