@@ -8,7 +8,6 @@ Treefrog is committed to providing fair policies and procedures in order to fost
 
 If a situation occurs where a Frog believes that a condition of employment or a decision affecting him or her is unjust or inequitable, he or she is encouraged to make use of the following steps: 
 
-<<<<<<< HEAD
 **Step 1**: The Frog presents the problem to their pod leader verbally and/or in writing, if requested, after the incident occurs.
 
 **Step 2**: The pod leader has 5 days to respond to the problem presented by the Frog. The pod leader's response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
@@ -18,13 +17,6 @@ If a situation occurs where a Frog believes that a condition of employment or a 
 **Step 4**: If after step 3 the Frog is unsatisfied with the decision, the Frog may go approach the CEO.  The CEO has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
 
 **Step 5**: If after step 4 the Frog is unsatisfied with the decision, the Frog may go approach a 3rd party, such as the HR Consultant (HR Performance & Results).  The consultant has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
-=======
-**Step 1**: The Frog presents the problem to the CEO in writing after the incident occurs.
-
-**Step 2**: The CEO has 5 days to respond to the problem presented by the Frog. The CEO’s response must be in writing since the problem needs to be documented and must indicate the CEO's decision and the reason for the decision.
-
-**Step 3**: If after step 2, the Frog is dissatisfied with the decision, the Frog may go to HR Performance & Results, a 3rd party Human Resources Department. HRPAR has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate the decision of HRPAR and the reason for the decision.
->>>>>>> origin/master
 
 The Frog may discontinue the procedure at any step along the way.
 
