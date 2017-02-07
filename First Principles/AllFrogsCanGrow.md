@@ -2,7 +2,7 @@
 
 > Anyone can be taught Anything
 
-<i>The spirit of why this rule exists.</i>
+<i>Many people believe that individuals are limited at the moment of their birth to specific </i>
 
  The explanation of the rule.
  

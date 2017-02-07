@@ -3,18 +3,28 @@
 > We take holidays when the government says we should.
 > And we additionally celebrate Frogness.
 
+<<<<<<< HEAD
 The following  Ontario statutory holidays are observed by the company:
+=======
+The following Ontario statutory holidays are observed by the company:
+>>>>>>> origin/master
 
 - New Years Day (January 1st)
 - Family Day (Third Monday in February)
 - Good Friday (Friday before Easter)
 - Victoria Day (Monday before May 25th)
 - Canada Day (July 1st, except if on a Sunday)
+<<<<<<< HEAD
 - Simcoe Day (First Monday in August) * not a stat but observed by Treefrog
+=======
+- Simcoe Day (First Monday in August)*
+>>>>>>> origin/master
 - Labour Day (First Monday in September)
 - Thanksgiving Day (Second Monday in October)
 - Christmas Day (December 25)
 - Boxing Day (December 26)
+
+*Technically, Simcoe Day is a Civic holiday, not a statutory holiday, but we observe it anyway. We *do not* observe a second day during the Easter Holidays.
 
 Requests for time off for observances of other religious holidays must be submitted in writing. Approval is at the discretion of Treefrog.
 
@@ -26,11 +36,15 @@ With previous consent from your Pod Leader, you may take an alternate day than t
 
 ### The Walk the Parade Rule
 
-A Pod member can request a super-special recognition from their Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. Technically, if you don't celebrate the event you shouldn't get the holiday. Just because you don't celebrate a certain recognized religious holiday, doesn't mean it is "fair" to get alternative time off - you aren't walking in the parade. It's not "free time". It's "time to support the religious or cultural event" as demanded by the regulations of the state.
+A Pod member can request a super-special recognition from their Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. Technically, if you don't celebrate the event you shouldn't get the holiday. Just because you don't celebrate a certain recognized religious holiday, doesn't mean it is "fair" to get alternative time off - you aren't walking in the parade. It's not "free time". It's "time to support the religious or cultural event" as demanded by the regulations of the Province.
 
 ### International Holidays
 
+<<<<<<< HEAD
 We observe Canadian & Provincial Holidays only.
+=======
+We observe Ontario Provincial Holidays only, because all of our employees currently work in Ontario.
+>>>>>>> origin/master
 
 ### Other Holidays or Special Requests
 
@@ -68,6 +82,12 @@ Celebrations we will and will not participant in are as follows:
 *St Patrick's Day is not a religious holiday. It's a day where everyone is Irish.
 
 
+
+
+
+#### When will I be eligible to receive holiday pay?
+
+Frogs will receive payment for Holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive.
 
 
 
