@@ -1,6 +1,6 @@
 # Harassment
 
-> Do not be an jerk.
+> Do not be a jerk.
 
 We expect our employees to treat each other with fairness and respect. Harassment on the basis of race, religion, gender, age, handicap, or national origin will not be tolerated.
 
