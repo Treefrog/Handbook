@@ -2,12 +2,7 @@
 
 > If your family member dies, you should take a break and mourn.
 
-<<<<<<< HEAD
-Treefrog is aware that things happen and time off is sometimes needed. Therefore, it is Treefrog’s policy to provide up to five (5) days paid leave to a Frog for Personal illness, injury or medical emergency, or 
-Death, illness, injury, medical emergency or urgent matter relating to the following frog family members:
-=======
 Treefrog is aware that things happen and time off is sometimes needed. Therefore, it is Treefrog’s policy to provide up to three (3) days paid leave to a Frog for emergency leave due to death, illness, injury, medical emergency, or urgent matter relating to the following family members:
->>>>>>> origin/master
 
 1. A spouse*
 2. A parent, step-parent, foster parent, child, step-child, foster child, grandparent, step-grandparent, grandchild or step-grandchild of the frog or the frog's spouse
