@@ -4,15 +4,11 @@
 
 Vacations will be allotted on a first-come, first-served basis, subject to Treefrog’s approval. All vacation requests must be submitted via the vacation system at least 2 weeks prior to the start of the vacation time. Treefrog has the sole discretion to approve or decline the requested vacation dates, based on the impact to company deliverables.
 
-<<<<<<< HEAD
 Every Frog has the same amount of vacation: 2 weeks (or 10 working days).
 
 Vacations will be allotted on a **first-come, first-served** basis, subject to Treefrog’s approval. All vacation requests must be submitted via the vacation system at least **2 weeks prior** to the start of the vacation time, to ensure the company can make up for your absence. Treefrog has the sole discretion to approve or decline the requested vacation dates, based on the impact to company deliverables. *But we will do everything reasonable to accomodate you, providing it doesn't hurt others or damage Treefrog.
 
-By law, Frogs are encouraged take a minimum of **5 consecutive days** vacation in any calendar year. However, Frogs may request a single day in writing pending approval of the CEO.  The remainder of the allotted vacation days may be taken in subsequent requests consisting of (but not limited to) shorter periods.
-=======
-By law, Frogs must take a minimum of 5 consecutive days vacation in any calendar year. The remainder of the allotted vacation days may be taken in subsequent requests consisting of (but not limited to) shorter periods.
->>>>>>> origin/master
+By law, Frogs are encouraged take a minimum of **5 consecutive days** vacation in any calendar year. However, Frogs may request a single day in writing pending approval of the CEO. The remainder of the allotted vacation days may be taken in subsequent requests consisting of, but not limited to, shorter periods.
 
 Frogs should also NOT take more than 5 consecutive days if possible, to minimize the exhaustion of other team members supporting their absence. Holidays over 5 days should be discussed in detail with your Pod leader before approval.
 
@@ -33,17 +29,12 @@ During the first three years of continuous service at Treefrog, Frogs will be el
 
 During the first six (6) months of continuous service for new employees, no vacation time will be granted. However, during the first year of service, vacation time accrues on the basis of 5/6 day vacation for each month of service. Therefore, after the initial six months, an employee is eligible for five (5) days vacation (5/6 x 6 = 5 days) with an additional 5/6 day per month accrued thereafter until the maximum (10 days) is achieved.
 
-
-<<<<<<< HEAD
-=======
 | **Years of Service** | **Annual Vacation Amount** | **Annual Vacation Time** |
 | -------------------- | -------------------------- | ------------------------ |
 | 1 to 3 years         | Paid Salary                | 10 days                  |
 | 3 to 10 years        | Paid Salary                | 15 days                  |
 | 10 to 20 years       | Paid Salary                | 20 days                  |
 
-
->>>>>>> origin/master
 ### Vacation Calendar
 
 Vacation requests are to be logged in the holiday system (http://holidays.treefrog.ca). Everyone can see a full calendar with all Frogs' time that has been booked off tentatively (orange), and approved (green). You must go into the calendar and select the time off you are requesting. Your Champion will view your request and approve or decline your request based on staffing and company deliverables. All vacation requests must be submitted in the tracking system at least 2 weeks prior to the start of your request.

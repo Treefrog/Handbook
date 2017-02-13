@@ -20,9 +20,5 @@ Full-time is defined as working a regular 40 hour work week or more. Part-time i
 
 ### Payment
 
-<<<<<<< HEAD
 Payment is by Direct Deposit weekly on Fridays. It is the Frogs responsibility to collect his or her cheque from the controller on the allocated day of distribution. In the event of a statutory holiday falling on the normal cheque distribution day, cheques will be distributed the day prior to the holiday.
-=======
-Payment is biweekly and cheques are distributed on Fridays. It is the Frog's responsibility to collect his or her cheque from the Controller on the allocated day of distribution. In the event of a statutory holiday falling on the normal cheque distribution day, cheques will be distributed the day prior to the holiday.
->>>>>>> origin/master
 
