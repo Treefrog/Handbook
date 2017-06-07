@@ -24,7 +24,7 @@ We are one of the few organizations out there that you can never complain about 
 			- "Waiting on the World to Change", John Mayer
 ```
 
-Be the change you want the world to be. The success of Treefrog isn't up to anyone but you.
+Be the change you want the world to be. The success of your career at Treefrog isn't up to anyone but you.
 
 ### Organizational Vision
 
@@ -32,15 +32,15 @@ This manual is organized into several parts.
 
 The **Goals of Treefrog** clarify what we are trying to accomplish as an organization.
 
-Then, the **First Principles** (the "why") are the guiding principles of how and why we have chosen to build the company - the core concepts which drive our reason to exist (vs. going to work somewhere else). 
+Then, the **First Principles** (the "why") are the guiding principles of how and why we have chosen to build the company - the core concepts which drive our reason to exist.
 
 The **Philosophies** of Treefrog drive deeper into how it is that we interpret these principles at a high level to ensure that we have compelling and well thought-through rationale to make decisions as a team.
 
 The **Tao of Frog** includes clarity on how we expect individuals to act as a member of Treefrog. These are guiding principles for the attitudes of the individuals working together at Treefrog as a team. 
 
-The **Manual** (the "how") includes the rules and boundaries of working at Treefrog, that all Frogs are obligated to follow. Each section of the "Manual" is composed of more than just "the rules" - but rather with a "spirit", a "simple acid test hard rule", and with detailed examples of interpretation and examples of how this rule came to exist. These are not aritrary rules: each one has been thought out in detail, and deserves to be both defended amd challenged.
+The **The Manual** (the "how") includes the rules and boundaries of working at Treefrog, that all Frogs are obligated to follow. Each section of the "Manual" is composed of more than just "the rules" - but rather with a "spirit", a "simple acid test hard rule", and with detailed examples of interpretation and examples of how this rule came to exist. These are not arbitrary rules: each one has been thought out in detail, and deserves to be both defended amd challenged.
 
-It's not a lie to accept that Sean (our CEO - hey, that's me!) wrote and compiled most of these theories. But he's not perfect, nor has he learned everythin, nor can he anticipate everything or see every side of the cube all at once. Get involved! Make Treefrog the remarkable team it has the potential to be.
+It's not a lie to accept that Sean Stephens (our CEO - hey, that's me!) wrote and compiled most of these theories. But he's not perfect, nor has he learned everything, nor can he anticipate everything or see every side of the cube all at once. Get involved! Make Treefrog the remarkable team it has the potential to be.
 
 ### Table of Contents
 
@@ -49,15 +49,16 @@ It's not a lie to accept that Sean (our CEO - hey, that's me!) wrote and compile
 	* [The Sacred Cow Principle](First Principles/TheCowPrinciple.md)
 2. Philosophies 
 3. The Tao of Frog
-4. Manual
+4. [The Manual](Manual/ReadMe.md)
 
 
 ###Suggestions and Edits
 
-As every Frog is required to read and agree to everything in **the Manual**, every Frog should be able to bring any issues/clarification/improvment/addition they see fit to the table. <i>Just because you think it is right</i> doesn't mean we are obligated to add it to the manual: this document is a living document that intends to define the best possible way for Treefrog to be a principled business that genuinely makes the world a better place. 
+As every Frog is required to read and agree to everything in **The Manual**, every Frog should be able to bring any issues/clarification/improvment/addition they see fit to the table. <i>Just because you think it is right</i> doesn't mean we are obligated to add it to the manual: this document is a living document that intends to define the best possible way for Treefrog to be a principled business that genuinely makes the world a better place. 
 
-It is not a mechanism designed to appease everyone's entitlements, but rather give us a unified and collaborative metholodogy by which to constantly improve, as is the Way of the Frog.
+What you should **not** do is disagree with a concept in this book and then rallly people around you in disagreement. This is not a Democratic Document, as we are governed by A Vision and furthermore Canadian Law. Instead, present a meaningful argument as to why you agree or disagree with a subject, and allow it to be discussed as a group.
 
+This open-sourced idea is not a mechanism designed to appease everyone's entitlements, but rather give us a unified and collaborative metholodogy by which to constantly improve, as is the Way of the Frog.
 
 ###Last Official Version
 

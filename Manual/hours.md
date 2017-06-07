@@ -31,7 +31,9 @@ Exempt Frogs hold positions that are managerial in nature. These Frogs are exemp
 
 Our company has a higher than average minimum expectation of 40 hours of work a week. Most companies expect you to be on site for 40 hours a week (the old 9-5 rule), and then give you paid time for lunch and breaks.
 
-Treefog does not pay for breaks or lunch. You are "legally obligated" to take a lunch break for a minimum of 30 minutes and two breaks of 15 minutes. Therefore, you are theoretically obligated to stay onsite at least 9 hours a working day. However, since we usually talk about work during lunch and/or eating at our desks and since there are no physically demanding roles that require physical rest, the suggestion is that if you wish, you may multitask your lunch break to continue specific work-related discussions and thus combine lunch and work. Talking about people who work here is not a work-related discussion. Talking about a project is a work related-discussion.
+Treefog does not pay for breaks or lunch. You are "legally obligated" to take a lunch break for a minimum of 30 minutes. Therefore, you are theoretically obligated to stay onsite at least 8.5 hours a working day. 
+
+However, since we usually talk about work during lunch and/or eating at our desks and since there are no physically demanding roles that require physical rest, the suggestion is that if you wish, you may multitask your lunch break to continue specific work-related discussions and thus combine lunch and work. Talking about people who work here is not a work-related discussion. Talking about a project is a work related-discussion.
 
 On the other end, as a salaried employee, you cannot work more than a maximum of 48 hours a week. We do not pay overtime for work over 48 hours. You are all salaried, and thus the expectation is that everyone works between 40-44, maximum 48, hours a week in return for the value of their salary. Also, you must take 11 hours off consecutively each day, you must take 8 hours of rest in between "shifts", and you must take 24 hours a week to rest.
 
