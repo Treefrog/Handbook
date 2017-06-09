@@ -2,7 +2,7 @@
 
 > If Treefrog should have paid for it, we will reimburse you.
 
-*It makes sense that if you would not have bought or done it as a result of your job at Treefrog, and Treefrog is the sole benefactor of your purchase, Treefrog should be paying for it. However, this "common sense rule" can lead to a myriad of interpretations based on many dynamic factors. Think of it this way: if Treefrog is the exclusive benefactor of your purchase, including yourself and your own career path, you shouldn't be paying for it, Treefrog obviously should. If Treefrog can't afford to pay these expenses, we shouldn't be in business.*
+*It makes sense that if you would not have bought or done it as a result of your job at Treefrog, and Treefrog is the sole benefactor of your purchase, Treefrog should be paying for it. However, this "common sense rule" can lead to a myriad of interpretations based on many dynamic factors. Think of it this way: if Treefrog is the exclusive benefactor of your purchase, you shouldn't be paying for it, Treefrog should. If Treefrog can't afford to pay these expenses, we shouldn't be in business.*
 
 These policies and procedures are designed to act as a guideline for all Treefrog expenses. While this handbook does contain suggested expense limits, all Frogs should use professional judgment when incurring expenses on behalf of the Company. Treefrog recognizes that, in some isolated cases, business related expenses might need to be reviewed on a case-by-case basis; however, this primarily applies if the expense in question was not discussed in this policy.
 
@@ -16,11 +16,11 @@ Once a month, if you have appropriate expenses, you should submit an expense rep
 When submitting expenses:
 
 1. Expense reports must be completed, approved by your Pod Leader and forwarded to the Controller.
-- Original receipts must be submitted as attachments to the expense report.  If an itemized receipt is missing, the Frog should contact the vendor to obtain one. This is your job, not the Controller's.
-- Expense reports must be filled out for anything charged to a company credit card.
-- Expenses are paid within 30 days of submission of an approved expense report, within reason.
-- Expenses must be claimed within 30 days. If expenses are not claimed within 30 days, no matter how small, they require CEO sign-off.
-- Expense reports for non-trivial amounts or irregular amounts must be signed off by the CEO. *Use your common sense judgement when interpreting this.*
+2. Original receipts must be submitted as attachments to the expense report.  If an itemized receipt is missing, the Frog should contact the vendor to obtain one. This is your job, not the Controller's.
+3. Expense reports must be filled out for anything charged to a company credit card.
+4. Expenses are paid within 30 days of submission of an approved expense report, within reason.
+5. Expenses must be claimed within 30 days. If expenses are not claimed within 30 days, no matter how small, they require CEO sign-off.
+6. Expense reports for non-trivial amounts or irregular amounts must be signed off by the CEO. *Use your common sense judgement when interpreting this.*
 
 If you fail to submit an expense report within 30 days of its due date, you are totally screwing up our financial statements and causing us an administrative headache. Therefore, we are not obligated to pay your expenses if you submit them over 30 days after they were incurred. You are making everyone's life miserable.
 
@@ -37,7 +37,7 @@ Mileage will not be granted for travel to and from work. Obviously. Move closer 
 The following guidelines are to be followed to claim mileage and other company related expenses:
 
 1. You must request access to a vehicle first. We will try to have one for you to borrow that matches our brand and philosophies.
-- Mileage must be calculated from the work site as the starting point.
+2. Mileage must be calculated from the work site as the starting point.
 
 If travelling **less than 85 km round trip**, please try to use the electric car (for obvious environmental reasons), and if it’s not available, then request a rental car to be booked through  Client Care.  If you chose to use your own vehicle, Treefrog will pay a maximum of the cost of a rental car (roughly $45, subject to change), or $.52/km, whichever is **lower**.
 
