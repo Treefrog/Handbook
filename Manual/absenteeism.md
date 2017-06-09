@@ -21,7 +21,7 @@ Many of these specifics are covered within its own section of the Manual.
 
 > Absence due to tardiness must be made up based on a schedule approved by your Pod Leader.
 
-You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least 48 hours prior to the time missed. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up by working alternative hours, and these hours must be approved by your [Pod Champion](manual/pod-champion.md). Absolutely you can take off time to go to the doctor. Just don't let it hurt everyone else while you are at it.
+You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least **24 hours prior** to the time missed. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up by working alternative hours, and these hours must be approved by your [Pod Champion](manual/pod-champion.md). Absolutely you can take off time to go to the doctor. Just don't let it hurt everyone else while you are at it.
 
 #### Slack Warnings
 
@@ -31,7 +31,7 @@ If you are going to be late, need to take moments off, or feel sick, etc, please
 
 1. **You *must* notify** - There needs to be a record of why you are absent. Otherwise, you cost other people time and energy. Slack is fine for this.
 
-2. **Mimimum 24 Hours Notice** - Our Manual states that you need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning - not as a measure of bureaucracy but of mutual respect and love. 48 hours would be much more respectful. A week would actually be the most professional.
+2. **Mimimum 24 Hours Notice** - You need to give at least 24 hours notice for time off. We are pretty lenient with this idea (Frog for Life!), but it is helpful to the team to have advance warning - not as a measure of bureaucracy but of mutual respect and love. *48 hours would be much more respectful to your team.* A week would actually be the most professional.
 
 3. **Notification a few days ahead of time is commensurate with team productivity** - Telling people 3 months ahead of time that you will not be available and then failing to remind them does not help. Warn people several times in reaonable measure with the anticipated activity.
 
@@ -39,7 +39,7 @@ If you are going to be late, need to take moments off, or feel sick, etc, please
 
 5. **Reach out to critical people in your warning** - Make sure you reach out to people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
 
-6. **Tell people why** - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
+6. **Tell people why** - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass and a 90% chance I'll be in the hospital for a few weeks", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
 
 #### Examples of Appropriate Messages:
 
@@ -58,9 +58,9 @@ We do not want Treefrog to be antagonistic towards life. However, we do not want
 
 > If you are unexpectedly absent three weeks in a row, something is funky. It's time to chat with your Pod Leader.
 
-When a Frog’s absences are both high in number and the frequency of personal absences becomes excessive as compared to the company’s average or the absences establish a pattern, for example, Mondays, or several every week for weeks on end, the Frog’s absenteeism will be considered **excessive**. This can be for any rational or explainable reason (chronic car issues, or chronic traffic issues, or multiple weddings in a row - you name it) - it's still excessive, no matter how delicate or intricate or legitimate the excuse. Work shouldn't be antagonist towards life, but life choices (like living far away, or being deeply involved in 20 weddings or six theatrical events) shouldn't also cripple your paid productivity.
+When a Frog’s absences are both high in number and the frequency of personal absences becomes excessive as compared to the company’s average or the absences establish a pattern, for example, Mondays, or several every week for weeks on end, the Frog’s absenteeism will be considered **excessive**. This can be for any rational or explainable reason (chronic car issues, or chronic traffic issues, or multiple weddings in a row - you name it) - it's still excessive, no matter how delicate or intricate or legitimate the excuse. Work shouldn't be antagonist towards life, but life choices (like living far away, or being deeply involved in 20 weddings or six theatrical events) shouldn't also cripple your professional productivity.
 
-Frogs with excessive absences will receive a letter that is issued by his or her [Pod Champion](manual/pod-champion.md) and that will detail attendance records and set performance expectations over a defined period of time.
+Frogs with excessive absences will receive a letter that is issued by your [Pod Champion](manual/pod-champion.md) and that will detail attendance records and set performance expectations over a defined period of time.
 
 If absences continue, a further meeting will be held to identify the reasons for the ongoing absences. Each case will be reviewed individually, and appropriate steps will be taken in accordance to the severity of the issue.
 
