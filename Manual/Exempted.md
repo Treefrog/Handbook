@@ -40,3 +40,7 @@ Non-exempt frogs are those frogs who hold positions that are different than the 
 * Social Media Coordinator, 
 
 ...and other administrative roles. The hours of work, rest periods and overtime policies apply to all of these frogs.
+
+### Exemptions Include
+
+- You can work up to 60 Hours a week without consideration for overtime pay. (Don't do it anyway).
