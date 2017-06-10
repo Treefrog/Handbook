@@ -39,13 +39,29 @@ It is not possible to anticipate every situation that may arise in the workplace
 
 #### TOC
 
-* [Hours](Manual/hours.md)
+The core sections of the Manual.
+
+* Hours and Pay
+	* [Hours](Manual/hours.md)
 	* [Compensation](Manual/Compensation.md)
-	* [overtime](Manual/overtime.md)
-	* [absenteeism](Manual/absenteeism.md)
-	* [workfromhome](Manual/workfromhome.md)
-	* [breaks](Manual/breaks.md)
-	* [distractions](Manual/distractions.md)
+	* [Pay (Compensation)](Manual/pay.md)
+	* [Overtime](Manual/overtime.md)
+		* [Exempted](Manual/Exempted.md)
+	* [Raises](Manual/raises.md)
+	* [Absenteeism](Manual/absenteeism.md)
+	* [Workfromhome](Manual/workfromhome.md)
+	* [Breaks](Manual/breaks.md)
+	* [Distractions](Manual/distractions.md)
+	* [holidays](Manual/holidays.md)
+* Problems
+	* [Quitting](Manual/Quitting.md)
+	* [conflictofinterest](Manual/conflictofinterest.md)
+	* [discipline](Manual/discipline.md)
+	* [harassment](Manual/harassment.md)
+
+
+And then there is this stiuff
+
 * [Alumni](Manual/Alumni.md)
 	* [belongings](Manual/belongings.md)
 	* [benefits](Manual/benefits.md)
@@ -54,9 +70,7 @@ It is not possible to anticipate every situation that may arise in the workplace
 * [clientservice](Manual/clientservice.md)
 * [commuting](Manual/commuting.md)
 	* [confidentiality](Manual/confidentiality.md)
-* [conflictofinterest](Manual/conflictofinterest.md)
 * [devices](Manual/devices.md)
-* [discipline](Manual/discipline.md)
 * [diversity](Manual/diversity.md)
 * [Donations](Manual/Donations.md)
 * [dress](Manual/dress.md)
@@ -64,10 +78,7 @@ It is not possible to anticipate every situation that may arise in the workplace
 * [emergencyleave](Manual/emergencyleave.md)
 * [equipment](Manual/equipment.md)
 * [exclusiveservice](Manual/exclusiveservice.md)
-* [Exempted](Manual/Exempted.md)
 * [expenses](Manual/expenses.md)
-* [harassment](Manual/harassment.md)
-* [holidays](Manual/holidays.md)
 * [housekeeping](Manual/housekeeping.md)
 * [images](Manual/images.md)
 * [inducements](Manual/inducements.md)
@@ -75,7 +86,6 @@ It is not possible to anticipate every situation that may arise in the workplace
 * [mistakes](Manual/mistakes.md)
 * [outofoffice](Manual/outofoffice.md)
 * [ownership](Manual/ownership.md)
-* [pay](Manual/pay.md)
 * [performance](Manual/performance.md)
 * [portfolio](Manual/portfolio.md)
 * [privacy](Manual/privacy.md)
@@ -84,7 +94,6 @@ It is not possible to anticipate every situation that may arise in the workplace
 * [Punctuality](Manual/Punctuality.md)
 * [purchasing](Manual/purchasing.md)
 * [Quitting](Manual/Quitting.md)
-* [raises](Manual/raises.md)
 * [ReadMe](Manual/ReadMe.md)
 * [Recommendations](Manual/Recommendations.md)
 * [records](Manual/records.md)
