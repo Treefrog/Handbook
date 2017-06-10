@@ -42,10 +42,10 @@ It is not possible to anticipate every situation that may arise in the workplace
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
 * Basic Frog Obligations
-	* [Dress Code](Manual/dress.md) - *Preferably wear clothes.*
-	* [social](Manual/social.md) - *As a digital agency, you are a Frog 24 hours a day. Act like it.*
+	* [Dress Code](Manual/dress.md) - *"Preferably wear clothes."*
+	* [social](Manual/social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
 	* [clientservice](Manual/clientservice.md)
-	* [Exclusive Service](Manual/exclusiveservice.md) - *You can only have this job.*
+	* [Exclusive Service](Manual/exclusiveservice.md) - *"You can only have this job."*
 	* [conflictofinterest](Manual/conflictofinterest.md)
 	* [confidentiality](Manual/confidentiality.md)
 	* [thirdpartycontent](Manual/thirdpartycontent.md)
