@@ -39,28 +39,37 @@ It is not possible to anticipate every situation that may arise in the workplace
 
 #### TOC
 
-The core sections of the Manual.
+The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
-* Basic Obligations
-	* [dress](Manual/dress.md) - "Preferably wear clothes".
+* Basic Frog Obligations
+	* [Dress Code](Manual/dress.md) - "Preferably wear clothes".
+	* [social](Manual/social.md) - "As a digital agency, you are a Frog 24 hours a day. Act like it."
+	* [clientservice](Manual/clientservice.md)
 	* [Exclusive Service](Manual/exclusiveservice.md) - "You can only have this job".
 	* [conflictofinterest](Manual/conflictofinterest.md)
 	* [confidentiality](Manual/confidentiality.md)
+	* [thirdpartycontent](Manual/thirdpartycontent.md)
 	* [outofoffice](Manual/outofoffice.md)
 	* [ownership](Manual/ownership.md)
+	* [injury](Manual/injury.md)
+	* [privacy](Manual/privacy.md)
+	* [Punctuality](Manual/Punctuality.md)
+	* [trademarks](Manual/trademarks.md)
 * Hours and Pay
 	* [Hours](Manual/hours.md)
 		* [timekeeping](Manual/timekeeping.md)
 		* [Distractions](Manual/distractions.md)
+		* [probation](Manual/probation.md)
+		* [Breaks](Manual/breaks.md)
 	* [Holidays](Manual/holidays.md)
 	* [Vacations](Manual/vacations.md)
-	* [Breaks](Manual/breaks.md)
 	* [Compensation](Manual/Compensation.md)
 	* [Pay (Compensation)](Manual/pay.md)
 	* [sickdays](Manual/sickdays.md)
 	* [Overtime](Manual/overtime.md)
 		* [Exempted](Manual/Exempted.md)
 	* [Raises](Manual/raises.md)
+	* [commuting](Manual/commuting.md)
 	* [Workfromhome](Manual/workfromhome.md)
 	* [emergencyleave](Manual/emergencyleave.md)
 * Extra Benefits
@@ -68,6 +77,7 @@ The core sections of the Manual.
 	* [bounties](Manual/bounties.md)
 	* [Recommendations](Manual/Recommendations.md)
 	* [Donations](Manual/Donations.md)
+	* [expenses](Manual/expenses.md)
 * Stuff
 	* [equipment](Manual/equipment.md)
 	* [devices](Manual/devices.md)
@@ -92,24 +102,14 @@ The core sections of the Manual.
 	* [performance](Manual/performance.md)
 	* [productivityflags](Manual/productivityflags.md)
 	* [Utilization](Manual/Utilization.md)
-* Additional Obligations
+* Treefrogs Obligations
+	* [records](Manual/records.md)
+	* [Alumni](Manual/Alumni.md)
 
 And then there is this stiuff
 	
-	* [Alumni](Manual/Alumni.md)
-	* [clientservice](Manual/clientservice.md)
-	* [commuting](Manual/commuting.md)
-	* [expenses](Manual/expenses.md)
-	* [housekeeping](Manual/housekeeping.md)
-	* [images](Manual/images.md)
-	* [injury](Manual/injury.md)
-	* [privacy](Manual/privacy.md)
-	* [probation](Manual/probation.md)
-	* [Punctuality](Manual/Punctuality.md)
-	* [records](Manual/records.md)
-	* [social](Manual/social.md)
-	* [thirdpartycontent](Manual/thirdpartycontent.md)
-	* [trademarks](Manual/trademarks.md)
+* [housekeeping](Manual/housekeeping.md)
+* [images](Manual/images.md)
 
 
 #### Terms of Reference:
