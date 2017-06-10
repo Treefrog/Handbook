@@ -42,8 +42,8 @@ It is not possible to anticipate every situation that may arise in the workplace
 The core sections of the Manual.
 
 * Basic Obligations
-	* [dress](Manual/dress.md)
-	* [Exclusive Service](Manual/exclusiveservice.md)
+	* [dress](Manual/dress.md) - "Preferably wear clothes".
+	* [Exclusive Service](Manual/exclusiveservice.md) - "You can only have this job".
 	* [conflictofinterest](Manual/conflictofinterest.md)
 	* [confidentiality](Manual/confidentiality.md)
 	* [outofoffice](Manual/outofoffice.md)
