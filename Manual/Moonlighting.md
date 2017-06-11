@@ -1,33 +1,24 @@
-# This is Blank
+# Moonlighting
 
 > The Rule of Thumb
 
-<i>The spirit of why this rule exists.</i>
+<i>If you are doing work after hours that is related to your work at Treefrog - then you are moonlighting. In many cases, this is just flat-out illegal in some way, and in some cases, it is very gray.</i>
 
- The explanation of the rule.
+By working at Treefrog, you agree to “exclusive service” with Treefrog and that any work you do on the side is grounds to lose your job without warning. We are not an hourly-pay company, where you clearly clock in and out with your time. We pay you a salary for your time and energy with amazing flexibility on how and when you work, and the connnected expectation is that all of your energy and are belong to us.
  
-###Examples
+### Types of Moonlighting
 
+This work can fall into a few different areas;
 
-Moonlighting
+1. **Energy Drain Work** - You are doing work completely unrelated to Treefrog. (Like being a waitress, or an actor).
+2. **Hobby Work** - You have a hobby on the side you are genuinely passionate about which generates revenues (like selling soap).
+3. **Marginal Conflict of Interest Work** - You are doing work which Treefrog would usually do, but you have rationalized doing it for a “family member”, or a “not for profit”, or because “the client couldn’t afford Treefrog’s pricing”, or you feel obligated doing it for the individual because of your relationship with them. You could be doing it for free, or for pay, or for free for someone else who is getting paid (like a family member).
+4. **Conflict of Interest** - You are doing work for someone whose work "could have been done by Treefrog", for pay.
+5. **Direct Conflict of Interest** - You are doing work for one of our clients on the side.
+6. **Community Support** - You are working for a not for profit on the side to help the community to do work which not in conflict of interest with Treefrog’s products or services (like handing out hotdogs).
+7. **Religious Activity Work** - Not relevant, obviously.
 
-[ONLY READ IF YOU THINK THIS COULD BE A PROBLEM FOR YOU - then send me an email to chat]
-
-It would appear that there is some confusion around Treefrog’s policies on moonlighting, and thus I am adding clarity here for future reference. “Moonlighting” refers to doing work (paid or not), for a client or for yourself, "after hours".
-
-Types of Moonlighting
-
-If you are doing work after hours that is unrelated to your work at Treefrog - then you are moonlighting. This work can fall into a few different areas;
-
-1) Energy Drain Work - You are doing work completely unrelated to Treefrog. (Like being a waitress, or an actor).
-2) Hobby Work - You have a hobby on the side you are genuinely passionate about which generates revenues (like selling soap).
-3) Marginal Conflict of Interest Work - You are doing work which Treefrog would usually do, but you have rationalized doing it for a “family member”, or a “not for profit”, or because “the client couldn’t afford Treefrog’s pricing”, or you feel obligated doing it for the individual because of your relationship with them. You could be doing it for free, or for pay, or for free for someone else who is getting paid (like a family member).
-4) Conflict of Interest - You are doing work for someone whose work "could have been done by Treefrog", for pay.
-4) Direct Conflict of Interest - You are doing work for one of our clients on the side.
-5) Community Support - You are working for a not for profit on the side to help the community to do work which not in conflict of interest with Treefrog’s products or services (like handing out hotdogs).
-6) Religious Activity Work - Not relevant.
-
-Note that our contracts and our Employee Manual are both very clear on the matter: you have agreed to “exclusive service” with Treefrog and that any work you do on the side is grounds to lose your job without warning. We are not an hourly-pay company. We pay you a salary for your time and energy, and the expectation is that all of your energy are belong to us.
+Note that our contracts and our Employee Manual are both very clear on the matter: y
 
 Note also that we have made offers to potential superstar employees who would not sign this agreement in the past, and not hired them. This is core to the spirit of Treefrog employment. Treefrog has your back, and you have Treefrog’s back - Frog for Life.
 

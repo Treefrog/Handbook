@@ -41,7 +41,7 @@ It is not possible to anticipate every situation that may arise in the workplace
 
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
-* Basic Frog Obligations
+1. Basic Frog Obligations
 	* [Client Service](clientservice.md) - *"Treat clients and Frogs as you would have them treat you."*
 	* [Dress Code](dress.md) - *"Preferably wear clothes."*
 	* [Social](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
@@ -53,8 +53,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [privacy](privacy.md) - *"."*
 	* [Punctuality](Punctuality.md) - *"."*
 	* [trademarks](trademarks.md) - *"."*
-* [Conflicts of Interest](conflictofinterest.md) - *"Don't do ethically gray stuff."*
-	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*		* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
+	* [housekeeping](housekeeping.md) - *"."*
 * Hours and Pay
 	* [Hours](hours.md) - *"."*
 		* [timekeeping](timekeeping.md) - *"."*
@@ -72,32 +71,36 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [commuting](commuting.md) - *"."*
 	* [Workfromhome](workfromhome.md) - *"."*
 	* [emergencyleave](emergencyleave.md) - *"."*
-* Extra Benefits
+* Benefits
 	* [benefits](benefits.md) - *"."*
 	* [bounties](bounties.md) - *"."*
 	* [Recommendations](Recommendations.md) - *"."*
 	* [Donations](Donations.md) - *"."*
 	* [expenses](expenses.md) - *"."*
+	* [portfolio](portfolio.md) - *"."*
 * Stuff
 	* [equipment](equipment.md) - *"."*
 	* [devices](devices.md) - *"."*
 	* [belongings](belongings.md) - *"."*
 	* [purchasing](purchasing.md) - *"."*
+* [Conflicts of Interest](conflictofinterest.md) - *"Don't do ethically gray stuff."*
+	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*
+	* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
+	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
+	* Fraud
 * Diversity and Equality
 	* [respect](respect.md) - *"."*
 	* [diversity](diversity.md) - *"."*
 	* [birthdays](birthdays.md) - *"."*
 * Problems at Work
-	* [security](security.md) - *"."*
-	* [portfolio](portfolio.md) - *"."*
-	* [safety](safety.md) - *"."*
-	* [Quitting](Quitting.md) - *"."*
-	* [Absenteeism](absenteeism.md) - *"."*
 	* [discipline](discipline.md) - *"."*
+	* [security](security.md) - *"."*
+	* [safety](safety.md) - *"."*
 	* [harassment](harassment.md) - *"."*
-	* [inducements](inducements.md) - *"."*
-	* [mistakes](mistakes.md) - *"."*
+	* [Absenteeism](absenteeism.md) - *"."*
 	* [drugsandalcohol](drugsandalcohol.md) - *"."*
+	* [mistakes](mistakes.md) - *"."*
+	* [Quitting](Quitting.md) - *"."*
 *Performance
 	* [performance](performance.md) - *"."*
 	* [productivityflags](productivityflags.md) - *"."*
@@ -105,11 +108,6 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 * Treefrogs Obligations
 	* [records](records.md) - *"."*
 	* [Alumni](Alumni.md) - *"."*
-
-And then there is this stiuff
-	
-* [housekeeping](housekeeping.md) - *"."*
-* [images](images.md) - *"."*
 
 
 #### Terms of Reference:
