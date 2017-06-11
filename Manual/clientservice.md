@@ -12,3 +12,10 @@ Treefrog is recognized for the quality of products and services we provide to ou
 6. Exceed client expectations
 7. Make it easy for our clients to succeed.
 
+### Internal Customer Service
+
+> We are what we Tolerate.
+
+Life at Treefrog isn't just about treating clients well, but treating each other well. We are each other's clients as well, as we support one another in keeping our jobs and pushing for excellence.
+
+- Diversity, respect, tolerance
