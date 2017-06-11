@@ -83,7 +83,8 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [devices](devices.md) - *"."*
 	* [belongings](belongings.md) - *"."*
 	* [purchasing](purchasing.md) - *"."*
-* [Conflicts of Interest](conflictofinterest.md) - *"Don't do ethically gray stuff."*
+* Conflict of Interest
+	* [Overview](conflictofinterest.md) - *"Don't do ethically gray stuff."*
 	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*
 	* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
