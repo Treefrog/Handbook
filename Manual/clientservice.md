@@ -1,5 +1,7 @@
 # Client Service Policy
 
+> Treat clients and Frogs as you would have them treat you.
+
 Treefrog is recognized for the quality of products and services we provide to our clients. We incorporate our guiding principles in everything that we do. We are vibrant, electric, classy, collaborative, fun, energetic, creative, and practical.
 
 1. Always greet clients with our everyday enthusiasm

@@ -31,6 +31,17 @@ Yes, this is creepy. Yes we have limitations around who has access (CEO and Quar
 
 If you choose to cover your laptop camera with a sticker or prevent your laptop camera from operating, you are now wholly responsible for your laptop cost upon its theft. Instead, consider a tin hat.
 
+### Laptop Security 2 (to be merged)
+
+> Almost everyone gets a laptop. Look after it like an appendage.
+
+*For those Frogs that have portable computers, we need to ensure you are operating with extreme measures to maintain safety and protection both at the office and off-site locations. If one of our computers came into the wrong hands, it could be severely detrimental to thousands of clients.*
+
+All machines will have a software called “Undercover” installed. The software allows us to track our computers and their whereabouts very quickly so that we can notify the police as soon as possible. This knowledge regarding this software and information is to be kept extremely confidential as a closely-held Frog secret.
+
+It is important to know that Treefrog has granted "Undercover" access to your laptop at any time, no matter where you are. In order to make sure this does not represent a violation of your privacy, only two people have access to this, the IT Person, currently Eric, and the CEO, currently Sean, who will only do so *for testing* with explicit warning and with your explicit permission.
+
+
 ### Software Lisencing
 
 We do not use software at Treefrog or put it on our laptops unless it has been paid for. Not only is it unethical and counterintuitive to Treefrog's values, but also, if we are caught doing this, it could hurt our team through litigation or problems.

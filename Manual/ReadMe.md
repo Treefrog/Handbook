@@ -43,9 +43,9 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 
 1. Basic Frog Obligations
 	* [Client Service](clientservice.md) - *"Treat clients and Frogs as you would have them treat you."*
-	* [Dress Code](dress.md) - *"Preferably wear clothes."*
+	* [Dress Code](dress.md) - *"Preferably, wear clothes."*
 	* [Social](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
-	* [confidentiality](confidentiality.md) - *"."*
+	* [Confidentiality](confidentiality.md) - *"You may not talk about clients outside of Treefrog."*
 	* [thirdpartycontent](thirdpartycontent.md) - *"."*
 	* [outofoffice](outofoffice.md) - *"."*
 	* [ownership](ownership.md) - *"."*
@@ -83,7 +83,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [devices](devices.md) - *"."*
 	* [belongings](belongings.md) - *"."*
 	* [purchasing](purchasing.md) - *"."*
-* Conflict of Interest
+* Conflicts of Interest
 	* [Overview](conflictofinterest.md) - *"Don't do ethically gray stuff."*
 	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*
 	* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
