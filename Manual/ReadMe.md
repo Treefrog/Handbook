@@ -37,79 +37,79 @@ You are obligated to carefully review, understand, and follow the provisions of 
 
 It is not possible to anticipate every situation that may arise in the workplace or to provide information that answers every possible question. However, we will try. If something is not abundantly clear, we will strive to make it so and ensure we adhere to the resulting clear discussion accordingly.
 
-#### TOC
+# TOC
 
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
 * Basic Frog Obligations
+	* [Client Service](clientservice.md) - *"Treat clients and Frogs as you would have them treat you."*
 	* [Dress Code](dress.md) - *"Preferably wear clothes."*
 	* [Social](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
-	* [clientservice](clientservice.md)
-	* [Exclusive Service](exclusiveservice.md) - *"You can only have this job."*
-	* [conflictofinterest](conflictofinterest.md)
-	* [confidentiality](confidentiality.md)
-	* [thirdpartycontent](thirdpartycontent.md)
-	* [outofoffice](outofoffice.md)
-	* [ownership](ownership.md)
-	* [injury](injury.md)
-	* [privacy](privacy.md)
-	* [Punctuality](Punctuality.md)
-	* [trademarks](trademarks.md)
+	* [confidentiality](confidentiality.md) - *"."*
+	* [thirdpartycontent](thirdpartycontent.md) - *"."*
+	* [outofoffice](outofoffice.md) - *"."*
+	* [ownership](ownership.md) - *"."*
+	* [injury](injury.md) - *"."*
+	* [privacy](privacy.md) - *"."*
+	* [Punctuality](Punctuality.md) - *"."*
+	* [trademarks](trademarks.md) - *"."*
+* [Conflicts of Interest](conflictofinterest.md) - *"Don't do ethically gray stuff."*
+	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*		* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
 * Hours and Pay
-	* [Hours](hours.md)
-		* [timekeeping](timekeeping.md)
-		* [Distractions](distractions.md)
-		* [probation](probation.md)
-		* [Breaks](breaks.md)
-	* [Holidays](holidays.md)
-	* [Vacations](vacations.md)
-	* [Compensation](Compensation.md)
-	* [Pay (Compensation)](pay.md)
-	* [sickdays](sickdays.md)
-	* [Overtime](overtime.md)
-		* [Exempted](Exempted.md)
-	* [Raises](raises.md)
-	* [commuting](commuting.md)
-	* [Workfromhome](workfromhome.md)
-	* [emergencyleave](emergencyleave.md)
+	* [Hours](hours.md) - *"."*
+		* [timekeeping](timekeeping.md) - *"."*
+		* [Distractions](distractions.md) - *"."*
+		* [probation](probation.md) - *"."*
+		* [Breaks](breaks.md) - *"."*
+	* [Holidays](holidays.md) - *"."*
+	* [Vacations](vacations.md) - *"."*
+	* [Compensation](Compensation.md) - *"."*
+	* [Pay (Compensation)](pay.md) - *"."*
+	* [sickdays](sickdays.md) - *"."*
+	* [Overtime](overtime.md) - *"."*
+		* [Exempted](Exempted.md) - *"."*
+	* [Raises](raises.md) - *"."*
+	* [commuting](commuting.md) - *"."*
+	* [Workfromhome](workfromhome.md) - *"."*
+	* [emergencyleave](emergencyleave.md) - *"."*
 * Extra Benefits
-	* [benefits](benefits.md)
-	* [bounties](bounties.md)
-	* [Recommendations](Recommendations.md)
-	* [Donations](Donations.md)
-	* [expenses](expenses.md)
+	* [benefits](benefits.md) - *"."*
+	* [bounties](bounties.md) - *"."*
+	* [Recommendations](Recommendations.md) - *"."*
+	* [Donations](Donations.md) - *"."*
+	* [expenses](expenses.md) - *"."*
 * Stuff
-	* [equipment](equipment.md)
-	* [devices](devices.md)
-	* [belongings](belongings.md)
-	* [purchasing](purchasing.md)
+	* [equipment](equipment.md) - *"."*
+	* [devices](devices.md) - *"."*
+	* [belongings](belongings.md) - *"."*
+	* [purchasing](purchasing.md) - *"."*
 * Diversity and Equality
-	* [respect](respect.md)
-	* [diversity](diversity.md)
-	* [birthdays](birthdays.md)
+	* [respect](respect.md) - *"."*
+	* [diversity](diversity.md) - *"."*
+	* [birthdays](birthdays.md) - *"."*
 * Problems at Work
-	* [security](security.md)
-	* [portfolio](portfolio.md)
-	* [safety](safety.md)
-	* [Quitting](Quitting.md)
-	* [Absenteeism](absenteeism.md)
-	* [discipline](discipline.md)
-	* [harassment](harassment.md)
-	* [inducements](inducements.md)
-	* [mistakes](mistakes.md)
-	* [drugsandalcohol](drugsandalcohol.md)
+	* [security](security.md) - *"."*
+	* [portfolio](portfolio.md) - *"."*
+	* [safety](safety.md) - *"."*
+	* [Quitting](Quitting.md) - *"."*
+	* [Absenteeism](absenteeism.md) - *"."*
+	* [discipline](discipline.md) - *"."*
+	* [harassment](harassment.md) - *"."*
+	* [inducements](inducements.md) - *"."*
+	* [mistakes](mistakes.md) - *"."*
+	* [drugsandalcohol](drugsandalcohol.md) - *"."*
 *Performance
-	* [performance](performance.md)
-	* [productivityflags](productivityflags.md)
-	* [Utilization](Utilization.md)
+	* [performance](performance.md) - *"."*
+	* [productivityflags](productivityflags.md) - *"."*
+	* [Utilization](Utilization.md) - *"."*
 * Treefrogs Obligations
-	* [records](records.md)
-	* [Alumni](Alumni.md)
+	* [records](records.md) - *"."*
+	* [Alumni](Alumni.md) - *"."*
 
 And then there is this stiuff
 	
-* [housekeeping](housekeeping.md)
-* [images](images.md)
+* [housekeeping](housekeeping.md) - *"."*
+* [images](images.md) - *"."*
 
 
 #### Terms of Reference:
