@@ -103,6 +103,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [drugsandalcohol](drugsandalcohol.md) - *"."*
 	* [mistakes](mistakes.md) - *"."*
 	* [Quitting](Quitting.md) - *"."*
+	* [Job Abandonment](Abandonment.md) - *"."*
 *Performance
 	* [performance](performance.md) - *"."*
 	* [productivityflags](productivityflags.md) - *"."*

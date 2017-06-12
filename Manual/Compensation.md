@@ -1,6 +1,8 @@
 # Compensation
 
-> We want people to get paid as effectively and quickly as possible.
+> Payment of Frogs should not get in the way of life or productivity.
+ 
+We want people to get paid as effectively and quickly as possible. Treefrog takes on additional administration costs and hassle in compensating its Frogs to assist Frogs and their families balance their life.
  
 ### Pay Schedule: Weekly
 
