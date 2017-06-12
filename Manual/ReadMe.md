@@ -41,7 +41,7 @@ It is not possible to anticipate every situation that may arise in the workplace
 
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
-1. Basic Frog Obligations
+* Basic Frog Obligations
 	* [Client Service](clientservice.md) - *"Treat clients and Frogs as you would have them treat you."*
 	* [Dress Code](dress.md) - *"Preferably, wear clothes."*
 	* [Social](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
@@ -71,7 +71,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Raises](raises.md) - *"."*
 	* [commuting](commuting.md) - *"."*
 	* [Workfromhome](workfromhome.md) - *"."*
-	* [emergencyleave](emergencyleave.md) - *"."*
+	* [Leave of Absences](emergencyleave.md) - *"."*
 * Benefits
 	* [benefits](benefits.md) - *"."*
 	* [bounties](bounties.md) - *"."*
