@@ -49,43 +49,41 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Privacy](privacy.md) - *"Don't be snoopy."*
 	* [Ownership](ownership.md) - *"Treefrog owns your brain."*
 	* [Third Party Content](thirdpartycontent.md) - *"It is illegal to steal other people's work."*
+	* [Trademarks](trademarks.md) - *"Respect the Brand."*
 * Basic Frog Expectations
-	* [Punctuality](Punctuality.md) - *"."*
-	* [Out of Office](outofoffice.md) - *"."*
-	* [injury](injury.md) - *"."*
-	* [trademarks](trademarks.md) - *"."*
-	* [housekeeping](housekeeping.md) - *"."*
+	* [Punctuality](Punctuality.md) - *"Be there when you say you will be."*
+	* [Out of Office](outofoffice.md) - *"If you leave you office, repectfully let people know."*
+	* [Injury](injury.md) - *"If you get hurt, say something immediately."*
+	* [Housekeeping](housekeeping.md) - *"We are not your mother."*
 * Hours and Pay
-	* [Hours](hours.md) - *"."*
-		* [timekeeping](timekeeping.md) - *"."*
-		* [Distractions](distractions.md) - *"."*
-		* [probation](probation.md) - *"."*
-		* [Breaks](breaks.md) - *"."*
-	* [Holidays](holidays.md) - *"."*
-	* [Vacations](vacations.md) - *"."*
-	* [Compensation](Compensation.md) - *"."*
+	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
+		* [timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
+		* [Distractions](distractions.md) - *"Don't let yourself get distracted."*		* [Breaks](breaks.md) - *"We don't pay for breaks."*
+	* [Holidays](holidays.md) - *"Stats are stats."*
+	* [Vacations](vacations.md) - *"2 weeks."*
+	* [Compensation](Compensation.md) - *"Weekly pay."*
 	* [Pay (Compensation)](pay.md) - *"."*
-	* [sickdays](sickdays.md) - *"."*
-	* [Overtime](overtime.md) - *"."*
-		* [Exempted](Exempted.md) - *"."*
-	* [Raises](raises.md) - *"."*
-	* [commuting](commuting.md) - *"."*
-	* [Workfromhome](workfromhome.md) - *"."*
-	* [Leave of Absences](emergencyleave.md) - *"."*
+	* [sickdays](sickdays.md) - *"5 sick days."*
+	* [Overtime](overtime.md) - *"No overtime."*
+		* [Exempted](Exempted.md) - *"Many people are exempt."*
+	* [Raises](raises.md) - *"We do not give "cost of living" increases, and we do not give raises.."*
+	* [commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
+	* [Workfromhome](workfromhome.md) - *"Don't work from home."*
+	* [Leave of Absences](emergencyleave.md) - *"If your family member dies, you should take a break and mourn."*
+	* [probation](probation.md) - *"3 months probation is normal."*
 * Benefits
-	* [benefits](benefits.md) - *"."*
-	* [bounties](bounties.md) - *"."*
-	* [Recommendations](Recommendations.md) - *"."*
-	* [Donations](Donations.md) - *"."*
-	* [expenses](expenses.md) - *"."*
-	* [portfolio](portfolio.md) - *"."*
+	* [benefits](benefits.md) - *"We want people to be super healthy."*
+	* [bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
+	* [Recommendations](Recommendations.md) - *"We don't write recomnedations."*
+	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
+	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
+	* [Portfolio](portfolio.md) - *"You cannot use Treefrog work in a personal portfolio."*
 * Stuff
-	* [equipment](equipment.md) - *"."*
-	* [devices](devices.md) - *"."*
-	* [belongings](belongings.md) - *"."*
-	* [purchasing](purchasing.md) - *"."*
-* Conflicts of Interest
-	* [Overview](conflictofinterest.md) - *"Don't do ethically gray stuff."*
+	* [Equipment](equipment.md) - *"."*
+	* [devices](devices.md) - *"Treat your stuff with respect."*
+	* [belongings](belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
+	* [purchasing](purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
+* Conflicts of Interest ([Overview](conflictofinterest.md)) - *"Don't do ethically gray stuff."*
 	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*
 	* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
