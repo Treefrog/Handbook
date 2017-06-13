@@ -65,9 +65,9 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Compensation](Compensation.md) - *"Weekly pay."*
 	* [Pay (Compensation)](pay.md) - *"."*
 	* [Overtime](overtime.md) - *"We do not do overtime."*
-		* [Exempted](Exempted.md) - *"Many people are exempt."*
-	* [Raises](raises.md) - *"We do not give "cost of living" increases, and we do not give raises.."*
-	* [commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
+		* [Exempt](Exempted.md) - *"Many people are exempt."*
+		* [Non-Exempt](Exempted.md) - *"Some people aren't exempt."*
+	* [Raises](raises.md) - *"We do not give "cost of living" increases, and we do not give raises."*
 	* [Workfromhome](workfromhome.md) - *"Don't work from home."*
 	* [probation](probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
@@ -89,6 +89,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Short Term Disability](std.md) - *"We want people to be super healthy."*
 	* [Long Term Disability](ltd.md) - *"We want people to be super healthy."*
 	* [bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
+	* [commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* [Recommendations](Recommendations.md) - *"We don't write recomnedations."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
