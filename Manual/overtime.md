@@ -1,12 +1,12 @@
 # Overtime
 
-> Don't ever work more than 44 hours a week on average. We do not pay overtime.
+> Don't ever work more than 44 hours a week on average. We do not do overtime.
 
 *Consistently working more than 44 hours a week will cause you to burnout and that is not in the best interest of you, your teammates or Treefrog.*
 
 All Frogs are expected to work between 40 and 44 hours per week per week in return for the value of their salary.  Frogs are not permitted to unilaterally work beyond their regular work hours without prior approval from the CEO. 
 
-ESA regulations clearly state Treefrog is obligated to pay overtime for any hour over 44 hours worked every week by [Non-Exempt](Manual/Exempted.md) Frogs. However, our salaried, flexible, managed work environment (with very few punishments for missing deadlines or leaving early to go to the Doctor and lots of internal fun-time) has no reason to compel you to *ever* work more than an average of 44 billable hours a week unless all hell has broken loose. Ergo, as a rule, we don't pay overtime - not in defiance of ESA - but because it shouldn't ever happen as a matter of your health and our working framework for ensuring this.
+ESA regulations clearly state Treefrog is obligated to pay overtime for any hour over 44 hours worked every week by [Non-Exempt](Manual/Exempted.md) Frogs. However, our salaried, flexible, managed work environment (with very few punishments for missing deadlines or leaving early to go to the Doctor and lots of internal fun-time) has no reason to compel you to *ever* work more than an average of 44 billable hours a week unless all hell has broken loose. Ergo, as a rule, we don't do overtime - it shouldn't ever happen as a matter of your health and our working framework for ensuring this.
 
 ([ESA Overtime Guidelines](https://www.labour.gov.on.ca/english/es/pubs/guide/overtime.php) for more details)
 
@@ -24,7 +24,7 @@ Technically, authorized hours worked in excess of 44 hours in any week will be p
 
 > Not all Frogweb Hours are actually Paid Hours
 
-- Hours only count as "paid hours" if you are **obligated** to be there or do them. Team building days, client lunches, Pod training, most events, self-learning, Learn O'Clock and most administration time is all "by choice only", and therefore does not count towards "overtime hours" (as proven by the very rare occurence of all Frogs attending without punitive measures being taken). As all other hours should be billable against a client, only billable hours count towards your "overtime calculations".
+- Hours only count as "paid hours" if you are **obligated** to be there or do them. Voluntary components: team building days, client lunches, Pod training, most events, self-learning, Learn O'Clock and most administration time is all "by choice only", and therefore does not count towards "overtime hours" (as proven by the very rare occurence of all Frogs attending most events without punitive measures being taken). As all other hours should be billable against a client, only billable hours count towards your "overtime calculations".
 
 > This is a Salaried environment, not an Hourly one. It's up to you to self-manage with common sense.
 
@@ -38,9 +38,15 @@ Technically, authorized hours worked in excess of 44 hours in any week will be p
 
 - If Frog counts you working more than 44 hours a week, it is likely a symptom of poor role fit, lack of experience, or emergency situation(s), rather than excessive amounts of work. As Treefrog allows most roles a significantly high degree of flexibility, it is expected that if you cannot do your job within the regular work week hours, you will make arrangements with Treefrog leadership to provide you with additional training for efficiency, support, or redefinition of your role to ensure you can complete your work in an appropriate work day.
 
-*If FrogWeb shows you consistently breaking above 44-48 hours, you get the first conversation about your role and how to change/modify your role or efficiency to keep you from breaking down. Together, we will figure out how to fix it.*
+*If FrogWeb shows you consistently breaking above 44 hours, you get the first conversation about your role and how to change/modify your role or efficiency to keep you from breaking down. Together, we will figure out how to fix it.*
 
 *YOU are obligated to make sure this happens, not anyone else. If you feel you are being inappropriately obligated to work overtime, please speak to the CEO at once.*
+
+### Over 44 Approved Billable Hours Exceptions
+
+If you have worked overtime on an approved project on an exceptional basis only, due to extraorinady client demand, AND you are not exempt from the overtime rule, AND you have removed volutary timing and you exceed 44 hours then please go talk to the CEO immediately to discuss.
+
+Approved overtime hours will be paid at 1.5 times on an exceptional and approved basis only.
 
 ### Rationale
 

@@ -58,21 +58,36 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 * Hours and Pay
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 		* [timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
-		* [Distractions](distractions.md) - *"Don't let yourself get distracted."*		* [Breaks](breaks.md) - *"We don't pay for breaks."*
-	* [Holidays](holidays.md) - *"Stats are stats."*
+		* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
+		* [Breaks](breaks.md) - *"We don't pay for breaks."*
+	* [Public Holidays](holidays.md) - *"Stats are stats."*
 	* [Vacations](vacations.md) - *"2 weeks."*
 	* [Compensation](Compensation.md) - *"Weekly pay."*
 	* [Pay (Compensation)](pay.md) - *"."*
-	* [sickdays](sickdays.md) - *"5 sick days."*
-	* [Overtime](overtime.md) - *"No overtime."*
+	* [Overtime](overtime.md) - *"We do not do overtime."*
 		* [Exempted](Exempted.md) - *"Many people are exempt."*
 	* [Raises](raises.md) - *"We do not give "cost of living" increases, and we do not give raises.."*
 	* [commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* [Workfromhome](workfromhome.md) - *"Don't work from home."*
-	* [Leave of Absences](emergencyleave.md) - *"If your family member dies, you should take a break and mourn."*
 	* [probation](probation.md) - *"3 months probation is normal."*
+	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
+* Emergency Leave (8 Paid, 2 unpaid)
+	* [sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
+	* [Bereavment](emergencyleave.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
+* Leaves of Absences (Upaid)
+	* [Pregnancy](sickdays.md) - *"."*
+	* [Paternity](sickdays.md) - *"."*
+	* [Family Medical](sickdays.md) - *"."*
+	* [Family Care Giver](sickdays.md) - *"."*
+	* [Crime related Death and Disappearance](sickdays.md) - *"."*
+	* [Critically Ill Child](sickdays.md) - *"."*
+	* [Court or Jury Duty](sickdays.md) - *"."*
+	* [Voting](sickdays.md) - *"."*
+	* [Domestic Violence](sickdays.md) - *"."*
 * Benefits
 	* [benefits](benefits.md) - *"We want people to be super healthy."*
+	* [Short Term Disability](std.md) - *"We want people to be super healthy."*
+	* [Long Term Disability](ltd.md) - *"We want people to be super healthy."*
 	* [bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
 	* [Recommendations](Recommendations.md) - *"We don't write recomnedations."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
