@@ -1,12 +1,14 @@
 # Ownership
 
-> Anything produced by Treefrog is owned by Treefrog.
+> Treefrog owns your brain.
 
-All work products produced by all salaried Frogs during his or her salaried tenure at Treefrog is owned by Treefrog. This includes all works *that would be created by Treefrog during the course of regular work*, including but not limited to, graphic design, code, written content, and anything you do or think. We share a brain, and we own together what comes from our brains.
+All work products produced by all salaried Frogs during salaried tenure at Treefrog is owned (and copyrighted) by Treefrog. This includes all works *that would be created by Treefrog during the course of regular work*, including but not limited to, graphic design, code, written content, and anything you do or think. We share a brain, share equipment and knowledge, and we own what comes from our efforts.
 
-You cannot have flexible hours, forgiving attitudes, work the odd evening to catch up and then suddenly "be working on something else not relevant to the company".
+You cannot have flexible hours, mobile workspaces and privileges for working from home, forgiving attitudes, work the odd evening to catch up and then suddenly "be working on something else not relevant to the company" for work that we usually do.
 
 We are a service company. We could get sued by our clients, and have, if it turns out you were working on something else or by mistake conflated ideas the client paid for into what you were doing.
+
+**Example** - Tesla Motors filed a lawsuit against Fisker Automotive, alleging that Henrik Fisker stole Tesla's Model S hybrid technology and was using it to develop the Karma. Tesla's suit claimed that the design work done for the Model S sedan by Fisker Coachbuild was substandard, and that Fisker Automotive diverted its best ideas to the Karma. This cost US$1,144,285 in legal costs.
 
 ### Side Projects
 
@@ -14,15 +16,6 @@ You can, with explicit permission and within defined boundaries that Treefrog de
 
 By definition, these projects would need to be completely outside the boundaries of Conflict of Interest.
 
-### Sharing Work on Portfolios
+### Emails and Communication
 
-#### Rationale
-- We have been sued before when someone posted client work on his or her own personal site.
-- Work that you do at Treefrog should be work that has alternate Frogs working with you to make it excellent. Therefore, it is rare that work that you have done is exclusively yours.
--  All projects should be executed on Treefrog’s equipment and would then be considered to be solely owned by Treefrog. If the project is contractually articulated, the client for whom it has been developed would be the sole owner. 
--  This work may not be shared or used externally from Treefrog. This includes any work completed for a Frog’s personal use, such as, a portfolio.
-
-If a Frog’s employment is terminated or the Frog resigns, all work created while employed by Treefrog must be returned to Treefrog, and all remnants must be deleted from the individual’s personal device. No information may be forwarded or shared with any third-party operation.
-
-Using work created at Treefrog outside of the Treefrog environment will lead to legal action.
-
+See [Privacy](privacy.md)

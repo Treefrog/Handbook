@@ -46,9 +46,9 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Dress Code](dress.md) - *"Preferably, wear clothes."*
 	* [Social](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
 	* [Confidentiality](confidentiality.md) - *"You may not talk about clients outside of Treefrog."*
-	* [Privacy](privacy.md) - *"."*
-	* [Ownership](ownership.md) - *"."*
-	* [Third Party Content](thirdpartycontent.md) - *"."*
+	* [Privacy](privacy.md) - *"Don't be snoopy."*
+	* [Ownership](ownership.md) - *"Treefrog owns your brain."*
+	* [Third Party Content](thirdpartycontent.md) - *"It is illegal to steal other people's work."*
 * Basic Frog Expectations
 	* [Punctuality](Punctuality.md) - *"."*
 	* [Out of Office](outofoffice.md) - *"."*

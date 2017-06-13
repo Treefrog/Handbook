@@ -1,8 +1,8 @@
 # Privacy
 
-> Everyone has a right to a reasonable expectation of his or her privacy. Do not be snoopy.
+> Don't be snoopy.
 
-The privacy of our Frogs and their personal information is of great importance to Treefrog.
+The privacy of our Frogs and their personal information is of great importance to Treefrog. Everyone has a right to a reasonable expectation of his or her privacy. 
 
 #### General Personal Privacy
 
