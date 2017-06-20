@@ -12,7 +12,7 @@ ESA regulations clearly state Treefrog is obligated to pay overtime for any hour
 
 If you have **billed** over **44 hours** for **over three weeks in a row**, you should speak to the CEO immediately to ensure you are in compliance with our maximum average weekly hourly work week of 44 hours. You shouldn't be doing this, and we should be re-thinking some things.
 
-Technically, authorized hours worked in excess of 44 hours in any week will be paid at a rate of 1.5 times the regular rate for all [non-exempt](Manual/Exempted.md) Frogs.  A (non-exempt) Frog who works beyond forty-four (44) hours in a work week without prior authorization obtained in advance, is in violation of our policies, so they will be paid and then reviewed for going against our policy.
+If authorized and approved, any hours worked in excess of 44 hours in any week will be paid at a rate of 1.5 times the regular rate for all [non-exempt](Manual/Exempted.md) Frogs.  A (non-exempt) Frog who works beyond forty-four (44) hours in a work week without prior authorization obtained in advance, is in violation of our policies, so they will be paid and then asked to come speak to the CEO.
 
 *[Bounties](Manual/Boutnies.md) do not qualify for overtime pay, as they are all by choice and have their own payment terms attached.
 
@@ -20,7 +20,7 @@ Technically, authorized hours worked in excess of 44 hours in any week will be p
 
 > Many Frogs are Exempt, anyway
 
-- Many people at Treefrog to not qualify for overtime anyway under ESA regulations. You can check if you qualify for overtime hours here: [Exempted Frogs](Manual/Exempt.md). The rule of thumb is, if you are in IT or have "Manager" in your title, you are exempted.
+- Many people at Treefrog do not qualify for overtime anyway under ESA regulations. You can check if you qualify for overtime hours here: [Exempted Frogs](Manual/Exempt.md). The rule of thumb is, if you are an IT Professional or perform managerial or supervisory functions on a regular basis, you are exempted.
 
 > Not all Frogweb Hours are actually Paid Hours
 
@@ -28,7 +28,7 @@ Technically, authorized hours worked in excess of 44 hours in any week will be p
 
 > This is a Salaried environment, not an Hourly one. It's up to you to self-manage with common sense.
 
-- By accepting a contract with flexible hours and a salaried role, you agree to average your hours over several weeks at a time, as per ESA regulations. We don't dock your pay if you are short of your 40 hour obligations. But in return, you don't get paid the weeks you work over this, either. This is consistent with the ideals of work-life balance at Treefrog.
+- When you joined our frog pond, you accepted a position with the understanding that you would work a flexible 40 hour work week in exchange for a salary. We don't dock your pay if you are short of your 40 hour obligations. This is consistent with the ideals of work-life balance at Treefrog.
 
 > If you wanna look back, let's look back to the letter of the law.
 
@@ -44,9 +44,9 @@ Technically, authorized hours worked in excess of 44 hours in any week will be p
 
 ### Over 44 Approved Billable Hours Exceptions
 
-If you have worked overtime on an approved project on an exceptional basis only, due to extraorinady client demand, AND you are not exempt from the overtime rule, AND you have removed volutary timing and you exceed 44 hours then please go talk to the CEO immediately to discuss.
+If you have been approved to work overtime due to a special project or a client demand or deadline AND you are not exempt from the overtime rule AND you have removed voluntary timing AND you exceed 44 hours, then please go talk to the CEO immediately to discuss.
 
-Approved overtime hours will be paid at 1.5 times on an exceptional and approved basis only.
+Approved overtime hours will be paid at a rate of 1.5 times.
 
 ### Rationale
 
