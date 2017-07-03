@@ -42,9 +42,9 @@ It is not possible to anticipate every situation that may arise in the workplace
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
 * Basic Frog Obligations
-	* [Client Service](clientservice.md) - *"Treat clients and Frogs as you would have them treat you."*
+	* [Client Service](clientservice.md) - *"Treat both Clients and Frogs as you would have them treat you."*
 	* [Dress Code](dress.md) - *"Preferably, wear clothes."*
-	* [Social](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
+	* [Social Ettiquette](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
 	* [Confidentiality](confidentiality.md) - *"You may not talk about clients outside of Treefrog."*
 	* [Privacy](privacy.md) - *"Don't be snoopy."*
 	* [Ownership](ownership.md) - *"Treefrog owns your brain."*
@@ -57,17 +57,16 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Housekeeping](housekeeping.md) - *"We are not your mother."*
 * Hours and Pay
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
-		* [timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
+		* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
 		* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
 		* [Breaks](breaks.md) - *"We don't pay for breaks."*
-	* [Public Holidays](holidays.md) - *"Stats are stats."*
-	* [Vacations](vacations.md) - *"2 weeks."*
-	* [Compensation](Compensation.md) - *"Weekly pay."*
-	* [Pay (Compensation)](pay.md) - *"."*
+	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
+	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
+	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
 	* [Overtime](overtime.md) - *"We do not do overtime."*
 		* [Exempt](Exempted.md) - *"Many people are exempt."*
 		* [Non-Exempt](Exempted.md) - *"Some people aren't exempt."*
-	* [Raises](raises.md) - *"We do not give "cost of living" increases, and we do not give raises."*
+	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
 	* [Workfromhome](workfromhome.md) - *"Don't work from home."*
 	* [probation](probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
