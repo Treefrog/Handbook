@@ -100,8 +100,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [belongings](belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
 	* [purchasing](purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
 * Conflicts of Interest ([Overview](conflictofinterest.md)) - *"Don't do ethically gray stuff."*
-	* [Exclusive Service](exclusiveservice.md) - *"You can only have this one job."*
-	* [Moonlighting](Moonlighting.md) - *"You shouldn't be doing things outside of work that Treefrog pays you to do for clients."*
+	* [Exclusive Service and Moonlighting](exclusiveservice.md) - *"You have ONE job."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
 	* Fraud
 * Diversity and Equality
