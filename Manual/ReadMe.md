@@ -58,7 +58,6 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 * Hours and Pay
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 		* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
-		* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
 		* [Breaks](breaks.md) - *"We don't pay for breaks."*
 	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
 	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
@@ -66,14 +65,15 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Overtime](overtime.md) - *"We do not do overtime."*
 		* [Exempt](Exempted.md) - *"Many people are exempt."*
 		* [Non-Exempt](Exempted.md) - *"Some people aren't exempt."*
+	* [Bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
 	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
-	* [Workfromhome](workfromhome.md) - *"Don't work from home."*
-	* [probation](probation.md) - *"3 months probation is normal."*
+	* [Workfromhome](workfromhome.md) - *"Don't work from home, but..."*
+	* [Probation](probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
-* Emergency Leave (8 Paid, 2 unpaid)
-	* [sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
+* Emergency Leave (8 Paid days, 2 Unpaid days)
+	* [Sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
 	* [Bereavment](emergencyleave.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
-* Leaves of Absences (Upaid)
+* Leaves of Absences (UNPAID, but keep your job)
 	* [Pregnancy](sickdays.md) - *"."*
 	* [Paternity](sickdays.md) - *"."*
 	* [Family Medical](sickdays.md) - *"."*
@@ -84,44 +84,45 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Voting](sickdays.md) - *"."*
 	* [Domestic Violence](sickdays.md) - *"."*
 * Benefits
-	* [benefits](benefits.md) - *"We want people to be super healthy."*
+	* [Health Benefits](benefits.md) - *"We want people to be super healthy."*
 	* [Short Term Disability](std.md) - *"We want people to be super healthy."*
 	* [Long Term Disability](ltd.md) - *"We want people to be super healthy."*
-	* [bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
-	* [commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
+	* [Bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
+	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* [Recommendations](Recommendations.md) - *"We don't write recomnedations."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
 	* [Portfolio](portfolio.md) - *"You cannot use Treefrog work in a personal portfolio."*
 * Stuff
 	* [Equipment](equipment.md) - *"."*
-	* [devices](devices.md) - *"Treat your stuff with respect."*
-	* [belongings](belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
-	* [purchasing](purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
+	* [Devices](devices.md) - *"Treat your stuff with respect."*
+	* [Belongings](belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
+	* [Purchasing](purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
 * Conflicts of Interest ([Overview](conflictofinterest.md)) - *"Don't do ethically gray stuff."*
 	* [Exclusive Service and Moonlighting](exclusiveservice.md) - *"You have ONE job."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
 	* Fraud
 * Diversity and Equality
-	* [respect](respect.md) - *"."*
-	* [diversity](diversity.md) - *"."*
-	* [birthdays](birthdays.md) - *"."*
+	* [Respect](respect.md) - *"."*
+	* [Diversity](diversity.md) - *"."*
+	* [Birthdays](birthdays.md) - *"."*
 * Problems at Work
-	* [discipline](discipline.md) - *"."*
-	* [security](security.md) - *"."*
-	* [safety](safety.md) - *"."*
-	* [harassment](harassment.md) - *"."*
+	* [Discipline](discipline.md) - *"."*
+	* [Security](security.md) - *"."*
+	* [Safety](safety.md) - *"."*
+	* [Harassment](harassment.md) - *"."*
 	* [Absenteeism](absenteeism.md) - *"."*
-	* [drugsandalcohol](drugsandalcohol.md) - *"."*
-	* [mistakes](mistakes.md) - *"."*
+	* [Drugsandalcohol](drugsandalcohol.md) - *"."*
+	* [Mistakes](mistakes.md) - *"."*
 	* [Quitting](Quitting.md) - *"."*
 	* [Job Abandonment](Abandonment.md) - *"."*
 *Performance
-	* [performance](performance.md) - *"."*
-	* [productivityflags](productivityflags.md) - *"."*
+	* [Performance](performance.md) - *"."*
+	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
+	* [Productivityflags](productivityflags.md) - *"."*
 	* [Utilization](Utilization.md) - *"."*
 * Treefrogs Obligations
-	* [records](records.md) - *"."*
+	* [Records](records.md) - *"."*
 	* [Alumni](Alumni.md) - *"."*
 
 
