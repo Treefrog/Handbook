@@ -6,7 +6,7 @@ In addition, Treefrog's intent is to excel and provide an environment in which t
 
 What follows is a collaborative description of how we are going accomplish this Heraclean task.
 
-# Table of Contents
+## Table of Contents
 
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
