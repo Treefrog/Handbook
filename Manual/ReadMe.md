@@ -9,7 +9,7 @@ In addition, Treefrog's intent is to excel and provide an environment in which t
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
 * Basic Frog Expectations
-	* [Attitude](attitude.md) - *"Success at Treefrog is all about Positive Attitude."*
+	* [Attitude](attitude.md) - *"Success at Treefrog is all about Attitude."*
 	* [Client Service](clientservice.md) - *"Treat both Clients and Frogs as you would have them treat you."*
 	* [Social Ettiquette](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
 	* [Punctuality](Punctuality.md) - *"Be there when you say you will be."*
