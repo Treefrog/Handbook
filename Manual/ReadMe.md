@@ -33,9 +33,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
 	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
-	* [Overtime](overtime.md) - *"We do not do overtime."*
-		* [Exempt](Exempted.md) - *"Many people are exempt."*
-		* [Non-Exempt](Exempted.md) - *"Some people aren't exempt."*
+	* [Overtime](overtime.md) - *"We do not do overtime."* (Also, [Exempt](Exempted.md) & [Non-Exempt](Exempted.md))
 	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
 	* [Work from home](workfromhome.md) - *"Don't work from home, but..."*
 	* [Probation](probation.md) - *"3 months probation is normal."*

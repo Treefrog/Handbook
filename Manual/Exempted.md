@@ -4,11 +4,13 @@
 
 Under the Ontario Employment Standards Act, 2000 (the “Act”), certain employee groups are exempt from specific sections of the Act.
 
-Exempt frogs are those frogs holding positions that are managerial or supervisory in nature, or in certain professional occupations such as IT professionals.   At Treefrog, these positions include <i>but are not limited to</i> 
+### Exempt
+
+Exempt frogs are those frogs holding positions that are managerial or supervisory in nature, or in certain professional occupations such as IT professionals.   At Treefrog, these positions include <i>but are not limited to</i>;
 
 * the CEO, 
 * Business Development Manager, 
-* the Controller, 
+* Controller, 
 * Creative Director, 
 * Web Development Manager, 
 * Quartermaster, 
@@ -22,6 +24,12 @@ Exempt frogs are those frogs holding positions that are managerial or supervisor
 * New Business Advocate
 
 These employees are exempt from some provisions of the Act, including hours of work, rest periods and overtime.
+
+#### Exemptions Include
+
+- You can work up to 60 Hours a week without consideration for overtime pay. (Don't do it anyway, we don't do overtime).
+
+### Non-Exempt
 
 Non-exempt frogs are those frogs who hold positions that are different than the above. Examples of such positions include but are not limited to: 
 
@@ -40,7 +48,3 @@ Non-exempt frogs are those frogs who hold positions that are different than the 
 * Social Media Coordinator, 
 
 ...and other administrative roles. The hours of work, rest periods and overtime policies apply to all of these frogs.
-
-### Exemptions Include
-
-- You can work up to 60 Hours a week without consideration for overtime pay. (Don't do it anyway).
