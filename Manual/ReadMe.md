@@ -61,7 +61,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 * Extra Benefits
 	* [Bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
 	* Ninja Projects
-	* Green Wearing
+	* [Green Wearing](greenwearing.md) - *"You become what you wear."*
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
 * Performance
@@ -115,6 +115,12 @@ The purpose of this Manual is to:
 The policies and procedures in this Manual will be added and expanded upon as the company and Frogs continue to grow and mature.
 
 It is not enough to be a good place to work. Treefrog wants to set an example for all other businesses on how the perfect business should be run and how all people, in every job, should act.
+
+### Common Sense
+
+![alt text](images/common-sense-superpower.jpg "Deadpool Common Sense")
+
+Everything in this manual should be common sense to most - though given historical and cultural conditioning, we may all see the world differently. However, when confused about what the correct answer should be - lean towards common sense!
 
 #### How Often Should I Read the Manual?
 
