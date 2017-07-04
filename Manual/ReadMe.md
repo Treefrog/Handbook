@@ -116,8 +116,8 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Mistakes](mistakes.md) - *"."*
 	* [Quitting](Quitting.md) - *"."*
 	* [Job Abandonment](Abandonment.md) - *"."*
-*Performance
-	* [Performance](performance.md) - *"."*
+* Performance
+	* [Production Performance](productionperformance.md) - *"."*
 	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
 	* [Productivityflags](productivityflags.md) - *"."*
 	* [Utilization](Utilization.md) - *"."*
