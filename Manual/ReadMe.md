@@ -42,15 +42,15 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
 	* [Bereavment](emergencyleave.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
-	* [Pregnancy](sickdays.md) - *"."*
-	* [Paternity](sickdays.md) - *"."*
-	* [Family Medical](sickdays.md) - *"."*
-	* [Family Care Giver](sickdays.md) - *"."*
-	* [Crime related Death and Disappearance](sickdays.md) - *"."*
-	* [Critically Ill Child](sickdays.md) - *"."*
-	* [Court or Jury Duty](sickdays.md) - *"."*
-	* [Voting](sickdays.md) - *"."*
-	* [Domestic Violence](sickdays.md) - *"."*
+	* [Pregnancy](Pregnancy.md) - *"."*
+	* [Paternity](Paternity.md) - *"."*
+	* [Family Medical](FamilyMedical.md) - *"."*
+	* [Family Care Giver](FamilyCareGiver.md) - *"."*
+	* [Crime related Death and Disappearance](Crimerelated.md) - *"."*
+	* [Critically Ill Child](CriticallyIllChild.md) - *"."*
+	* [Court or Jury Duty](JuryDuty.md) - *"."*
+	* [Voting](Voting.md) - *"."*
+	* [Domestic Violence](DomesticViolence.md) - *"."*
 * **Expenses**
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
