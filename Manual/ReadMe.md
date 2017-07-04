@@ -1,14 +1,16 @@
-# The Treefrog Frog Manual
+# The Manual
 
 Treefrog's goal is to foster a fun, productive, and enthusiastic environment that employees look forward to being a part of each day. We would like the workplace to be full of inspiration, creativity, and innovation.
 
 In addition, Treefrog's intent is to excel and provide an environment in which to excel. Treefrog would like Frogs to have the most respected and coveted jobs in all industries and maintain high personal and corporate reputations in a stimulating, supportive workplace. In return, Treefrog expects individuals to be highly, personally motivated, to work harder and longer, to have extraordinary intent to achieve and intent to comprehend, to be more self-aware, more self-managing, and more personally accountable than people in any other circumstance at any other job. It is a big ask.
 
+What follows is a collaborative description of how we are going accomplish this Heraclean task.
+
 # Table of Contents
 
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
-* Basic Frog Expectations
+* **Basic Frog Expectations**
 	* [Attitude](attitude.md) - *"Success at Treefrog is all about Attitude."*
 	* [Client Service](clientservice.md) - *"Treat both Clients and Frogs as you would have them treat you."*
 	* [Social Ettiquette](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
@@ -16,7 +18,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Dress Code](dress.md) - *"Preferably, wear clothes."*
 	* [Housekeeping](housekeeping.md) - *"We are not your mother."*
 	* [Out of Office](outofoffice.md) - *"If you leave you office, let people know."*
-* Basic Frog Obligations
+* **Basic Frog Obligations**
 	* [Confidentiality](confidentiality.md) - *"You may not talk about clients outside of Treefrog."*
 	* [Privacy](privacy.md) - *"Don't be snoopy."*
 	* [Ownership](ownership.md) - *"Treefrog owns your brain."*
@@ -24,7 +26,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Third Party Content](thirdpartycontent.md) - *"It is illegal to steal other people's work."*
 	* [Trademarks](trademarks.md) - *"Respect the Brand."*
 	* [Records](records.md) - *"."*
-* Hours and Pay
+* **Hours and Pay**
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 	* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
 	* [Breaks](breaks.md) - *"We don't pay for breaks."*
@@ -38,10 +40,10 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Work from home](workfromhome.md) - *"Don't work from home, but..."*
 	* [Probation](probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
-* Emergency Leave (8 Paid days, 2 Unpaid days)
+* **Emergency Leave (8 Paid days, 2 Unpaid days)**
 	* [Sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
 	* [Bereavment](emergencyleave.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
-* Leaves of Absences (UNPAID, but stay a Frog)
+* **Leaves of Absences (UNPAID, but stay a Frog)**
 	* [Pregnancy](sickdays.md) - *"."*
 	* [Paternity](sickdays.md) - *"."*
 	* [Family Medical](sickdays.md) - *"."*
@@ -51,46 +53,46 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Court or Jury Duty](sickdays.md) - *"."*
 	* [Voting](sickdays.md) - *"."*
 	* [Domestic Violence](sickdays.md) - *"."*
-* Expenses
+* **Expenses**
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
-* Benefits
+* **Benefits**
 	* [Health Benefits](benefits.md) - *"We want people to be super healthy."*
 	* [Short Term Disability](std.md) - *"We want people to be super healthy."*
 	* [Long Term Disability](ltd.md) - *"We want people to be super healthy."*
-* Extra Benefits
+* **Extra Benefits**
 	* [Bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
 	* Ninja Projects
 	* [Green Wearing](greenwearing.md) - *"You become what you wear."*
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
-* Performance
+* **Performance**
 	* [Production Performance](productionperformance.md) - *"."*
 	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
 	* [Productivityflags](productivityflags.md) - *"."*
 	* [Utilization](Utilization.md) - *"."*
 	* [Discipline](discipline.md) - *"."*
-* Physical Stuff
+* **Physical Stuff**
 	* [Equipment](equipment.md) - *"."*
 	* [Devices](devices.md) - *"Treat your stuff with respect."*
 	* [Belongings](belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
 	* [Purchasing](purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
-* Conflicts of Interest ([Overview](conflictofinterest.md)) - *"Don't do ethically gray stuff."*
+* **Conflicts of Interest** ([Overview](conflictofinterest.md)) - *"Don't do ethically gray stuff."*
 	* [Exclusive Service and Moonlighting](exclusiveservice.md) - *"You have ONE job."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
 	* Fraud
-* Diversity and Equality
+* **Diversity and Equality**
 	* [Respect](respect.md) - *"."*
 	* [Diversity](diversity.md) - *"."*
 	* [Birthdays](birthdays.md) - *"."*
-* Problems at Work
+* **Problems at Work**
 	* [Security](security.md) - *"."*
 	* [Safety](safety.md) - *"."*
 	* [Harassment](harassment.md) - *"."*
 	* [Absenteeism](absenteeism.md) - *"."*
 	* [Drugsandalcohol](drugsandalcohol.md) - *"."*
 	* [Mistakes](mistakes.md) - *"."*
-* Leaving Treefrog
+* **Leaving Treefrog**
 	* [Quitting](Quitting.md) - *"If you leave Treefrog high and dry, you suck."*
 	* [Job Abandonment](Abandonment.md) - *"Don't just disappear."*
 	* [Recommendations](Recommendations.md) - *"We don't write recommendations."*
