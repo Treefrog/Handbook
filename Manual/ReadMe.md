@@ -25,7 +25,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Injury](injury.md) - *"If you get hurt, say something immediately."*
 	* [Third Party Content](thirdpartycontent.md) - *"It is illegal to steal other people's work."*
 	* [Trademarks](trademarks.md) - *"Respect the Brand."*
-	* [Records](records.md) - *"."*
+	* [Records](records.md) - *"We keep paper about you."*
 * **Hours and Pay**
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 	* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*

@@ -1,23 +1,33 @@
 # Records and Files
 
-Proper controls and procedures are followed for the creation and maintenance of personnel records and documents. Treefrog is responsible for the storage and privacy of this information and will take necessary precautions to prevent misuse of information. No information is retained or disseminated that contravenes Human Rights legislation or other provincial or federal legislation.
+> We keep paper about you.
 
-Upon hire, a file is established that contains, but is not limited to, the following documentation:
+Treefrog is obligated to keep quite a bit of information on you. Treefrog is responsible for the storage and privacy of this information and will take necessary precautions to prevent misuse of information.
 
-1. Name, address, age, social insurance number
-2. Company application or resume
-3. Occupation, including dates and particulars of hire
-4. A written offer of employment
-5. Banking information
-6. Income tax information (TD1)
-7. Leaves of absence
-8. Letters of commendation or corrective action
-9. Change of status forms for any term of employment or personal information that has been altered
-10. Emergency contact information
-11. Annual reconciliation of number of vacation days accumulated, number of vacation days taken, earned vacation pay, and vacation paid out
-12. Written employment agreements.
+Proper controls and procedures are followed for the creation and maintenance of personnel records and documents.  No information is retained or disseminated that contravenes Human Rights legislation or other provincial or federal legislation.
+
+Upon your being hired, a file is established that contains, but is not limited to, the following documentation:
+
+* Name, address, age, social insurance number.
+* Company application or resume.
+* Occupation, including dates and particulars of hire.
+* A written offer of employment.
+* Banking information.
+* Income tax information (TD1).
+* Leaves of absence.
+* Letters of commendation or corrective action.
+* Change of status forms for any term of employment or personal information that has been altered.
+* Emergency contact information.
+* Annual reconciliation of number of vacation days accumulated, number of vacation days taken, earned vacation pay, and vacation paid out.
+* Written employment agreements.
+
+### Emergency Contact Info
+
+We also will provide reaonable access to your contact information to all Frogs, in case of emergency. If someone abuses this access, inform the CEO immediately. Otherwise, this access enables us all to look after one another as a team.
 
 ### Document changes
+
+> Keep this info updated, for goodness sake.
 
 You must notify the Controller of any applicable information changes including name, address, phone number, social insurance number, employment eligibility documentation, emergency contact, marital/family status, dependent status, and beneficiary for benefits and tax purposes.
 
