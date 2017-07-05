@@ -4,7 +4,7 @@
 
 *Consistently working more than 44 hours a week will cause you to burnout and that is not in the best interest of you, your teammates or Treefrog.*
 
-All Frogs are expected to work between 40 and 44 hours per week per week in return for the value of their salary.  Frogs are not permitted to unilaterally work beyond their regular work hours without prior approval from the CEO. 
+All Frogs are expected to work between 40 and 44 hours per week in return for the value of their salary.  Frogs are not permitted to unilaterally work beyond their regular work hours without prior approval from the CEO. 
 
 ESA regulations clearly state Treefrog is obligated to pay overtime for any hour over 44 hours worked every week by [Non-Exempt](Exempted.md) Frogs. However, our salaried, flexible, managed work environment (with very few punishments for missing deadlines or leaving early to go to the Doctor and lots of internal fun-time) has no reason to compel you to *ever* work more than an average of 44 billable hours a week unless all hell has broken loose. Ergo, as a rule, we don't do overtime - **it shouldn't ever happen**, as a matter of your health and our working framework.
 
