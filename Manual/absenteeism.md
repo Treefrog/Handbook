@@ -13,15 +13,16 @@ Frogs are responsible for contacting his or her [Pod Champion](manual/pod-champi
 3. Inclement weather
 4. Traffic issues
 5. Child or pet-related [illness](sickdays.md) or [emergency](emergencyleave.md)
-6. etc.
 
 Many of these specifics are covered within its own section of the Manual.
 
-### What to do is you are Expecting to be Absent
+### What to do if you are Expecting to be Absent
 
 > Absence due to tardiness must be made up based on a schedule approved by your Pod Leader.
 
-You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least **24 hours prior** to the time missed. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up by working alternative hours, and these hours must be approved by your [Pod Champion](manual/pod-champion.md). Absolutely you can take off time to go to the doctor. Just don't let it hurt everyone else while you are at it.
+#### Personal Appointments
+
+You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least **1 week prior** to the appointment. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up by working alternative hours, and these hours must be approved by your [Pod Champion](manual/pod-champion.md). Absolutely you can take off time to go to the doctor. Just don't let it hurt everyone else while you are at it.
 
 #### Slack Warnings
 
@@ -39,7 +40,7 @@ If you are going to be late, need to take moments off, or feel sick, etc, please
 
 5. **Reach out to critical people in your warning** - Make sure you reach out to people you will be affecting, especially your pod. You might even additionally post to your pod channel if it is a heavy/confusing week.
 
-6. **Tell people why** - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass and a 90% chance I'll be in the hospital for a few weeks", although this issue is appropriate to keep to yourself, has an obviously greater impact than "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
+6. **Tell people why** - Please also indicate why. If it is a private issue, please just note something general so people are not left wondering, confused, and/or conflicted. Imagine the impact on your pod if you could be headed into something of serious impact. An issue, such as, "I am having an emergency bypass and a 90% chance I'll be in the hospital for a few weeks", although this issue is appropriate to keep to yourself, has an obviously greater impact than, "There is an emergency sale on shoes at The Bay, and I will be catching up later this evening on my hours".
 
 #### Examples of Appropriate Messages:
 
