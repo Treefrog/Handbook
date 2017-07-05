@@ -24,10 +24,6 @@ Exempt frogs are those frogs holding positions that are managerial or supervisor
 
 These employees are exempt from some provisions of the Act, including hours of work, rest periods and overtime.
 
-#### Exemptions Include
-
-- You can work up to 60 Hours a week without consideration for overtime pay. (Don't do it anyway, we don't do overtime).
-
 ### Non-Exempt
 
 Non-exempt frogs are those frogs who hold positions that are different than the above and generally non-supervisory or managerial in nature. Examples of such positions include but are not limited to: 
