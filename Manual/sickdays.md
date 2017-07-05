@@ -2,7 +2,7 @@
 
 > Five (5) sick days is an acceptable industry norm. If you need more than this, we need to talk about why.
 
-All Frogs who have successfully completed their three (3) month probationary period will be entitled to five (5) paid sick days per calendar year. In cases where the Frog takes three (3) or more days continuous sick leave, written documentation from their doctor, doctor’s note, must be given to his or her manager for manager's file.  Treefrog reserves the right to request medical documentation in support of a Frog's absence at any time. 
+All full-time Frogs who have successfully completed their three (3) month probationary period will be entitled to five (5) paid sick days per calendar year. In cases where the Frog takes three (3) or more days continuous sick leave, a doctor’s note must be given to his or her pod leader.  Treefrog reserves the right to request medical documentation in support of a Frog's absence at any time. 
 
 Should a Frog require or take more than five days per year without written documentation and/or Treefrog’s approval, the time taken will be unpaid.
 
