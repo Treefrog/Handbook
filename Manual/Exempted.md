@@ -26,7 +26,7 @@ These employees are exempt from some provisions of the Act, including hours of w
 
 ### Non-Exempt
 
-Non-exempt frogs are those frogs who hold positions that are different than the above and generally non-supervisory or managerial in nature. Examples of such positions include but are not limited to: 
+Non-exempt frogs are those frogs who hold positions that are different than the above and that are generally non-supervisory or managerial in nature. Examples of such positions include but are not limited to: 
 
 * Executive Assistant
 * Recruiting Coordinator 
