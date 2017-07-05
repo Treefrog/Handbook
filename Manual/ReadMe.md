@@ -30,14 +30,15 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 	* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
 	* [Breaks](breaks.md) - *"We don't pay for breaks."*
-	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
-	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
 	* [Overtime](overtime.md) - *"We do not do overtime."* (Also, [Exempt](Exempted.md) & [Non-Exempt](Exempted.md))
 	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
 	* [Work from home](workfromhome.md) - *"Don't work from home, but..."*
 	* [Probation](probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
+* **Vacations and Holidays**
+	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
+	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
 	* [Sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
 	* [Bereavment](emergencyleave.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
@@ -51,6 +52,9 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Court or Jury Duty](JuryDuty.md) - *"."*
 	* [Voting](Voting.md) - *"."*
 	* [Domestic Violence](DomesticViolence.md) - *"."*
+* **NOT A Leaves of Absence**
+	* [Personal Appointments](PersonalAppointments.md) - *"."*
+	* [Pet Emergency](PetEmergencies.md) - *"."*
 * **Expenses**
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
@@ -80,10 +84,15 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Exclusive Service and Moonlighting](exclusiveservice.md) - *"You have ONE job."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
 	* Fraud
-* **Diversity and Equality**
+* **Diversity & Equality**
 	* [Respect](respect.md) - *"."*
 	* [Diversity](diversity.md) - *"."*
 	* [Birthdays](birthdays.md) - *"."*
+* **Accessibility & Accomodation**
+	* [Workplace Accomodation](WorkplaceAccomodation.md) - *"."*
+	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"."*
+	* [Accessibility in Employment](AccessibilityinEmployment.md) - *"."*
+	* [Medical Marijuana](MedicalMarijuana.md) - *"."*
 * **Problems at Work**
 	* [Security](security.md) - *"."*
 	* [Safety](safety.md) - *"."*
