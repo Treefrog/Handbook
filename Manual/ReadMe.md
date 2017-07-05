@@ -64,6 +64,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Green Wearing](greenwearing.md) - *"You become what you wear."*
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
+	* [Kids in the Office](kids.md) - *"."*
 * **Performance**
 	* [Production Performance](productionperformance.md) - *"."*
 	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
@@ -89,6 +90,8 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Harassment](harassment.md) - *"."*
 	* [Absenteeism](absenteeism.md) - *"."*
 	* [Drugsandalcohol](drugsandalcohol.md) - *"."*
+	* [Pets](pets.md) - *"."*
+	* [Wild Animals](animals.md) - *"."*
 	* [Mistakes](mistakes.md) - *"."*
 * **Leaving Treefrog**
 	* [Quitting](Quitting.md) - *"If you leave Treefrog high and dry, you suck."*

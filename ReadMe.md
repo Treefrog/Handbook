@@ -4,7 +4,7 @@ Welcome to the Treefrog Handbook!
 
 This handbook is designed to replace the classic (and legally required) "employee manual" provided by most companies. However, as per the Treefrog way, this handbook is designed to be <b>an oblique solution to a necessary problem</b>: getting everyone on the same page and rowing in the same direction, without the Damoclean Sword of draconian bureaucracy preventing our overall and individual creativity and thus ultimate radical success.
 
-Ergo, <b>these set of documents are open for any Frog to improve and make recommendations</b>, openly and constructively, using GitHub as a collaborative technology. We are "open-sourcing" our expectations of one another in the same way one would manage a software product to ensure we have as much intelligent and compelling input as possible to maximize Treefrog's growth and excellence.
+Ergo, **these set of documents are open for any Frog to improve and make recommendations**, openly and constructively, using GitHub as a collaborative technology. We are "open-sourcing" our expectations of one another in the same way one would manage a software product to ensure we have as much intelligent and compelling input as possible to maximize Treefrog's growth and excellence.
 
 We are one of the few organizations out there that you can never complain about working for: because the power to improve it tangibly exists and is only limited by your own input.
 
@@ -50,6 +50,7 @@ It's not a lie to accept that Sean Stephens (our CEO - hey, that's me!) wrote an
 2. Philosophies 
 3. The Tao of Frog
 4. [The Manual](Manual/ReadMe.md)
+4. [Best Practices](BestPractices/ReadMe.md)
 
 
 ###Suggestions and Edits
