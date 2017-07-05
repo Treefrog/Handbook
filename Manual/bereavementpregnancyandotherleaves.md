@@ -1,4 +1,4 @@
-# Bereavement, Pregancy and Other Leaves of Absences
+# Bereavement, Pregnancy and Other Leaves of Absences
 
 ### Bereavement Leave
 
