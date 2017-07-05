@@ -1,6 +1,6 @@
 # Bereavement, Pregnancy and Other Leaves of Absences
 
-### Bereavement Leave
+### Bereavement Leave TEST
 
 In the event of a death of an immediate family member, Frogs are entitled to a bereavement leave with the CEO’s approval. Frogs who wish to take a bereavement leave shall provide notice to their pod leader as soon as practicable after learning of a death that qualifies for this type of leave.    All full-time Frogs with one (1) or more years of continuous service will be granted up to three (3) days of bereavement leave with pay.   
 
