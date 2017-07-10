@@ -18,7 +18,7 @@ If anything you are wearing distracts someone else from doing their work effecti
 
 #### Examples
 
-* We once had someone repeatedly wear low-cut tops, where even the women were complainging about the sexually obvious distraction. Not helpful.
+* We once had someone repeatedly wear low-cut tops, where everyone wa complainging about the sexually obvious distraction. Not helpful.
 * We once had a Fortune 500 CEO show up (in a suit and tie) for an impromtu meeting where everyone at Treefrog was wearing the loose equivalent of wrinkled pyjamas. We didn't get the job, though we were certainly qualified to do it.
 
 #### Wear Green
