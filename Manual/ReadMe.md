@@ -44,7 +44,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Bereavment](bereavement.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
 	* [Parental Leave](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
-	* [Family Medical](FamilyMedical.md) - *"."*
+	* [Family Medical](FamilyMedical.md) - *"If someone in your immediate family is seriously ill, you should look after them.."*
 	* [Family Care Giver](FamilyCareGiver.md) - *"."*
 	* [Crime related Death and Disappearance](Crimerelated.md) - *"."*
 	* [Critically Ill Child](CriticallyIllChild.md) - *"."*
