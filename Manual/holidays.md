@@ -22,13 +22,11 @@ Requests for time off for observances of other religious holidays must be submit
 
 ### Public Holiday Switching
 
-With previous consent from your Pod Leader, you may take an alternate day than the formal statutory holiday that is more convenient for you providing it does not compromise productivity.
+With previous consent from your Pod Leader, you may take an alternate day than the formal statutory holiday that is more convenient for you providing it does not compromise productivity. This day should be within 5 working days of the statutory holiday.
 
-*If a holiday is in the middle of the week, Pod members can internally agree to split the holiday and take lieu days within the same week providing there is always someone standing guard in the pod for each official working day. Please note, the holiday does not need to be covered.*
+* If a holiday is in the middle of the week, Pod members can internally agree to split the holiday and take lieu days within the same week providing there is always someone standing guard in the pod for each official working day. Please note, the holiday does not need to be covered.*
 
-### The Walk the Parade Rule
-
-A Pod member can request a super-special recognition from his or her Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. [Technically, if you do not celebrate the event you should not get the holiday - REMOVE - THIS SENTENCE MAKES NO SENSE]. Just because you do not celebrate a certain recognized religious holiday, does not mean it is "fair" to get alternative time off - You are not walking in the parade. It is not "free time". It is "time to support the religious or cultural event" as demanded by the regulations of the state.
+* *The Walk the Parade Rule* - Remember, Statutory holidays are not vacation days. Statutory holidays are recognized by government for celebration of specific events, usually defined by culture. Just because you do not celebrate a certain recognized religious or political holiday, does not mean it is "fair" to get alternative time off - **You are not walking in the parade with your community**. It is not "free time". It is "time to support the religious or cultural event" as demanded by the regulations of the state.
 
 ### International Holidays
 
