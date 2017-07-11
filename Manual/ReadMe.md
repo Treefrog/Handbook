@@ -71,12 +71,14 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Long Term Disability](ltd.md) - *"We want people to be super healthy."*
 * **Extra Benefits**
 	* [Bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
+		* Google Certification
+		* Smart Serve Certification
+		* CPR Certification
 	* Ninja Projects
 	* [Green Wearing](greenwearing.md) - *"You become what you wear."*
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
 	* [Kids in the Office](kids.md) - *"We want your kids to love coming here, just like you do."*
-	* Smart Serve
 * **Performance**
 	* [TopGrading](TopGrading.md) - *"."*
 	* [Production Performance](productionperformance.md) - *"."*
