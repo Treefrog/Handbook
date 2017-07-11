@@ -37,7 +37,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Probation](probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
 * **Vacations and Holidays**
-	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
+	* [Public Holidays (10 days)](holidays.md) - *"We take Statutory Holidays."*
 	* [Vacations (10 days)](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
 	* [Sick Days (5 days)](sickdays.md) - *"5 sick days a year is appropriate."*
