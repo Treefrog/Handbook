@@ -48,14 +48,22 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Family Care Giver](FamilyCareGiver.md) - *"."*
 	* [Crime related Death and Disappearance](CrimeandRelated.md) - *"."*
 	* [Critically Ill Child](CriticallyIllChild.md) - *"."*
-	* [Court or Jury Duty](JuryDuty.md) - *"."*
-	* [Voting](Voting.md) - *"."*
+	* [Court or Jury Duty](JuryDuty.md) - *"Go do your duty. But we can't afford to pay for it."*
+	* [Voting](Voting.md) - *"Go vote. You don't need the day for it in Canada."*
 	* [Domestic Violence](DomesticViolence.md) - *"."*
 * **NOT A Leaves of Absence**
 	* [Personal Appointments](PersonalAppointments.md) - *"."*
 	* [Pet Emergency](PetEmergencies.md) - *"."*
 * **Expenses**
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
+	* [Mileage](Mileage.md) - *"Mileage is not a way for you to pad your salary."*
+	* [Phone Expenses](PhoneExpenses.md) - *"Treefrog pays it's phone share."*
+	* [Meals & Entertainment](MealsEntertainment.md) - *"Treefrog does not reimburse meals."*
+	* [Travel Expenses](TravelExpenses.md) - *"Travel at reasonable rates, only when necessary."*
+	* [Office Supplies](OfficeSupplies.md) - *"Office Supplies are not for use at your home."*
+	* [Communal Kitchen Supplies](CommunalKitchenSupplies.md) - *"Treefrog is not a grocery store."*
+	* [Mail Service](MailService.md) - *"Treefrog shouldn't be paying for you to send your personal mail."*
+	* [Corporate Card](CorporateCard.md) - *"Treefrog is not a personal Interac Machine."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
 * **Benefits**
 	* [Health Benefits](benefits.md) - *"We want people to be super healthy."*
