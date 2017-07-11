@@ -6,7 +6,7 @@ Every Frog starts with the same amount of vacation: 2 weeks (or 10 working days)
 
 Vacations will be allotted on a **first-come, first-served** basis, subject to Treefrog’s approval. All vacation requests must be submitted via the vacation system at least **2 weeks prior** to the start of the vacation time, to ensure the company can make up for your absence. Treefrog has the sole discretion to approve or decline the requested vacation dates, based on the impact to company deliverables. *We will try as a team to do everything reasonable to accomodate you, providing it doesn't hurt others or damage Treefrog.*
 
-> A week is a good vacation. Not to short, not to long.
+> A week is a good vacation. Not too short, not too long.
 
 Frogs are encouraged take a minimum of **5 consecutive days** (1 week block) vacation in any calendar year. However, Frogs may request a additional days for longer than this in writing pending approval of the CEO, under extenuating circumstances. The remainder of the allotted vacation days may be taken in subsequent requests consisting of, but not limited to, shorter periods.
 
