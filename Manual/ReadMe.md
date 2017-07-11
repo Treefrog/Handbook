@@ -38,7 +38,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
 * **Vacations and Holidays**
 	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
-	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
+	* [Vacations (10 days)](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
 	* [Sick Days (5 days)](sickdays.md) - *"5 sick days a year is appropriate."*
 	* [Bereavment (3 days)](bereavement.md) - *"If your family member dies, you should take a break and mourn. "*
