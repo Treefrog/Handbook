@@ -46,7 +46,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Parental Leave](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
 	* [Family Medical](FamilyMedical.md) - *"If someone in your immediate family is seriously ill, you should look after them.."*
 	* [Family Care Giver](FamilyCareGiver.md) - *"."*
-	* [Crime related Death and Disappearance](Crimerelated.md) - *"."*
+	* [Crime related Death and Disappearance](CrimeandRelated.md) - *"."*
 	* [Critically Ill Child](CriticallyIllChild.md) - *"."*
 	* [Court or Jury Duty](JuryDuty.md) - *"."*
 	* [Voting](Voting.md) - *"."*
