@@ -28,7 +28,7 @@ With previous consent from your Pod Leader, you may take an alternate day than t
 
 ### The Walk the Parade Rule
 
-A Pod member can request a super-special recognition from his or her Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. Technically, if you do not celebrate the event you should not get the holiday. Just because you do not celebrate a certain recognized religious holiday, does not mean it is "fair" to get alternative time off - You are not walking in the parade. It is not "free time". It is "time to support the religious or cultural event" as demanded by the regulations of the state.
+A Pod member can request a super-special recognition from his or her Pod Champion to take a alternate day at some other time, but, remember, Stat holidays are not dynamic holidays. Stat holidays are supported by culture and recognized by government for celebration of specific events. [Technically, if you do not celebrate the event you should not get the holiday - REMOVE - THIS SENTENCE MAKES NO SENSE]. Just because you do not celebrate a certain recognized religious holiday, does not mean it is "fair" to get alternative time off - You are not walking in the parade. It is not "free time". It is "time to support the religious or cultural event" as demanded by the regulations of the state.
 
 ### International Holidays
 
@@ -71,7 +71,7 @@ Celebrations we will and will not participant in are as follows:
 
 #### When will I be eligible to receive holiday pay?
 
-Frogs will receive payment for Holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive.
+Frogs will receive payment for PUBLIC Holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive. (ROUGHLY EQUALS ONE DAYS' PAY)
 
 
 
