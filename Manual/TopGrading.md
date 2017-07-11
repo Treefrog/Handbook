@@ -2,13 +2,13 @@
 
 > Raging against Mediocrity
 
-<i> What does it take to be a performance-orientated excellent employee at Treefrog?</i>
+<i> What does it take to be a performance-oriented excellent employee at Treefrog?</i>
 
 By taking the initiative to become a high-performance Frog, you help us all achieve greatness, not just yourself. Take a look at the following components and self-assess regularly. By choosing one area to consciously work on at a time, you will help the team dramatically and in turn grow yourself.
 
 The table below is largely stolen verbatim from an HR book by Bradford D. Smart, PhD entitled “TopGrading” (*the hours and IQ are from him, not Treefrog - consider this accordingly). What follows is industry standard knowledge compiled from the book in the format provided in the book. Only Frogs who have only A-level characteristics are considered - according to his book - A-class employees, and these individuals form the basis of a high-performance culture.
 
-Every 90 days, you should challenge yourself to focus on THREE of these components;
+Every 90 days, you should challenge yourself to focus on THREE of these components:
 
 * One for the whole company, which you will take action to help improve.
 * One you set for yourself.
@@ -18,7 +18,7 @@ Keep a written tally of your experience and growth in these three areas.
 
 Feel free to challenge yourself on all of them!
  
-| Talent                               | A = Exemplary                                                                                                                                                                                            | B - Good                                                                                     | C = Mediocre                                                                                                                                                               |
+| Talent                               | A = Exemplary                                                                                                                                                                                            | B = Good                                                                                     | C = Mediocre                                                                                                                                                               |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Passion for Success                  | Drives for the success of client, team, and company with every action.                                                                                                                                   | When reminded, focuses on success.                                                           | Inwardly focused on tactics and own vision.                                                                                                                                |
 | Sense of Magic                       | Always thinking about creating a magical experience - regularly inspiring team and clients.                                                                                                              | Spikes of magical experience appear from time to time.                                       | Uninterested in anything but surviving day to day.                                                                                                                         |
