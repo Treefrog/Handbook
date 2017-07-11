@@ -11,7 +11,7 @@ What follows is a collaborative description of how we are going accomplish this 
 The core sections of the Manual, with detailed explanations, rationale and examples where possible, so your life at Treefrog is clear and unfetterred. (If it isn't clear, feel free to help create clarity!).
 
 * **Basic Frog Expectations**
-	* [Attitude](attitude.md) - *"Success at Treefrog is all about Attitude."*
+	* [Attitude](Attitude.md) - *"Success at Treefrog is all about Attitude."*
 	* [Client Service](clientservice.md) - *"Treat both Clients and Frogs as you would have them treat you."*
 	* [Social Ettiquette](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
 	* [Punctuality](Punctuality.md) - *"Be there when you say you will be."*
@@ -40,11 +40,11 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Public Holidays](holidays.md) - *"We take Statutory Holidays."*
 	* [Vacations](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
-	* [Sickdays](sickdays.md) - *"5 sick days a year is appropriate."*
-	* [Bereavment](emergencyleave.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
+	* [Sick Days](sickdays.md) - *"5 sick days a year is appropriate."*
+	* [Bereavment](bereavement.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
 	* [Pregnancy](Pregnancy.md) - *"."*
-	* [Paternity](Paternity.md) - *"."*
+	* [ParentalLeave](ParentalLeave.md) - *"."*
 	* [Family Medical](FamilyMedical.md) - *"."*
 	* [Family Care Giver](FamilyCareGiver.md) - *"."*
 	* [Crime related Death and Disappearance](Crimerelated.md) - *"."*
