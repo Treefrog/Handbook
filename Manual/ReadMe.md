@@ -52,8 +52,8 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Voting](Voting.md) - *"Go vote. You don't need the day for it in Canada."*
 	* [Domestic Violence](DomesticViolence.md) - *"."*
 * **NOT A Leaves of Absence**
-	* [Personal Appointments](PersonalAppointments.md) - *"."*
-	* [Pet Emergency](PetEmergencies.md) - *"."*
+	* [Personal Appointments](PersonalAppointments.md) - *"Be smart about your appointments."*
+	* [Pet Emergency](PetEmergencies.md) - *"We love dogs and cats, too. But your pet is your cost."*
 * **Expenses**
 	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
 	* [Mileage](Mileage.md) - *"Mileage is not a way for you to pad your salary."*
@@ -75,7 +75,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Green Wearing](greenwearing.md) - *"You become what you wear."*
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
-	* [Kids in the Office](kids.md) - *"."*
+	* [Kids in the Office](kids.md) - *"We want your kids to love coming here, just like you do."*
 * **Performance**
 	* [Production Performance](productionperformance.md) - *"."*
 	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*

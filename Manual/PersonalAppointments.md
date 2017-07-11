@@ -1,12 +1,9 @@
 # This is Blank
 
-> The Rule of Thumb
+> Be smart about your appointments.
 
-<i>The spirit of why this rule exists.</i>
+<i>The whole point of Treefrog is to make life better for you - to allow you to take time off if you need it.</i>
 
- The explanation of the rule.
- 
-###Examples
+But that doesn't mean to say you should abuse the system.
 
-Examples of this rule in action.
- 
+Make appointments at the beginning or the end of the day - or on a lunch break - so you can minimize the negative efect on the team.
