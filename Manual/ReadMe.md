@@ -43,8 +43,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Sick Days](sickdays.md) - *"5 sick days a year is appropriate."*
 	* [Bereavment](bereavement.md) - *"If your family member dies, you should take a break and mourn. (3 days)"*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
-	* [Pregnancy](Pregnancy.md) - *"."*
-	* [ParentalLeave](ParentalLeave.md) - *"."*
+	* [Parental Leave](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
 	* [Family Medical](FamilyMedical.md) - *"."*
 	* [Family Care Giver](FamilyCareGiver.md) - *"."*
 	* [Crime related Death and Disappearance](Crimerelated.md) - *"."*
