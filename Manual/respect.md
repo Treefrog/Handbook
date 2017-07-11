@@ -1,5 +1,7 @@
 # Respect
 
+<i> To get it, you must give it." </i>
+
 ### Employee Relations
 
 Treefrog is committed to providing fair policies and procedures in order to foster employee engagement and commitment and to minimize complaints and morale problems. To accomplish this, Treefrog will strive to build an effective two-way communication system, implement fair treatment and discipline procedures, and protect Frogs' privacy. Part of this commitment is encouraging an open and frank atmosphere where any problem, complaint, suggestion, or question receives a timely response. Everyone is expected to treat each other with mutual respect. Frogs are encouraged to offer positive and constructive criticism. If Frogs disagree with the established rules of conduct, policies, or practices, they can express their concern through the problem resolution procedure. No Frog will be penalized, formally or informally, for voicing a complaint with management in a reasonable, businesslike manner or for using the problem resolution procedure.
