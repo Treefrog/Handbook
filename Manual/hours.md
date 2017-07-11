@@ -27,21 +27,26 @@ See [Absenteeism](Manual/Absenteism.md).
 "Normal" maximum daily and weekly limits on hours of work are:
 
 - 8 hours a day (or the number of hours in your regular work day, if it is more than 8),
-- 48 hours a week. (Unless you are "[Exempt](Manual/Exempted.md)", then it is 60)
+- 48 hours a week. 
 
-As part of your contract, however, under "flexible hours", you also agreed to the following;
+[(Unless you are "[Exempt](Manual/Exempted.md)", then it is 60)] - REMOVE - INACCURATE
+
+REMOVE ALL OF THIS TOO - NOT ACCURATE...
+[As part of your contract, however, under "flexible hours", you also agreed to the following;
 
 - to work more than 8 hours a day (or the number of hours in your regular work day, if it is more than 8), when appropriate.
 - to work more than 48 hours a week during weeks of unusually high demand,
 - to average the hours you work over multiple weeks to calculate overtime pay.
 
-[ESA Guidelines](https://www.labour.gov.on.ca/english/es/pubs/guide/hours.php)
+[ESA Guidelines](https://www.labour.gov.on.ca/english/es/pubs/guide/hours.php)]
+
+NO - FROGS DON'T AGREE TO THIS AS PART OF THEIR CONTRACT - YOU NEED TO APPLY FOR AN EXCESS HOURS AGREEMENT THROUGH THE MOL IF YOU WANT TO IMPLEMENT THIS
 
 ### Minimum/Maximum Weekly Hours
 
 Our company has a higher than average minimum expectation of **40 hours of work** a week. Most companies expect you to be on site for 40 hours a week (the old 9-5 rule), and then give you paid time for lunch and breaks (i.e. 37.5 hours).
 
-Treefog **does not pay for breaks or lunch**. You are "legally obligated" to take a lunch break for a minimum of 30 minutes. Therefore, at Treefrog, you are theoretically obligated to stay onsite at least 8.5 hours a working day. 
+Treefog **does not pay for breaks or lunch**. [You are "legally obligated" to take a lunch break for a minimum of 30 minutes.] AFTER 5 HOURS OF WORK, ALL FROGS ARE ENTITLED TO A HALF HOUR MEAL PERIOD.  THIS MEAL PERIOD IS UNPAID. AS YOU ARE PAID FOR 8 HOURS PER DAY, YOU ARE ACTUALLY REQUIRED TO BE ON-SITE FOR 8.5 HOURS PER DAY. [Therefore, at Treefrog, you are theoretically obligated to stay onsite at least 8.5 hours a working day.]
 
 You may, however, have a **working lunch**, if you wish. Since we usually talk about work during lunch and/or eating at our desks and since there are no physically demanding roles that require physical rest, the suggestion is that if you wish, you may multi-task your lunch break to continue specific work-related discussions and thus combine lunch and work. <i>Talking about people who work here is not a work-related discussion. Talking about a project is a work related-discussion.</i>
 
@@ -64,9 +69,9 @@ The exception to the rule is if there are "extraordinary circumstances" -  for e
 - A website stops functioning
 - Weather-related issues; for example, snow storm
 
-In these cases, if an emergency happens, you can "work" up to a maximum of **60 hours a week**. In other words, if the file system stops working, as a salaried employee, you are not theoretically paid for the time you cannot do your work. This time is the result of an unforseen emergency, and you will need to make sure you complete your 40 hours of work. There is no "[overtime](Manual/Overtime) pay" in the event of an electricity outage. We are all in this together. We are all managing our own time, we are all managing our own fates, and we all have to put in extra if there is a failure in the system that we have created and that we support.
+In these cases, if an emergency happens, you can [MIGHT BE REQUIRED TO] "work" [MORE THAN YOUR 40 HOURS PER WEEK]. DELETE THIS...up to a maximum of **60 hours a week**... In other words, if the file system stops working, as a salaried employee, you are not theoretically paid for the time you cannot do your work. [REMOVE THIS SENTENCE - DOES NOT MAKE SENSE - DOESN'T MATTER IF SALARIED OR NOT]. This time is the result of an unforseen emergency, [DELETE THIS - and you will need to make sure you complete your 40 hours of work]. There is no "[overtime](Manual/Overtime) pay" in the event of an electricity outage. We are all in this together. We are all managing our own time, we are all managing our own fates, and we all have to put in extra if there is a failure in the system that we have created and that we support.
 
-Also note, you cannot work more than 60 hours a week. If you do this, you will eventually kill yourself and that is not good for anyone. This has only happened a few times with people in non-emergency scenarios, and it has prompted a discussion in every case.
+Also note, you cannot work more than 60 hours a week. [REMOVE - THEY CAN'T WORK MORE THAN 48] If you do this, you will eventually kill yourself and that is not good for anyone. This has only happened a few times with people in non-emergency scenarios, and it has prompted a discussion in every case.
 
 ### Staying up Late and Not Dying Tomorrow
 
