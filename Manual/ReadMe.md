@@ -76,7 +76,9 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
 	* [Kids in the Office](kids.md) - *"We want your kids to love coming here, just like you do."*
+	* Smart Serve
 * **Performance**
+	* [TopGrading](TopGrading.md) - *"."*
 	* [Production Performance](productionperformance.md) - *"."*
 	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
 	* [Productivityflags](productivityflags.md) - *"."*
