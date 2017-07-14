@@ -1,6 +1,6 @@
 # Breaks
 
-> Take breaks regularly! Treefrog does not pay for breaks.
+> You work hard. Take an unpaid break.
 
 *If you are working on Treefrog projects, Treefrog should be paying you. If you are doing anything else, Treefrog should not be paying you. This is true, irrelevant to your location (i.e. at Treefrog, at home, or in Oagadogo), your previous experience at other workplaces, or because of anything else you may have heard.*
 

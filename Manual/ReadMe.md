@@ -29,25 +29,25 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 * **Hours and Pay**
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 	* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
-	* [Breaks](breaks.md) - *"We don't pay for breaks."*
+	* [Meal Periods and Breaks](breaks.md) - *"You work hard. Take an unpaid break."*
 	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
 	* [Overtime](overtime.md) - *"We do not do overtime."* (Also, [Exempt](Exempted.md) & [Non-Exempt](Exempted.md))
 	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
 	* [Work from home](workfromhome.md) - *"Don't work from home, but..."*
 	* [Probation](probation.md) - *"3 months probation is normal."*
-	* [Earnings Interruptions]() - if interruption in earninbgs, a record of employemtn must be filed.
+	* [Earnings Interruptions](EarningsInterruptions.md) - *"Interrupted earnings gets reported to the government."*
 * **Vacations and Holidays**
 	* [Public Holidays (10 days)](holidays.md) - *"We take Statutory Holidays."*
 	* [Vacations (10 days)](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
-	* [Sick Days (5 days)](sickdays.md) - *"5 sick days a year is appropriate."*
-	* [Bereavment (3 days)](bereavement.md) - *"If your family member dies, you should take a break and mourn. "*
+	* [Sick Days (5 paid days)](sickdays.md) - *"5 sick days a year is appropriate."*
+	* [Bereavment (3 paid days)](bereavement.md) - *"If your family member dies, you should take a break and mourn. "*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
-	* [Pregnancy and Parental Leave](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
-	* [Family Medical](FamilyMedical.md) - *"If someone in your immediate family is at risk of dying, you should go be with them."*
-	* [Family Care Giver](FamilyCareGiver.md) - *"."*
-	* [Crime related Death and Disappearance](CrimeandRelated.md) - *"."*
-	* [Critically Ill Child](CriticallyIllChild.md) - *"."*
+	* [Pregnancy and Parental Leave (52 weeks)](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
+	* [Family Medical (8 Weeks)](FamilyMedical.md) - *"If someone in your immediate family is at risk of dying, you should go be with them."*
+	* [Family Care Giver (8 weeks)](FamilyCareGiver.md) - *"If you need to care for someone seriously ill in your family, you should look after them."*
+	* [Crime related Death and Disappearance (52 - 104 weeks)](CrimeandRelated.md) - *"If you child disappears, you don’t need to be here."*
+	* [Critically Ill Child (37 weeks)](CriticallyIllChild.md) - *"If your child becomes critically ill, you don’t need to be here."*
 	* [Court or Jury Duty](JuryDuty.md) - *"Go do your duty. But we can't afford to pay for it."*
 	* [Voting](Voting.md) - *"Go vote. You don't need the day for it in Canada."*
 	* [Domestic Violence](DomesticViolence.md) - *"."*
@@ -79,13 +79,6 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
 	* [Kids in the Office](kids.md) - *"We want your kids to love coming here, just like you do."*
-* **Performance**
-	* [TopGrading](TopGrading.md) - *"."*
-	* [Production Performance](productionperformance.md) - *"."*
-	* [Distractions](distractions.md) - *"Don't let yourself get distracted."*
-	* [Productivityflags](productivityflags.md) - *"."*
-	* [Utilization](Utilization.md) - *"."*
-	* [Discipline](discipline.md) - *"."*
 * **Physical Stuff**
 	* [Equipment](equipment.md) - *"."*
 	* [Devices](devices.md) - *"Treat your stuff with respect."*
@@ -96,15 +89,16 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
 	* Fraud
 * **Diversity & Equality**
-	* [Respect](respect.md) - *"."*
-	* [Diversity](diversity.md) - *"."*
-	* [Birthdays](birthdays.md) - *"."*
+	* [Respect](respect.md) - *"To get it, you must give it."*
+	* [Diversity](diversity.md) - *Strength lies in our differences, not in our similarities."*
+	* [Birthdays](birthdays.md) - *"Let’s celebrate each other, in our own way."*
 * **Accessibility & Accomodation**
 	* [Workplace Accomodation](WorkplaceAccomodation.md) - *"."*
 	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"."*
 	* [Accessibility in Employment](AccessibilityinEmployment.md) - *"."*
 	* [Medical Marijuana](MedicalMarijuana.md) - *"."*
 * **Problems at Work**
+	* [Discipline](discipline.md) - *"."*
 	* [Security](security.md) - *"."*
 	* [Safety](safety.md) - *"."*
 	* [Harassment](harassment.md) - *"."*

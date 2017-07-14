@@ -44,13 +44,13 @@ It's not a lie to accept that Sean Stephens (our CEO - hey, that's me!) wrote an
 
 ### Table of Contents
 
-1. The Goals of Treefrog
-2. First Principles (The Way of the Frog)
-	* [The Sacred Cow Principle](First Principles/TheCowPrinciple.md)
-2. Philosophies 
-3. The Tao of Frog
-4. [The Manual](Manual/ReadMe.md)
-4. [Best Practices](BestPractices/ReadMe.md)
+1. [The Vision and Goals of Treefrog](Goals/ReadMe.md)
+3. [Tenets/Values](Tenets/ReadMe.md)
+2. [First Principles (The Tao of the Frog)](FirstPrinciples/ReadMe.md)
+4. [Core Philosophies](Philosophies/ReadMe.md)
+6. **[The Manual](Manual/ReadMe.md)**
+7. [Best Practices](BestPractices/ReadMe.md)
+7. [Performance](BestPractices/ReadMe.md)
 
 
 ###Suggestions and Edits
