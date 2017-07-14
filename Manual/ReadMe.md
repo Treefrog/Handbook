@@ -29,28 +29,28 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 * **Hours and Pay**
 	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
 	* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
-	* [Meal Periods and Breaks](breaks.md) - *"You work hard. Take an unpaid break."*
+	* [Meal Periods and Breaks](breaks.md) - *"You work hard. Take your breaks."*
 	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
 	* [Overtime](overtime.md) - *"We do not do overtime."* (Also, [Exempt](Exempted.md) & [Non-Exempt](Exempted.md))
 	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
 	* [Work from home](workfromhome.md) - *"Don't work from home, but..."*
-	* [Probation](probation.md) - *"3 months probation is normal."*
-	* [Earnings Interruptions](EarningsInterruptions.md) - *"Interrupted earnings gets reported to the government."*
+	* [Probation](probation.md) - *"3 months' probation is normal."*
+	* [Earnings Interruptions](EarningsInterruptions.md) - *"If you are off work for more than 7 consecutive days, we will issue you an ROE."*
 * **Vacations and Holidays**
-	* [Public Holidays (10 days)](holidays.md) - *"We take Statutory Holidays."*
-	* [Vacations (10 days)](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
+	* [Public Holidays (10 days)](holidays.md) - *"We recognize all Public Holidays in Ontario + 1 more!."*
+	* [Vacations (10 days)](vacations.md) - *"Everybody gets 2 weeks' vacation time to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
-	* [Sick Days (5 paid days)](sickdays.md) - *"5 sick days a year is appropriate."*
+	* [Sick Days (5 paid days)](sickdays.md) - *"You get 5 paid sick days per year."*
 	* [Bereavment (3 paid days)](bereavement.md) - *"If your family member dies, you should take a break and mourn. "*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
 	* [Pregnancy and Parental Leave (52 weeks)](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
 	* [Family Medical (8 Weeks)](FamilyMedical.md) - *"If someone in your immediate family is at risk of dying, you should go be with them."*
 	* [Family Care Giver (8 weeks)](FamilyCareGiver.md) - *"If you need to care for someone seriously ill in your family, you should look after them."*
-	* [Crime related Death and Disappearance (52 - 104 weeks)](CrimeandRelated.md) - *"If you child disappears, you don’t need to be here."*
+	* [Crime related Death and Disappearance (52 - 104 weeks)](CrimeandRelated.md) - *"If your child disappears, you don’t need to be here."*
 	* [Critically Ill Child (37 weeks)](CriticallyIllChild.md) - *"If your child becomes critically ill, you don’t need to be here."*
 	* [Court or Jury Duty](JuryDuty.md) - *"Go do your duty. But we can't afford to pay for it."*
 	* [Voting](Voting.md) - *"Go vote. You don't need the day for it in Canada."*
-	* [Domestic Violence](DomesticViolence.md) - *"."*
+	* [Domestic Violence](DomesticViolence.md) - *"If this is happening to you, you have a duty to report it. Tell the CEO so we can help."*
 * **NOT A Leaves of Absence**
 	* [Personal Appointments](PersonalAppointments.md) - *"Be smart about your appointments."*
 	* [Pet Emergency](PetEmergencies.md) - *"We love dogs and cats, too. But your pet is your cost."*
@@ -93,10 +93,10 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Diversity](diversity.md) - *Strength lies in our differences, not in our similarities."*
 	* [Birthdays](birthdays.md) - *"Let’s celebrate each other, in our own way."*
 * **Accessibility & Accomodation**
-	* [Workplace Accomodation](WorkplaceAccomodation.md) - *"."*
-	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"."*
-	* [Accessibility in Employment](AccessibilityinEmployment.md) - *"."*
-	* [Medical Marijuana](MedicalMarijuana.md) - *"."*
+	* [Workplace Accomodation](WorkplaceAccomodation.md) - *"We are committed to working with all frogs, inlcuding those that have a disability."*
+	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"We are committed to excellence in serving all persons with disabilities, including our clients."*
+	* [Accessibility in Employment](AccessibilityinEmployment.md) - *"We are committed to working with all frogs with disabilities throughout all stages of their frog life."*
+	* [Medical Marijuana](MedicalMarijuana.md) - *"If your doctor prescribes it, we will work with you. Let's talk about it."*
 * **Problems at Work**
 	* [Discipline](discipline.md) - *"."*
 	* [Security](security.md) - *"."*
