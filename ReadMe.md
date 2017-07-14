@@ -50,7 +50,7 @@ It's not a lie to accept that Sean Stephens (our CEO - hey, that's me!) wrote an
 4. [Core Philosophies](Philosophies/ReadMe.md)
 6. **[The Manual](Manual/ReadMe.md)**
 7. [Best Practices](BestPractices/ReadMe.md)
-7. [Performance](BestPractices/ReadMe.md)
+7. [Performance](Performance/ReadMe.md)
 
 
 ###Suggestions and Edits
