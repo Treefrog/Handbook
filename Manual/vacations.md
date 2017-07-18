@@ -8,11 +8,11 @@ Vacations will be allotted on a **first-come, first-served** basis, subject to T
 
 > A week is a good vacation. Not too short, not too long.
 
-Frogs are encouraged take a minimum of **5 consecutive days** (1 week block) vacation in any calendar year. However, Frogs may request a additional days for longer than this in writing pending approval of the CEO, under extenuating circumstances. The remainder of the allotted vacation days may be taken in subsequent requests consisting of, but not limited to, shorter periods.
+Frogs are encouraged take a minimum of **5 consecutive days** (1 week block) vacation in any calendar year. However, Frogs may request additional days for longer than this in writing pending approval of their Pod Leader (who will balance the implications to your team members in your Pod), under extenuating circumstances. The remainder of the allotted vacation days may be taken in subsequent requests consisting of, but not limited to, shorter periods.
 
 Frogs should also NOT take more than 5 consecutive days (1 week block) if possible, to minimize the exhaustion of other team members supporting their absence and to ensure they have additional days for alternate vacations. Vacations over 5 consecutive working days should be discussed in detail with your Pod leader before approval.
 
-If circumstances require you to cancel the already approved vacation time, Treefrog has the sole discretion to approve/decline the change in vacation dates.
+If circumstances require you to cancel the already approved vacation time, Treefrog has the sole discretion to approve/decline the change in vacation dates. It's a two-way street, we should be reasonable with one another.
 
 ### Carry Over Time
 
@@ -28,7 +28,7 @@ You are responsible to schedule your own vacations. If you feel pressured by Tre
 
 > Two weeks, that's industry standard, and seems fair.
 
-Everyone gets two weeks vacation, which increases with tenure as theoretically you can do the same job in less time with your experience.
+Everyone gets two weeks vacation, which increases with tenure as theoretically you can do the same job in less time and with much greater efficiency given your experience.
 
 During the first three years of continuous service at Treefrog, Frogs will be eligible for two weeks (ten working days) paid vacation per year.
 
@@ -47,13 +47,13 @@ During the first six (6) months of continuous service for new employees, no vaca
 
 Anyone can ask for additional days off without CEO approval, by simply paying Treefrog $1000/day to keep their job on ice. (Or, by negotiating their salary $1000 lower per additional holiday day taken off).
 
-This seems ridiculous - but think about it. Treefrog is designed around hourly rates, the average person at Treefrog should be generating approximately this amount per day, from which we pay all other expenses to keep your *in absentia* job intact. As a matter of perspactive - it actually costs MORE than this to get your job done in your absence, as the job still needs to get done, so someone needs to fill in for you.
+This seems ridiculous - but think about it. Treefrog is designed around hourly rates, the average person at Treefrog should be generating approximately this amount per day, from which we pay all other expenses to keep your *in absentia* job intact. As a matter of perspective - it actually costs MORE than this to get your job done in your absence, as the job still needs to get done, so someone needs to fill in for you.
 
 #### Exceptional Circumstances
 
 Some Frogs hired from other companies who already had earned holidays through longevity with their previous company are granted (through pre-hiring negotiation) additonal vacation days.
 
-After three years, these holidays become regular holiday days - they do not get appended, but resolved into the regular calendar.
+After three years, these holidays become regular holiday days - they do not get appended, but resolved into the regular calendar schedule above.
 
 These days may only be granted by the CEO during initial contractual negotiation before starting at Treefrog and usually represent significant drops in salaries for new employees who also could prove their holidays were greatly in excess of Treefrog standards as well.
 

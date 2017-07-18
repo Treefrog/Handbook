@@ -28,6 +28,12 @@ With previous consent from your Pod Leader, you may take an alternate day than t
 
 * *The Walk the Parade Rule* - Remember, Statutory holidays are not vacation days. Statutory holidays are recognized by government for celebration of specific events, usually defined by culture. Just because you do not celebrate a certain recognized religious or political holiday, does not mean it is "fair" to get alternative time off - **You are not walking in the parade with your community**. It is not "free time". It is "time to support the religious or cultural event" as demanded by the regulations of the state.
 
+### The "Short Week" Rule
+
+During "short weeks" caused by Public Holidays, regular Pod non-production activities are to be minimized whereever possible, to ensure billable obligations can continue to be met. This includes, for example, Pod Training, Project Meetings, etc.
+
+As a result of this rule, all meetings *before* a short week should take into account the proceeding week as well into their assignment and management.
+
 ### International Holidays
 
 We observe Canadian & Provincial Holidays only.

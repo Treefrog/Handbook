@@ -14,7 +14,7 @@ Every dollar is at the CEO's discretion.
 2. Clients might also get paid.
 4. You must actually come to a Treefrog office to collect. Working from home in green pyjamas does not count.
 5. The item must be an article of clothing or jewelry and must be ACTIVELY WORN and immediately recognizable as green. Purses, folders, bags, some grass you found, does not count unless it is really cool. Or, you are wearing the grass.
-6. The same item may not be worn the same way on two consecutive days. As per normal conventions for workplace attire, you can only get paid once every **two weeks* for any given green article.
+6. The same item may not be worn the same way on two consecutive days. As per normal conventions for workplace attire, you can only get paid once every *two weeks* for any given green article.
 7. The item must be visible. It can only be your underwear if they are worn Superman style or you are willing to publicly show them.
 8. Khaki is not green - it is Khaki. Treefrog green is the ideal. Do not be a green faker.
 
