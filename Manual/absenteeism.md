@@ -20,10 +20,6 @@ Many of these specifics are covered within its own section of the Manual.
 
 > Absence due to tardiness must be made up based on a schedule approved by your Pod Leader.
 
-#### Personal Appointments
-
-You must notify your [Pod Champion](manual/pod-champion.md) about time required off for personal appointments at least **1 week prior** to the appointment. Appointments should be made at the beginning or end of day whenever possible. Excused time off for appointments must be made up by working alternative hours, and these hours must be approved by your [Pod Champion](manual/pod-champion.md). Absolutely you can take off time to go to the doctor. Just don't let it hurt everyone else while you are at it.
-
 #### Slack Warnings
 
 If you are going to be late, need to take moments off, or feel sick, etc, please make a point of letting the team know in the below channel on Slack:
