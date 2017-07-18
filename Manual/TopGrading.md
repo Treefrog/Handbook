@@ -2,7 +2,7 @@
 
 > Raging against Mediocrity
 
-<i> What does it take to be a performance-oriented excellent employee at Treefrog?</i>
+<i> What does it take to be a performance-orientated excellent employee at Treefrog?</i>
 
 By taking the initiative to become a high-performance Frog, you help us all achieve greatness, not just yourself. Take a look at the following components and self-assess regularly. By choosing one area to consciously work on at a time, you will help the team dramatically and in turn grow yourself.
 
