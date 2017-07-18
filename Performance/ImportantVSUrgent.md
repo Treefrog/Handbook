@@ -6,7 +6,7 @@
 
 What's the difference between urgent and important tasks, and how can we make sure we always get this right?
 
-This aticle: https://crew.co/blog/urgent-vs-important/
+This article: https://crew.co/blog/urgent-vs-important/
 
 ####The Eisenhower Box
 ![alt text](images/Urgentimportant.jpg)
