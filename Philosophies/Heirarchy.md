@@ -1,19 +1,16 @@
-# The Grass vs. the Trees
+# The Grass vs. The Trees
 
 > The Rule of Thumb
 
-<i></i>
+*Champions, not bosses; Frogs, not employees<br>
+Cascade leadership<br>
+No classes<br>
+No Them and Us, ever*
 
-Champions, not bosses; Frogs, not employees
-Cascade leadership
-No classes
-No Them and us, ever
-
-####Matrix Heirarchy
+#### Matrix Heirarchy
 
 #### Vote out The CEO
- 
-###Examples
+
+### Examples
 
 Examples of this rule in action.
- 
