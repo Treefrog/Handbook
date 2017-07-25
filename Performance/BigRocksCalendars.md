@@ -16,7 +16,7 @@ This exercise allows you to control your time and get more done by blocking off 
 
 Watch this video, it makes the point extremely well. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZHne8c5qg0g" frameborder="0" allowfullscreen></iframe>
+[![Dr. Stephen Covey - Big Rocks](https://img.youtube.com/vi/ZHne8c5qg0g/0.jpg)](http://www.youtube.com/watch?v=ZHne8c5qg0g)
 
 Important activities are "Big Rocks", urgent activities are "Small Rocks".
  
