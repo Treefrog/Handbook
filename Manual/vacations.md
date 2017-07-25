@@ -41,13 +41,15 @@ During the first six (6) months of continuous service for new employees, no vaca
 | 3 to 10 years        | Paid Salary                | 15 days                  |
 | 10 to 20 years       | Paid Salary                | 20 days                  |
 
-#### The $1000/day Rule
+#### The $1000/day Rule*
 
 > Take as many vacation days as you want, at $1000/day.
 
 Anyone can ask for additional days off without CEO approval, by simply paying Treefrog $1000/day to keep their job on ice. (Or, by negotiating their salary $1000 lower per additional holiday day taken off).
 
 This seems ridiculous - but think about it. Treefrog is designed around hourly rates, the average person at Treefrog should be generating approximately this amount per day, from which we pay all other expenses to keep your *in absentia* job intact. As a matter of perspective - it actually costs MORE than this to get your job done in your absence, as the job still needs to get done, so someone needs to fill in for you.
+
+*This can also be paid by a $1000 deduction from your salary for that year.
 
 #### Exceptional Circumstances
 
