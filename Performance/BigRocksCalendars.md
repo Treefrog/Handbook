@@ -32,9 +32,9 @@ This mechanism will help you better control the various people bugging you and g
 
 Here is an example of a weekly default calendar;
 
-![Big Rocks Calendarr] (images/BigRocks.png)
+![Big Rocks Calendar](images/BigRocks.png)
 
-To start, download this template in [OmniGraffle](images/CalendarBlocking.graffle) or in [PDF](images/CalendarBlocking.pdf) form.
+To start, download this template in [OmniGraffle](images/CalendarBlocking.graffle.zip) or in [PDF](images/CalendarBlocking.pdf) form.
 
 Then, do the following;
 
