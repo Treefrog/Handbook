@@ -2,9 +2,9 @@
 
 > Time is Money.
 
-![alt text](images/IMG_1231.GIF "Copyright Gary Larson")
+![Copyright Gary Larson](images/FarSideEinstein.gif)
 
-There are always questions around “reasonable expectations” for any given **production** Frog's performace.
+There are always questions around “reasonable expectations” for any given **production** Frog's performance.
 
 These concepts are critical for us as a company whose baseline of performance is **Resources of Human Time** - we don’t bill on how nice we are, how good looking we are, we don't bill on great our ideas are (yet). Ironically, this is not connected to “skill level” - we make a (perhaps incorrect) assumption that all people are of equal skill - or more to the point - that a professional X is capable of doing Y in Z period of time. That’s a pretty reasonable assumption - as you get better and have been working a particular role for X years, you should be able to do it faster, and thus you should be a more senior individual and compensated accordingly for your accomplishments - which means you will be able to do more work in less time.
 
@@ -16,34 +16,34 @@ There are some easy rules of thumb to follow to ensure you are meeting the produ
 - If you aren’t billing a **minimum of 28 hours a week (on average)**, you aren't paying for yourself. 32 billable hours is a reasonable expectation of a full-time professional.
 - If you aren’t making **$100/hour on average** during these hours, you aren’t paying for yourself. If you go over the allocated hours on your projects due to mis-scoping, you won’t.
 - As your salary increases, your hours billed per week should increase as well, through experience and efficiency.
-- If you are billing time into administration, or working on projects that don’t have a project listed in Frogweb, you aren’t adding billable time we can track. If it’s not in Frogweb, it doesn’t exist - so you are working on your own time. That’s stupid for everyone involved, don’t do it.
+- If you are billing time into administration, or working on projects that don’t have a project listed in Frogweb, you aren’t adding billable time we can track. If it’s not in Frogweb, it doesn’t exist - so you are working on your own time. That’s stupid for everyone involved; don’t do it.
 - If you are billing more than an hour a week into a catchall bucket like "Administration" or "Email", you are probably mis-allocating client time or being inefficient.
 
 ### Production Constraints
 
-We have a number of constraints on our persons within our control, including (but not only);
+We have a number of constraints on our persons within our control, including (but not only):
 
-1. The number of hours we do of billable work per week - Time we are around, day to day, and working (**Maximum Billable Time**), that doesn't get lost in chaos, inefficency, and poor time tracking (**Leakage**).
-2. The ability to do the work in the Time Sold/Allocated (**Effective Hourly Rate**) - our personal efficiency and personal skills in getting things quoted correctly and completed on time. (Or the ability to sell a client on your value, not raw throughput).
+1. The number of hours we do of billable work per week - Time we are around, day to day, and working (**Maximum Billable Time**), that doesn't get lost in chaos, inefficiency, and poor time tracking (**Leakage**).
+2. The ability to do the work in the Time Sold/Allocated (**Effective Hourly Rate**) - Our personal efficiency and personal skills in getting things quoted correctly and completed on time. (Or the ability to sell a client on your value, not raw throughput).
 3. The quality (**Client Success**) of the work (**Client Satisfaction Rate**) - A combination of our skill and focus.
 4. How well you Get Along with Others (**Culture Fit**).
 
-Some of these concept are only applicable to Production Frogs, while others are applicable to all Frogs. What follows are the key concepts applicable only to Production Frogs.
+Some of these concepts are only applicable to Production Frogs, while others are applicable to all Frogs. What follows are the key concepts applicable only to Production Frogs.
 
-*Our baseline expectation is that production Frogs work a minimum of 40 hours a week, as stated in our Employee Manual and expressed otherwise. This is higher than “most companies” - but we leave lots of room for other necessary obligations. In actual fact, we don’t care about the hours themselves - we care about “contribution” (which is your billable hours multiplied by your effective hourly rate). But how can we help you improve if you aren’t here and kicking ass?
+\* Our baseline expectation is that production Frogs work a minimum of 40 hours a week, as stated in our Employee Manual and expressed otherwise. This is higher than “most companies” - but we leave lots of room for other necessary obligations. In actual fact, we don’t care about the hours themselves - we care about “contribution” (which is your billable hours multiplied by your effective hourly rate). But how can we help you improve if you aren’t here and kicking ass?
 
 ### Maximum Billable Time
 
 It can be reasonably agreed upon that production team members will have ongoing expectations on them for “non-billable items". These activities will take a minimum of 2-2.5 hours a week and thus reduce the effective contribution of any given individual to 37.5 hours a week (unless you work up to the ESA acceptable standard of 44 hours a week).
 
-Here are reasonable expectations;
+Here are reasonable expectations:
 
-* Email checking (15-20 minutes a day, or 1-1.5 hours a week), 
+* Email checking (15-20 minutes a day, or 1-1.5 hours a week),
 * Daily huddles (15 minutes a day, or 1.25 Hours a week),
-* Frog-a-versary Celebrations (10 minutes X the number of people at Treefrog / 52 weeks / 5 days = 2 minutes a day),
-* Pod Training (ad-hoc, 1 Hour a week), 
-* Learn O’Clock (1 Hour a week),
-* State of the Union (2 Hours a Quarter, or 10 Minutes a week)
+* Frog-a-versary celebrations (10 minutes X the number of people at Treefrog / 52 weeks / 5 days = 2 minutes a day),
+* Pod training (ad-hoc, 1 hour a week),
+* Learn o’Clock (1 hour a week),
+* State of the Union (2 hours a quarter, or 10 minutes a week)
 
 TOTAL = **2.5 Hours a week** "Unbillable Time".
 
@@ -57,7 +57,7 @@ You can also look at how you spent your time in Frogweb over the last few weeks.
 
 ### Leakage
 
-##### Perspective for a Production Frog
+#### Perspective for a Production Frog
 
 1. The first few days in a week you work (average = 15 hours) pays for your salary, health and pension.
 2. The second few days in a week you work (average = 12 hours) pays for the other person who supports you getting the work, managing the work, and fulfilling the work (Sales, Admin, etc.) - and protecting you from harm so you can work.
@@ -82,16 +82,16 @@ If you look at your fellow team members time expenditure in Frogweb, you will fi
 It doesn’t always add up - you may be working hard, and be showing low hours. If you wonder why you are on site a solid 40 hours a week, feel you are working hard, and you are suffering from being defined as having mediocre or poor performance by this chart - you are possibly billing time into administrative incorrectly or suffering from leakage issues. For example…
 
 - You may be billing all of your client **Email** or **Administration** time against Treefrog when it is actually billable time (which isn’t then billed to the client - meaning we are just throwing away billable time). So yes, mis-allocation reduces your utilization, and thus your effective performance. Work will your Pod Manager to find strategies to reduce this mis-allocation - there are lots of different strategies to alleviate this (e.g. different, more buckets, pre-allocation for core clients, etc.)
-- You could be doing a ton of **administrative meetings**, which are actually either a) client-related or a) “internal”. Client related meetings should be billed to clients (Into “sales” if they aren’t yet a sale).. **HAVE QUICKER INTERNAL MEETINGS**, you’ll be more effective. **EXCUSE YOURSELF** from meetings you aren’t genuinely adding value at. There is time gold in those hills. YES, a more performant Frog either a) works over 40 hours or b) keeps meetings to a bare minimum, with clear agendas and clear goals to complete work quickly.
+- You could be doing a ton of **administrative meetings**, which are actually either a) client-related or a) “internal”. Client related meetings should be billed to clients (Into “sales” if they aren’t yet a sale)... **HAVE QUICKER INTERNAL MEETINGS**, and you’ll be more effective. **EXCUSE YOURSELF** from meetings you aren’t genuinely adding value at. There is time gold in those hills. YES, a more performant Frog either a) works over 40 hours or b) keeps meetings to a bare minimum, with clear agendas and clear goals to complete work quickly.
 - You may be new at your job, so you may be spending an inordinate amount of time training and learning. (Under a year at Treefrog you should expect this). Get up to speed! Focus!
-- You may have additional “social” activities which you bill to Admininstration... but it’s really just an excuse for social time. For example, Frog-a-versaries - some people bill 10 mins/wk for this, and others bill 1 hr/week. Who do you think is most effective? If you show up an hour early for a quick event and then hang out for an hour, is this an effective use of your time? No. Maybe you forgot to turn off your time clock? Then fix it - it will only screw you later.
+- You may have additional “social” activities which you bill to Administration... but it’s really just an excuse for social time. For example, Frog-a-versaries - some people bill 10 mins/wk for this, and others bill 1 hr/week. Who do you think is most effective? If you show up an hour early for a quick event and then hang out for an hour, is this an effective use of your time? No. Maybe you forgot to turn off your time clock? Then fix it - it will only screw you later.
 - You may be just genuinely inefficient with your time, or take a lot more breaks or spend time navel-gazing. Work will your Pod members to find strategies to increase your efficiency as a group.
 
 ### Reasonable Billing Expectations
 
 Also interesting, when you do some rough calculations on costing based on utilization rate of $100/hour (to be discussed later), you’ll see that at different salary grades, the expectation on your performance increases as your salary increases. Wondering why you aren’t considered a more performant? Check the table...
 
-#### Example Carrying Costs of a Production Frog at $100/hour in “Weekly Hours”
+##### Example Carrying Costs of a Production Frog at $100/hour in “Weekly Hours”
 
 | “Base” Salary | Salary Cost (EI, etc.) | Weekly Hours   for Salary | Carrying Cost (Desk/Computer) | Administration Costs (in Hours) | 10% Growth | **Billed Hours to Cover Self** |
 |---------------|------------------------|---------------------------|-------------------------------|---------------------------------|-----------------------|----------------------------|
@@ -109,7 +109,7 @@ If you aren’t at least covering yourself, why would you qualify for a raise? A
 
 ### Effective Hourly Rate
 
-Another constraint is your “effective hourly rate”. Sure - you might be working 37.5 hours a week - but if every project you work on you spend double your allocated time on (read: what it was sold for), you are also not being effective.
+Another constraint is your “effective hourly rate”. Sure, you might be working 37.5 hours a week, but if every project you work on you spend double your allocated time on (read: what it was sold for), you are also not being effective.
 
 Let’s say, for example, a project sold for $1000, and you worked 10 hours on it. 1000/10 = $100/hour. Ergo, your effective hourly rate on that project is $100. If, however, you were able to do it in 5 hours, your effective hourly rate would have been $200. If you spend 20 hours on it (double!!), your effective hourly rate is $50.
 
@@ -117,7 +117,7 @@ Let’s say, for example, a project sold for $1000, and you worked 10 hours on i
 - Our “minimum acceptable effective hourly rate” is $100.
 - You won’t knock every project out of the park. But you should have a reasonable balance over the last X projects.
 
-So, here’s another table of performance effect, this time by hourly rate;
+So, here’s another table of performance effect, this time by hourly rate:
 
 ##### Example Hourly Rate Performance Levels for an Average Salaried Frog (at $125/hour)
 
@@ -126,16 +126,17 @@ So, here’s another table of performance effect, this time by hourly rate;
 | >$125/hour        | Epic (Peak) Performance | “You deserve a bonus.”*               |
 | $110/hour         | Excellent Performance   | “Fantastic! Keep rocking!"            |
 | $105/hour         | Good Performance        | “You are doing a great job."          |
-| $100/hour hrs/week | Acceptable Performance  | “You are breaking even."              |
+| $100/hour         | Acceptable Performance  | “You are breaking even."              |
 | $90/hour          | Mediocre Performance    | “You are doing the minimum possible." |
 | <$75/hour         | Poor Performance        | “You are dragging down the team.”     |
 
-*Careful that external factors (like grant monies!) aren’t skewing your stats - you could be in for a hard days night later.
+\* Careful that external factors (like grant monies!) aren’t skewing your stats - you could be in for a hard days night later.
 
-Bottom line is, you should be cognizant of what your responsibilities are before starting a project, and ensuring (before you start) that the project is doable within the allocated time. If not, you should go back to sales and re-negotiate*.
+*Bottom line is, you should be cognizant of what your responsibilities are before starting a project, and ensuring (before you start) that the project is doable within the allocated time. If not, you should go back to sales and re-negotiate*.
 
-*The balancing factor here is that: sales needs to be able to sell it. If you want 1000 hours to pick your nose, clients won’t pay for it, and we’ll run out of work for you to do.
-- You may believe sales “undersold” something on you. Or it was “mis-scoped”. So why didn’t your pod get together and work on a better rationale for the sales team that showed what value you were achieving for the client? Sales can’t stop - or you won’t have work to do. 
+\* The balancing factor here is: sales needs to be able to sell it. If you want 1000 hours to pick your nose, clients won’t pay for it, and we’ll run out of work for you to do.
+
+- You may believe sales “undersold” something on you. Or it was “mis-scoped”. So why didn’t your pod get together and work on a better rationale for the sales team that showed what value you were achieving for the client? Sales can’t stop - or you won’t have work to do.
 - If you focus on getting the work done, every time, under budget - you’ll almost always have an incredibly high effective hourly rate.
 
 #### Example Effective Contribution of a Production Frog at $50k Salary
@@ -150,13 +151,13 @@ Bottom line is, you should be cognizant of what your responsibilities are before
 | 125         | 49,000  | **55,250**  | **61,500**  | **67,750**  | **74,000**  | **80,250**  | **86,500**  | **92,750**  | **99,000**  |
 | 150         | **84,000**  | **91,500**  | **99,000**  | **106,500** | **114,000** | **121,500** | **129,000** | **136,500** | **144,000** |
 
-From this table - you can see the effect of an individual production Frog's contribution to the company based on two factors: how many hours they work (28-36) and what their average effective hourly rate is ($50-150). This gives you a sense: a production person can underperform and *cost* the company $56,000 a year - or super perform and generate $144,000, all by themselves! 
+From this table, you can see the effect of an individual production Frog's contribution to the company based on two factors: how many hours they work (28-36) and what their average effective hourly rate is ($50-150). This gives you a sense: a production person can underperform and *cost* the company $56,000 a year - or super-perform and generate $144,000, all by themselves!
 
 It's absolutely astonishing to see how significant the effect of one individual's performance can be - it can make or break the company as a whole!
 
 ### Contribution
 
-You have to do three things to increase your performance in your production role at Treefrog, leading to ;
+You have to do three things to increase your performance in your production role at Treefrog:
 
 1. You need to be at work **at least 40 hours a week**.
 2. You need to **maximize your Billable Hours** - the closer to 40 you get, the better.
