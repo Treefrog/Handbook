@@ -12,41 +12,41 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 
 * **Basic Frog Expectations**
 	* [Attitude](Attitude.md) - *"Success at Treefrog is all about Attitude."*
-	* [Client Service](clientservice.md) - *"Treat both Clients and Frogs as you would have them treat you."*
-	* [Social Ettiquette](social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
+	* [Client Service](ClientService.md) - *"Treat both Clients and Frogs as you would have them treat you."*
+	* [Social Ettiquette](Social.md) - *"As a digital agency, you are a Frog 24 hours a day. Act like it."*
 	* [Punctuality](Punctuality.md) - *"Be there when you say you will be."*
-	* [Dress Code](dress.md) - *"Preferably, wear clothes."*
-	* [Housekeeping](housekeeping.md) - *"We are not your mother."*
-	* [Out of Office](outofoffice.md) - *"If you leave you office, let people know."*
+	* [Dress Code](Dress.md) - *"Preferably, wear clothes."*
+	* [Housekeeping](Housekeeping.md) - *"We are not your mother."*
+	* [Out of Office](OutOfOffice.md) - *"If you leave you office, let people know."*
 * **Basic Frog Obligations**
-	* [Confidentiality](confidentiality.md) - *"You may not talk about clients outside of Treefrog."*
-	* [Privacy](privacy.md) - *"Don't be snoopy."*
-	* [Ownership](ownership.md) - *"Treefrog owns your brain."*
-	* [Injury](injury.md) - *"If you get hurt, say something immediately."*
-	* [Third Party Content](thirdpartycontent.md) - *"It is illegal to steal other people's work."*
-	* [Trademarks](trademarks.md) - *"Respect the Brand."*
-	* [Records](records.md) - *"We keep paper about you."*
+	* [Confidentiality](Confidentiality.md) - *"You may not talk about clients outside of Treefrog."*
+	* [Privacy](Privacy.md) - *"Don't be snoopy."*
+	* [Ownership](Ownership.md) - *"Treefrog owns your brain."*
+	* [Injury](Injury.md) - *"If you get hurt, say something immediately."*
+	* [Third Party Content](ThirdPartyContent.md) - *"It is illegal to steal other people's work."*
+	* [Trademarks](Trademarks.md) - *"Respect the Brand."*
+	* [Records](Records.md) - *"We keep paper about you."*
 * **Hours and Pay**
-	* [Hours](hours.md) - *"40 hours a week, rain or shine."*
-	* [Timekeeping](timekeeping.md) - *"You MUST track your time. Yes, you."*
-	* [Meal Periods and Breaks](breaks.md) - *"You work hard. Take an unpaid break."*
+	* [Hours](Hours.md) - *"40 hours a week, rain or shine."*
+	* [Timekeeping](Timekeeping.md) - *"You MUST track your time. Yes, you."*
+	* [Meal Periods and Breaks](Breaks.md) - *"You work hard. Take an unpaid break."*
 	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
-	* [Overtime](overtime.md) - *"We do not do overtime."* (Also, [Exempt](Exempted.md) & [Non-Exempt](Exempted.md))
-	* [Raises](raises.md) - *"We do not give "cost of living" increases."*
-	* [Work from home](workfromhome.md) - *"Don't work from home, but..."*
-	* [Probation](probation.md) - *"3 months probation is normal."*
+	* [Overtime](Overtime.md) - *"We do not do overtime."* (Also, [Exempt](Exempted.md) & [Non-Exempt](Exempted.md))
+	* [Raises](Raises.md) - *"We do not give "cost of living" increases."*
+	* [Work from home](WorkFromHome.md) - *"Don't work from home, but..."*
+	* [Probation](Probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions](EarningsInterruptions.md) - *"Interrupted earnings gets reported to the government."*
 * **Vacations and Holidays**
-	* [Public Holidays (10 days)](holidays.md) - *"We take Statutory Holidays."*
-	* [Vacations (10 days)](vacations.md) - *"Everybody gets 2 weeks holidays to start."*
+	* [Public Holidays (10 days)](Holidays.md) - *"We take Statutory Holidays."*
+	* [Vacations (10 days)](Vacations.md) - *"Everybody gets 2 weeks holidays to start."*
 * **Emergency Leave (8 Paid days, 2 Unpaid days)**
-	* [Sick Days (5 paid days)](sickdays.md) - *"5 sick days a year is appropriate."*
-	* [Bereavment (3 paid days)](bereavement.md) - *"If your family member dies, you should take a break and mourn. "*
+	* [Sick Days (5 paid days)](SickDays.md) - *"5 sick days a year is appropriate."*
+	* [Bereavment (3 paid days)](Bereavement.md) - *"If your family member dies, you should take a break and mourn. "*
 * **Leaves of Absences (UNPAID, but stay a Frog)**
 	* [Pregnancy and Parental Leave (52 weeks)](ParentalLeave.md) - *"Take some time to enjoy your new baby."*
 	* [Family Medical (8 Weeks)](FamilyMedical.md) - *"If someone in your immediate family is at risk of dying, you should go be with them."*
-	* [Family Care Giver (8 weeks)](FamilyCareGiver.md) - *"If you need to care for someone seriously ill in your family, you should look after them."*
-	* [Crime related Death and Disappearance (52 - 104 weeks)](CrimeandRelated.md) - *"If you child disappears, you don’t need to be here."*
+	* [Family Care Giver (8 weeks)](FamilyCaregiver.md) - *"If you need to care for someone seriously ill in your family, you should look after them."*
+	* [Crime related Death and Disappearance (52 - 104 weeks)](CrimeRelatedLeave.md) - *"If you child disappears, you don’t need to be here."*
 	* [Critically Ill Child (37 weeks)](CriticallyIllChild.md) - *"If your child becomes critically ill, you don’t need to be here."*
 	* [Court or Jury Duty](JuryDuty.md) - *"Go do your duty. But we can't afford to pay for it."*
 	* [Voting](Voting.md) - *"Go vote. You don't need the day for it in Canada."*
@@ -55,7 +55,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Personal Appointments](PersonalAppointments.md) - *"Be smart about your appointments."*
 	* [Pet Emergency](PetEmergencies.md) - *"We love dogs and cats, too. But your pet is your cost."*
 * **Expenses**
-	* [Expenses](expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
+	* [Expenses](Expenses.md) - *"If Treefrog should have paid for it, we will reimburse you."*
 	* [Mileage](Mileage.md) - *"Mileage is not a way for you to pad your salary."*
 	* [Phone Expenses](PhoneExpenses.md) - *"Treefrog pays it's phone share."*
 	* [Meals & Entertainment](MealsEntertainment.md) - *"Treefrog does not reimburse meals."*
@@ -66,52 +66,52 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Corporate Card](CorporateCard.md) - *"Treefrog is not a personal Interac Machine."*
 	* [Donations](Donations.md) - *"We don't donate to charities on your behalf."*
 * **Benefits**
-	* [Health Benefits](benefits.md) - *"We want people to be super healthy."*
-	* [Short Term Disability](std.md) - *"We want people to be super healthy."*
-	* [Long Term Disability](ltd.md) - *"We want people to be super healthy."*
+	* [Health Benefits](Benefits.md) - *"We want people to be super healthy."*
+	* [Short Term Disability](ShortTermDisability.md) - *"We want people to be super healthy."*
+	* [Long Term Disability](LongTermDisability.md) - *"We want people to be super healthy."*
 * **Extra Benefits**
-	* [Bounties](bounties.md) - *"If you need extra money, we'll give you some options."*
+	* [Bounties](Bounties.md) - *"If you need extra money, we'll give you some options."*
 		* Google Certification
 		* Smart Serve Certification
 		* CPR Certification
 	* Ninja Projects
-	* [Green Wearing](greenwearing.md) - *"You become what you wear."*
-	* [Commuting](commuting.md) - *"The first step to saving the world is smaller than you think."*
+	* [Green Wearing](GreenWearing.md) - *"You become what you wear."*
+	* [Commuting](Commuting.md) - *"The first step to saving the world is smaller than you think."*
 	* Twitter/Social
-	* [Kids in the Office](kids.md) - *"We want your kids to love coming here, just like you do."*
+	* [Kids in the Office](Kids.md) - *"We want your kids to love coming here, just like you do."*
 * **Physical Stuff**
-	* [Equipment](equipment.md) - *"."*
-	* [Devices](devices.md) - *"Treat your stuff with respect."*
-	* [Belongings](belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
-	* [Purchasing](purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
-* **Conflicts of Interest** ([Overview](conflictofinterest.md)) - *"Don't do ethically gray stuff."*
-	* [Exclusive Service and Moonlighting](exclusiveservice.md) - *"You have ONE job."*
+	* [Equipment](Equipment.md) - *"."*
+	* [Devices](Devices.md) - *"Treat your stuff with respect."*
+	* [Belongings](Belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
+	* [Purchasing](Purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
+* **Conflicts of Interest** ([Overview](ConflictsOfInterest.md)) - *"Don't do ethically gray stuff."*
+	* [Exclusive Service and Moonlighting](ExclusiveService.md) - *"You have ONE job."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
 	* Fraud
 * **Diversity & Equality**
-	* [Respect](respect.md) - *"To get it, you must give it."*
-	* [Diversity](diversity.md) - *Strength lies in our differences, not in our similarities."*
-	* [Birthdays](birthdays.md) - *"Let’s celebrate each other, in our own way."*
+	* [Respect](Respect.md) - *"To get it, you must give it."*
+	* [Diversity](Diversity.md) - *Strength lies in our differences, not in our similarities."*
+	* [Birthdays](Birthdays.md) - *"Let’s celebrate each other, in our own way."*
 * **Accessibility & Accomodation**
 	* [Workplace Accomodation](WorkplaceAccomodation.md) - *"."*
 	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"."*
-	* [Accessibility in Employment](AccessibilityinEmployment.md) - *"."*
+	* [Accessibility in Employment](AccessibilityStandards.md) - *"."*
 	* [Medical Marijuana](MedicalMarijuana.md) - *"."*
 * **Problems at Work**
-	* [Discipline](discipline.md) - *"."*
-	* [Security](security.md) - *"."*
-	* [Safety](safety.md) - *"."*
-	* [Harassment](harassment.md) - *"."*
-	* [Absenteeism](absenteeism.md) - *"."*
-	* [Drugsandalcohol](drugsandalcohol.md) - *"."*
-	* [Pets](pets.md) - *"."*
-	* [Wild Animals](animals.md) - *"."*
-	* [Mistakes](mistakes.md) - *"."*
+	* [Discipline](Discipline.md) - *"."*
+	* [Security](Security.md) - *"."*
+	* [Safety](Safety.md) - *"."*
+	* [Harassment](Harassment.md) - *"."*
+	* [Absenteeism](Absenteeism.md) - *"."*
+	* [Drugsandalcohol](DrugsAndAlcohol.md) - *"."*
+	* [Pets](Pets.md) - *"."*
+	* [Wild Animals](Animals.md) - *"."*
+	* [Mistakes](Mistakes.md) - *"."*
 * **Leaving Treefrog**
 	* [Quitting](Quitting.md) - *"If you leave Treefrog high and dry, you suck."*
 	* [Job Abandonment](Abandonment.md) - *"Don't just disappear."*
 	* [Recommendations](Recommendations.md) - *"We don't write recommendations."*
-	* [Portfolio](portfolio.md) - *"You cannot use Treefrog work in a personal portfolio."*
+	* [Portfolio](Portfolio.md) - *"You cannot use Treefrog work in a personal portfolio."*
 	* [Alumni](Alumni.md) - *"."*
 
 If you see something missing in this manual, please report it immediately!
