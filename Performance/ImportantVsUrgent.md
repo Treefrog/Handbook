@@ -1,4 +1,4 @@
-# Important VS Urgent
+# Important vs. Urgent
 
 > There is time for everything that is important.
 
@@ -20,8 +20,7 @@ The top-right corner **(Important and Not Urgent)** could consist of things like
 The bottom-left corner **(Not Important and Urgent)** might consist of interruptions, meetings, and activities.
 
 The bottom-right corner **(Not Important and Not Urgent)** might consist of time wasters, pleasant activities, and other trivial tasks.
- 
+
 ###Examples
 
 Examples of this rule in action.
- 

@@ -7,7 +7,7 @@ Cascade leadership<br>
 No classes<br>
 No Them and Us, ever*
 
-#### Matrix Heirarchy
+#### Matrix Hierarchy
 
 #### Vote out The CEO
 
