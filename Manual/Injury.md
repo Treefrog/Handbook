@@ -1,16 +1,16 @@
 # Return to Work after Injury or Illness
 
-<i> Treefrog wants you to be well and will work with all frogs to ensure a safe and healthy return to work process after an injury or illness. </i>
+*Treefrog wants you to be well and will work with all frogs to ensure a safe and healthy return to work process after an injury or illness.*
 
-Treefrog is committed to the prevention of workplace injuries and illnesses.  However, in the event that an injury or illness does occur at work or during off-work hours, we are deeply committed to ensuring a safe and timely return to work.  
+Treefrog is committed to the prevention of workplace injuries and illnesses.  However, in the event that an injury or illness does occur at work or during off-work hours, we are deeply committed to ensuring a safe and timely return to work.
 
 ### Frogs are responsible to do the following:
 
 •	Report any accident, injury or illness (same day) immediately to your pod leader.
 
-•	If you feel or think you are unable to perform your job duties as a result of your injury, you must obtain a Functional Abilities Form (FAF) from your pod leader (occupational if it was work-related; non-occupational if it was not work-related) 
+•	If you feel or think you are unable to perform your job duties as a result of your injury, you must obtain a Functional Abilities Form (FAF) from your pod leader (occupational if it was work-related; non-occupational if it was not work-related)
 
-•	Have your doctor complete the Functional Abilities Form (FAF) and return it immediately to your pod leader.  If the form is incomplete, the frog will be required to take it back to their doctor to complete. 	
+•	Have your doctor complete the Functional Abilities Form (FAF) and return it immediately to your pod leader.  If the form is incomplete, the frog will be required to take it back to their doctor to complete.
 
 •	Meet with your pod leader to prepare a return to work program.  This program will be developed based on the information in the Functional Abilities Form.  The length of the program will vary as well and the goal is to ensure that the frog eventually returns to regular duties.
 

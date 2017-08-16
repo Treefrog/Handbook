@@ -43,7 +43,7 @@ If you are going to be late, need to take moments off, or feel sick, etc, please
 - "Reminder: I will be out for a doctor's appointment tomorrow after 3:00pm. Just a checkup. Call or Slack with emergencies 905-392-6997 ATTN: @Kevin"
 - "I have a migraine, and so, I need to go home. I should be in tomorrow. My migraines usually only last a day. Slack only, I will check in when the pain subsides. ATTN: @Jim"
 
-####Some reminders for all involved:
+#### Some reminders for all involved:
 
 - If you are sick, get better. If you need to go to a doctor or dentist, do not wait. We work around one another.
 - Working from home is a privilege, not a right. Not being here makes you more difficult to communicate with and less likely to help Treefrog and yourself be successful. Only work from home if it is absolutely necessary, not because it would be nice.

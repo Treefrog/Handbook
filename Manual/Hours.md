@@ -1,6 +1,6 @@
 # Hours of Work
 
-The standard work week consists of 40 paid hours, Monday to Friday, 9:00 am to 5:30 pm each day ("Normal Office Hours"). Any exceptions to the standard work day hours must be represented and approved by your Pod Leader. 
+The standard work week consists of 40 paid hours, Monday to Friday, 9:00 am to 5:30 pm each day ("Normal Office Hours"). Any exceptions to the standard work day hours must be represented and approved by your Pod Leader.
 
 *Frog salaries cover all hours worked up to 44 hours per week for Non-Exempt Frogs, Exempt Frogs have no limit).*
 
@@ -10,11 +10,11 @@ The standard work week consists of 40 paid hours, Monday to Friday, 9:00 am to 5
 
 Treefrog offers an alternative of flexible working hours for most roles at Treefrog. For those individuals who wish to have flexible hours, a request for these hours must be approved by the Pod Leader who will reasonably and appropriately allow for these flexible hours.
 
-* Core hours are not "flexible day to day", but rather "you can set a schedule of when you will be working". The rest of the team needs to know where you are consistently, so we can work around and with you. 
+* Core hours are not "flexible day to day", but rather "you can set a schedule of when you will be working". The rest of the team needs to know where you are consistently, so we can work around and with you.
 
-* Core hours of 11:00 am to 3:00 pm are required as part of a flexible working hours request. Please note that although every effort will be made to accommodate the request for flexible hours and granted flexible hour schedules, client and/or internal meetings will supersede these scheduling exceptions. 
+* Core hours of 11:00 am to 3:00 pm are required as part of a flexible working hours request. Please note that although every effort will be made to accommodate the request for flexible hours and granted flexible hour schedules, client and/or internal meetings will supersede these scheduling exceptions.
 
-* For customer service and [safety](Manual/safety.md) reasons, the office policy requires that 2 people be in the office at all times during core hours. 
+* For customer service and [safety](Manual/safety.md) reasons, the office policy requires that 2 people be in the office at all times during core hours.
 
 * Additionally, there should be one person from each client-facing Pod available at all normal office hour times, *to ensure that client requests can be handled promptly*. Please schedule your time, meals, and breaks accordingly.
 
@@ -32,7 +32,7 @@ Our company has a higher than average minimum expectation of **40 hours of work*
 
 Treefog **does not pay for breaks or lunch**. After 5 hours of work, all Frogs are entitled to a half an hour meal period. This meal period is unpaid. As you are paid for a minimum of 8 hours a per day, you are actually required to be on-site for a minimum of 8.5 hours a day.
 
-You may, however, have a **working lunch**, if you wish. Since we usually talk about work during lunch and/or eating at our desks and since there are no physically demanding roles that require physical rest, the suggestion is that if you wish, you may multi-task your lunch break to continue specific work-related discussions and thus combine lunch and work. <i>Talking about people who work here is not a work-related discussion. Talking about a project is a work related-discussion.</i>
+You may, however, have a **working lunch**, if you wish. Since we usually talk about work during lunch and/or eating at our desks and since there are no physically demanding roles that require physical rest, the suggestion is that if you wish, you may multi-task your lunch break to continue specific work-related discussions and thus combine lunch and work. *Talking about people who work here is not a work-related discussion. Talking about a project is a work related-discussion.*
 
 ### Overtime
 
@@ -40,7 +40,7 @@ See [Overtime](Overtime).
 
 ### Work from Home
 
-Bottom line, working from home is a mixed bag of value. Although you may feel more efficient in accomplishing specific tasks at home, the overall effect on communication, access to correct resources, confusion by others, need of other's to take on additional responsibilities when you are not available, and so on, can impact overall team productivity and Treefrog's potential combined success. We are much more holistically efficient if we are all working together in the same space. 
+Bottom line, working from home is a mixed bag of value. Although you may feel more efficient in accomplishing specific tasks at home, the overall effect on communication, access to correct resources, confusion by others, need of other's to take on additional responsibilities when you are not available, and so on, can impact overall team productivity and Treefrog's potential combined success. We are much more holistically efficient if we are all working together in the same space.
 
 See [Work from Home](workfromhome.md).
 
@@ -61,7 +61,7 @@ Also note, Non-Exempt Frogs **cannot** work more than 48 hours a week, and Exemp
 
 ### Staying up Late and Not Dying Tomorrow
 
-> Use your Common Sense about when to come in. 
+> Use your Common Sense about when to come in.
 
 If you end up intentionally working until 4 in the morning, you should not really come in for 8 hours. This means, noon the next day. If it is an emergency, this may not qualify, but it is fair logic. *To clarify, intentionally is being defined as the result of planned and required late-night work, not because you want to complete something and cannot sleep until you do.*
 
@@ -79,7 +79,7 @@ ONE minute of extra paid work by 25 Frogs pays enough to keep 50 orphans fed for
 
 When 25 Frogs work 1 extra *hour* a day, let us again say content inputting because everyone can do that, this is the equivalent of 25 hours a day or 125 hours a week. Adjusted for seasonality, the "opportunity value" of that production hour, inclusive of all in the team, is (1min x 25peeps x $125/hour x 5days x 52weeks /12 months);
 
->1 Billable Hour a Day for a Month = $67,708/month in Productivity = $812,500/year
+> 1 Billable Hour a Day for a Month = $67,708/month in Productivity = $812,500/year
 
 Another way to look at this is if we lose 1 hour of work due to an Internet failure, or we work 39 hours a week instead of 40, or an emergency server issue costs us an evening of grief, or we mis-allocate 1 hour a day into Administration time - we are cutting off our opportunity to grow and succeed as a team. Working less than 40 hours is stealing from our potential success.
 
@@ -91,7 +91,7 @@ This is not a call to work hours of [overtime](Overtime). It would be preferable
 
 Some other relevant information about hours worked;
 
-- Depending on your role, if FrogWeb shows more than 2-3 hours a week of "Admin" time over and above your 40 hours, and your role does not necessitate this by definition, there are red flags. You are possibly putting time in for work that you should not; such as, "computer failure", "lunch", "an error on a specific site [you] should have fixed", or "cleaning up after a client when [you] should have billed it under a project". Questions are raised about how you are using FrogWeb and what you are hiding. You can and should track this type of activity under Admin, and your activity should balance out to some degree with work and/or 40+ hours. If your computer is not working properly, you should be trying to do other work that is effective rather than sitting around twiddling your thumbs burning admin time. 
+- Depending on your role, if FrogWeb shows more than 2-3 hours a week of "Admin" time over and above your 40 hours, and your role does not necessitate this by definition, there are red flags. You are possibly putting time in for work that you should not; such as, "computer failure", "lunch", "an error on a specific site [you] should have fixed", or "cleaning up after a client when [you] should have billed it under a project". Questions are raised about how you are using FrogWeb and what you are hiding. You can and should track this type of activity under Admin, and your activity should balance out to some degree with work and/or 40+ hours. If your computer is not working properly, you should be trying to do other work that is effective rather than sitting around twiddling your thumbs burning admin time.
 
 - We support the flexibility of going and getting your license renewed or your teeth cleaned during the day so that you do not have to on your weekend - that is stupid. If you do not catch up on the time in a meaningful way, however, you are hurting the person sitting next to you by not carrying your weight.
 

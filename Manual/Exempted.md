@@ -6,7 +6,7 @@ Under the Ontario Employment Standards Act, 2000 (the “Act”), certain employ
 
 ### Exempt
 
-Exempt frogs are those frogs holding positions that are managerial or supervisory in nature, or in certain professional occupations, such as IT professionals.   At Treefrog, these positions include <i>but are not limited to</i>;
+Exempt frogs are those frogs holding positions that are managerial or supervisory in nature, or in certain professional occupations, such as IT professionals.   At Treefrog, these positions include *but are not limited to*;
 
 * the CEO 
 * Business Development Manager 

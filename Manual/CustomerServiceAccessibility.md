@@ -2,7 +2,7 @@
 
 > The Rule of Thumb
 
-<i>Treefrog is committed to excellence in serving all people with disabilities.</i>
+*Treefrog is committed to excellence in serving all people with disabilities.*
 
 We strive to provide our goods, services and facilities in a respectful and accessible manner to all of our clients, including persons with disabilities. Persons with disabilities will benefit from the same services, in the same place, in a similar way, as other clients. It is the commitment of Treefrog to provide equitable treatment, with respect to providing our goods and services without discrimination in accordance with The Accessibility for Ontarians with Disabilities Act, 2005, S.O. 2005, c. 11 and the Ontario Regulation, O. Reg. 191/11: INTEGRATED ACCESSIBILITY STANDARDS and the provisions of the Ontario Human Rights Code. 
 

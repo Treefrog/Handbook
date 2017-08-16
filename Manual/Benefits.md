@@ -14,7 +14,7 @@ All dental and health forms should be submitted directly to the provider and dir
 
 ### Everyone Must Comply
 
-Not only because our benefits providers require it but also because we genuinely want people to be happy and healthy. We are not going to help you avoid the system just because you think you are bullet-proof or luckier than other people. 
+Not only because our benefits providers require it but also because we genuinely want people to be happy and healthy. We are not going to help you avoid the system just because you think you are bullet-proof or luckier than other people.
 
 Everybody gets sick. Everybody has issues. We want everyone to be protected.
 
@@ -26,11 +26,11 @@ These voting realities do need to be balanced with the capacity of the company t
 
 ### Use Benefits When Appropriate, Not Just Because
 
-One often forgotten reality is that *benefit rates are commensurate with usage*. This point is not made to deter your use of preventative and appropriate preventative measures, for example, massage therapy or naturopathy, but rather, to be reaonable in your use of said services commensurate with your needs. 
+One often forgotten reality is that *benefit rates are commensurate with usage*. This point is not made to deter your use of preventative and appropriate preventative measures, for example, massage therapy or naturopathy, but rather, to be reaonable in your use of said services commensurate with your needs.
 
 In other words, there is a net effect to the whole team if you abuse the system. Therefore, do not abuse the system.
 
-###Examples
+### Examples
 
 1. We had a Frog who voted that Long Term Disability was a waste of money and soon after developed cancer. Ironically, the lack of LTD required the person to quit and pursue an alternate career.
 

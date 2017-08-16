@@ -2,7 +2,7 @@
 
 > There is time for everything that is important.
 
-<i>Often we get caught up in the crazy, and focus on what is urgent instead of focusing on what is important.</i>
+*Often we get caught up in the crazy, and focus on what is urgent instead of focusing on what is important.*
 
 What's the difference between urgent and important tasks, and how can we make sure we always get this right?
 

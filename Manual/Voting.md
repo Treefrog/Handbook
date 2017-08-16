@@ -2,7 +2,7 @@
 
 > The Rule of Thumb
 
-<i>Every Canadian citizen, 18 years or older on polling day is entitled to vote. If you are over 18, go vote.</i>
+*Every Canadian citizen, 18 years or older on polling day is entitled to vote. If you are over 18, go vote.*
 
 We do encourage all frogs to fulfill their civic obligations.  Qualified electors are entitled to three consecutive hours, while the polls are open, during which to vote. This doesn't mean you get to come into work 3 hours late on voting day or leave 3 hours early on voting day.  What it does mean is that if your work schedule that day prevents you from having 3 consecutive hours off to vote, then we will give you the time off to fulfill your duty.   
 

@@ -4,7 +4,7 @@
 
 Treefrog doesn't fire people, if at all possible.
 	
-<i>Anyone at Treefrog has the right to leave at any time (**voluntary leaving**), and we have the right to ask people to leave at any time (**involuntary leaving**) - but the Treefrog philosophy is that Treefrog goes **far above and beyond to try and make things work with members of our team** if they are not performing well or are unhappy. In return we humbly request that people don’t suddenly quit and leave us high and dry - but rather they work with the rest of us to figure out how to be happy or in a worse case scenario, transition out amicably while both you and the company remain intact.</i>
+*Anyone at Treefrog has the right to leave at any time (**voluntary leaving**), and we have the right to ask people to leave at any time (**involuntary leaving**) - but the Treefrog philosophy is that Treefrog goes **far above and beyond to try and make things work with members of our team** if they are not performing well or are unhappy. In return we humbly request that people don’t suddenly quit and leave us high and dry - but rather they work with the rest of us to figure out how to be happy or in a worse case scenario, transition out amicably while both you and the company remain intact.*
 
 Loyalty goes both ways, we should protect one another past the point of comfort.
 

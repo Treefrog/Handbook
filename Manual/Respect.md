@@ -1,6 +1,6 @@
 # Respect
 
-<i> To get it, you must give it." </i>
+*To get it, you must give it.*
 
 ### Employee Relations
 
@@ -8,7 +8,7 @@ Treefrog is committed to providing fair policies and procedures in order to fost
 
 ### Open Door Program
 
-If a situation occurs where a Frog believes that a condition of employment or a decision affecting him or her is unjust or inequitable, he or she is encouraged to make use of the following steps: 
+If a situation occurs where a Frog believes that a condition of employment or a decision affecting him or her is unjust or inequitable, he or she is encouraged to make use of the following steps:
 
 **Step 1**: The Frog presents the problem to their pod leader verbally and/or in writing, if requested, after the incident occurs.
 

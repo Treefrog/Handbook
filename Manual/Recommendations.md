@@ -3,7 +3,7 @@
 
 > We do not give people recommendations to ensure we do not get sued.
 
-<i>Recommendations lead to potential liability through the future employer. Therefore, only Treefrog's CEO or HR professionals should give written recommendations.</i>
+*Recommendations lead to potential liability through the future employer. Therefore, only Treefrog's CEO or HR professionals should give written recommendations.*
 
 Only designated frogs (currently, only the CEO) will be permitted to provide an employment reference for a former or current frog.  Requests from prospective employers will be responded to by “confirming only” information that you have given (ie. salary, period of employment and job responsibilities).  Treefrog does not authorize anyone else to speak on our behalf.  All requests for providing references should be directed to the CEO.
  

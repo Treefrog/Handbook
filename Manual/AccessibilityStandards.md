@@ -2,7 +2,7 @@
 
 > The Rule of Thumb
 
-<i>We are committed to excellence in serving all people with disabilities throughout the employment life cycle.</i>
+*We are committed to excellence in serving all people with disabilities throughout the employment life cycle.*
 
 ### STATEMENT OF COMMITMENT:
 

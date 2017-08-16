@@ -2,7 +2,7 @@
 
 > The Rule of Thumb
 
-<i>If your child becomes critically ill, you don't need to be here - it's clear where you need to be.</i>
+*If your child becomes critically ill, you don't need to be here - it's clear where you need to be.*
 
 This is another unpaid, job protected leave under the ESA.  The Critically-ill Child Care Leave is available to frogs with six (6) consecutive months of employment.  Frogs could be entitled to an unpaid job protected leave of 37-52 weeks depending on the care needed for the child as determined by a qualified health practitioner.  In order to be eligible, a qualified health practitioner must issue a certificate that:
 

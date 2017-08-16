@@ -2,7 +2,7 @@
 
 > If you make it through 1.5 years, you are alumni.
 
-<i>Major contributors to Treefrog get special recognition.</i>
+*Major contributors to Treefrog get special recognition.*
 
 If you've been a major contributor to Treefrog, and stuck it out through thick and thin, you will have a place in our hearts forever. You are always welcome to come back and hang out, and drink our beer.
 

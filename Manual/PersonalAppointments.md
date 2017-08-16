@@ -2,7 +2,7 @@
 
 > Be smart about your appointments.
 
-<i>The whole point of Treefrog is to make life better for you - to allow you to take time off if you need it.</i>
+*The whole point of Treefrog is to make life better for you - to allow you to take time off if you need it.*
 
 But that doesn't mean to say you should abuse the system.
 

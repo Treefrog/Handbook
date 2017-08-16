@@ -2,7 +2,7 @@
 
 > The Rule of Thumb
 
-<i>We will work with any frog who requests accommodation for the use of medical marijuana as prescribed by their doctor.</i>
+*We will work with any frog who requests accommodation for the use of medical marijuana as prescribed by their doctor.*
 
 
 Treefrog will work with any frog who requests accommodation to use medical marijuana in an effort to ensure that any accommodation measures are effective, consistent with the frog’s medical needs, and operationally feasible, having regard for safety and cost.   Medical marijuana will be treated the same as all other prescription medication. We haves the same expectations from frogs who use medical marijuana as who use all other types of medication and will accommodate individuals up to the point of undue hardship and having regard to the safety of all other frogs. 

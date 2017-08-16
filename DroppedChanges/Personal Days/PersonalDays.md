@@ -2,7 +2,7 @@
 
 > Take Personal Days if absolutely needed. You should have a buffer of available days (not holidays) to stay personally successful, where your brain stays partially available to Treefrog.
 
-<i>In order to balance the success of your personal life with the success of Treefrog, we believe you should be able to take time off when necessary to do personal real-life activities.</i>
+*In order to balance the success of your personal life with the success of Treefrog, we believe you should be able to take time off when necessary to do personal real-life activities.*
 
 ### What is a Personal Day?
 
