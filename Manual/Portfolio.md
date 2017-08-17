@@ -2,8 +2,8 @@
 
 > You cannot use Treefrog work in a personal portfolio.
 > You cannot use work from previous companies you have worked for as examples in a Treefrog portfolio.
- 
-Although this may seem Draconian, there are a number of reasons why personal work cannot be used on its own in a portfolio. 
+
+Although this may seem Draconian, there are a number of reasons why personal work cannot be used on its own in a portfolio.
 
 Imagine you buy a car from someone, and the owner of the car refuses to transfer it to your name. Would you be comfortable with that? Of course not! You would want complete ownership of the vehicle since you are the one paying for it.
 
@@ -24,10 +24,9 @@ Since our work is crucial for business, brand, and more, we believe that our wor
 #### Rationale
 - We have been sued before when someone posted client work on his or her own personal site.
 - Work that you do at Treefrog should be work that has alternate Frogs working with you to make it excellent. Therefore, it is rare that work that you have done is exclusively yours.
--  All projects should be executed on Treefrog’s equipment and would then be considered to be solely owned by Treefrog. If the project is contractually articulated, the client for whom it has been developed would be the sole owner. 
+-  All projects should be executed on Treefrog’s equipment and would then be considered to be solely owned by Treefrog. If the project is contractually articulated, the client for whom it has been developed would be the sole owner.
 -  This work may not be shared or used externally from Treefrog. This includes any work completed for a Frog’s personal use, such as, a portfolio.
 
 If a Frog’s employment is terminated or the Frog resigns, all work created while employed by Treefrog must be returned to Treefrog, and all remnants must be deleted from the individual’s personal device. No information may be forwarded or shared with any third-party operation.
 
 Using work created at Treefrog outside of the Treefrog environment will lead to legal action.
-

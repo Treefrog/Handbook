@@ -14,4 +14,3 @@ A gift, favour, or entertainment may be accepted only if:
 It is never acceptable to accept a gift in cash or cheque equivalent.
 
 Frogs should disclose and report to the CEO any business courtesies or inducements that they are receiving even if these courtesies or inducements fall under the criteria above.
-

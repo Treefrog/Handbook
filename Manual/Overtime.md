@@ -4,13 +4,13 @@
 
 *Consistently working more than 44 hours a week will cause you to burnout and that is not in the best interest of you, your teammates or Treefrog.*
 
-All Frogs are expected to work between 40 and 44 hours per week in return for the value of their salary.  Frogs are not permitted to unilaterally work beyond their regular work hours without prior approval from the CEO. 
+All Frogs are expected to work between 40 and 44 hours per week in return for the value of their salary. Frogs are not permitted to unilaterally work beyond their regular work hours without prior approval from the CEO.
 
 ESA regulations clearly state Treefrog is obligated to pay overtime for any hour over 44 hours worked every week by [Non-Exempt](Exempted.md) Frogs. However, our salaried, flexible, managed work environment (with very few punishments for missing deadlines or leaving early to go to the Doctor and lots of internal fun-time) has no reason to compel you to *ever* work more than an average of 44 billable hours a week unless all hell has broken loose. Ergo, as a rule, we don't do overtime - **it shouldn't ever happen**, as a matter of your health and our working framework.
 
 If you have **billed** over **44 hours** for **over three weeks in a row**, you should speak to the CEO immediately to ensure you are in compliance with our maximum average weekly hourly work week of 44 hours. You shouldn't be doing this, and we should be re-thinking some things.
 
-If authorized and approved by the CEO, any hours worked in excess of 44 hours in any week will be paid at a rate of 1.5 times the regular rate for all [non-exempt](Exempted.md) Frogs.  A (non-exempt) Frog who works beyond forty-four (44) hours in a work week without prior authorization obtained in advance, is in violation of our policies, so they will be paid and then asked to come speak to the CEO.
+If authorized and approved by the CEO, any hours worked in excess of 44 hours in any week will be paid at a rate of 1.5 times the regular rate for all [non-exempt](Exempted.md) Frogs. A (non-exempt) Frog who works beyond forty-four (44) hours in a work week without prior authorization obtained in advance, is in violation of our policies, so they will be paid and then asked to come speak to the CEO.
 
 * [Bounties](Boutnies.md) do not qualify for overtime pay, as they are all by choice and have their own payment terms attached.
 * [Ninja Projects](ninjaprojects.md) do not qualify for overtime pay, as they are all by choice and have their own payment terms attached.

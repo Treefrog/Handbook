@@ -6,7 +6,7 @@ The key confusion here is "**inflationary raise**" vs. "**right-sizing due to  a
 
 ### Right-Sizing
 
-**At least** once a year, each Pod Leader will look into the balance of industry standard value for your role and ensure we are paying you commensurate with industry standard salaries through third-party analysis rationally compared with role descriptions (currently we use [PayScale](http://www.payscale.com)). Ideally, the Pod then right-sizes you to the appropriate salary commensurate with your skill set compared to the local job market - and make sure you are paid "above average". 
+**At least** once a year, each Pod Leader will look into the balance of industry standard value for your role and ensure we are paying you commensurate with industry standard salaries through third-party analysis rationally compared with role descriptions (currently we use [PayScale](http://www.payscale.com)). Ideally, the Pod then right-sizes you to the appropriate salary commensurate with your skill set compared to the local job market - and make sure you are paid "above average".
 
 *Ironically, as the largest agency of our type in the local market, we can significantly influence "average", but we adhere to it accordingly.*
 
@@ -30,7 +30,7 @@ However, by this logic, a production person who works for a company for 50 years
 There are more legacy entitlement costs in a GM car than steel costs. GM is walking dead.
 ```
 
-The impact of this trend is excacerbated at Treefrog when we are not equally compensating by raising prices of products by 3% every year. All inflationary raises do is cut into Treefrog's capacity for survival without adding value to the organization as opposed to Treefrog's belief that "All Frogs can Grow". 
+The impact of this trend is excacerbated at Treefrog when we are not equally compensating by raising prices of products by 3% every year. All inflationary raises do is cut into Treefrog's capacity for survival without adding value to the organization as opposed to Treefrog's belief that "All Frogs can Grow".
 
 Traditional mechanisms to handle this raise indoctrination include;
 
@@ -38,7 +38,7 @@ Traditional mechanisms to handle this raise indoctrination include;
 2. **Go Public and Unionize** - End up with a slew of over-paid employees through unionization, and choke on the horrible culture left behind.
 3. **Ignore Everyone** - Not give raises and make people think they are doing something wrong because they expect to get a raise for just performing the same job.
 
-Raises should not be tied to performance or tenure. Raises should be tied exclusively to [contribution rate](utilization.md) or output (which should increase due to performance and/or tenure). In other words, "Treefrog does not give out raises" - we just "right-size" people commensurate with the industry-standard pay of their role compared to their output. 
+Raises should not be tied to performance or tenure. Raises should be tied exclusively to [contribution rate](utilization.md) or output (which should increase due to performance and/or tenure). In other words, "Treefrog does not give out raises" - we just "right-size" people commensurate with the industry-standard pay of their role compared to their output.
 
 #### Requesting a "Full Review"
 
@@ -53,4 +53,3 @@ This is not intended as a threat to the Frogs or as a mechanism to induce "Stock
 Mediocracy is evil. The tyranny of infationary raises lead to long-term mediocracy.
 
 Instead, we will promote and stimulate learning and growth, and raise compensation accordingly through right-sizing.
-

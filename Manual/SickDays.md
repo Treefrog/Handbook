@@ -2,7 +2,7 @@
 
 > Five (5) sick days is an acceptable industry norm. If you need more than this, we need to talk about why.
 
-All full-time Frogs who have successfully completed their three (3) month probationary period will be entitled to five (5) paid sick days per calendar year. In cases where the Frog takes three (3) or more days continuous sick leave, a doctor’s note must be given to his or her pod leader.  Treefrog reserves the right to request medical documentation in support of a Frog's absence at any time. 
+All full-time Frogs who have successfully completed their three (3) month probationary period will be entitled to five (5) paid sick days per calendar year. In cases where the Frog takes three (3) or more days continuous sick leave, a doctor’s note must be given to his or her pod leader. Treefrog reserves the right to request medical documentation in support of a Frog's absence at any time.
 
 Should a Frog require or take more than five days per year without written documentation and/or Treefrog’s approval, the time taken will be unpaid.
 
@@ -32,13 +32,13 @@ Different types of sicknesses have different policies:
 
 ##### Really Sick
 
-- If you are bed-ridden, ride the bed. Do not force yourself to work. The world will continue, and we will survive. 
+- If you are bed-ridden, ride the bed. Do not force yourself to work. The world will continue, and we will survive.
 - Get better and we will talk about it when you get back to work if you are over you sick-day allotment. If possible, let your Pod Leader know what to expect ASAP so they can work around you.
 
 ##### Kinda Sick Coldie Fluie
 
-- If you have a communicable illness, if there is any chance you can pass it on, please do not come to work. But, if you can work at 75% capacity or above, we still need you to work so work from home. 
-- We have arranged for practically everyone to be capable of doing work at home. If you do not have a mechanism to work effectively from home, please let me know and we will solve it for you. Working from home means at least 75% productive, a definition you choose for yourself. When you are working from home, communicate regularly and effectively to the team. Otherwise, your work may be in vain. 
+- If you have a communicable illness, if there is any chance you can pass it on, please do not come to work. But, if you can work at 75% capacity or above, we still need you to work so work from home.
+- We have arranged for practically everyone to be capable of doing work at home. If you do not have a mechanism to work effectively from home, please let me know and we will solve it for you. Working from home means at least 75% productive, a definition you choose for yourself. When you are working from home, communicate regularly and effectively to the team. Otherwise, your work may be in vain.
 - If you are getting sick, rest. If you are in the final stages of getting better, work.
 
 ##### Broken/Busted
@@ -59,7 +59,7 @@ Of course, if your child is sick, chances are you might get sick and that may me
 
 ### Partial Days
 
-No, we do not want an administrative nightmare of trying to count partial days. But I also do not want to get into a situation where someone feels like working, then drops out because they start to feel sick again, etc.  You should work when you can, and not work when you cannot. The stupid 8-hour-day, as defined in 1810 by Robert Owen, is a complete metaphysical, meaningless construct anyway.
+No, we do not want an administrative nightmare of trying to count partial days. But I also do not want to get into a situation where someone feels like working, then drops out because they start to feel sick again, etc. You should work when you can, and not work when you cannot. The stupid 8-hour-day, as defined in 1810 by Robert Owen, is a complete metaphysical, meaningless construct anyway.
 
 For the most part, we do not want to become a crazy hell-hole of bureaucratic paperwork. But if you wish, we will split up days into half-sick-days if that would help. Ergo, you can work a half-sick day if you want, just let Tina know.
 
@@ -70,4 +70,4 @@ Even easier, if you want to work a half-day because you are looking after a love
 
 If you are sick but are still able to work from home, you may request a “Frog blog day” and blog from home. You must track your time on “Frog web” if you are blogging.
 
-* Be sensitive to the fact that you have a brain-related job and sickness prevents you from doing your job properly. Do not, for example, lick the walls, or kiss random sick people. Tina needs to be emailed or copied directly if you are sick. She is responsible for updating sick time in the holiday system and Frogweb. Tina needs to know if you take a full sick day or partial so she can update your hours accurately in Frogweb. Remember, you may be required to provide a doctor’s note. Also, if you are going to be off sick for a week or two, we may want to have a discussion about EI. We pay into it so we should take advantage of it. 
+* Be sensitive to the fact that you have a brain-related job and sickness prevents you from doing your job properly. Do not, for example, lick the walls, or kiss random sick people. Tina needs to be emailed or copied directly if you are sick. She is responsible for updating sick time in the holiday system and Frogweb. Tina needs to know if you take a full sick day or partial so she can update your hours accurately in Frogweb. Remember, you may be required to provide a doctor’s note. Also, if you are going to be off sick for a week or two, we may want to have a discussion about EI. We pay into it so we should take advantage of it.

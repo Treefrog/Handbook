@@ -1,4 +1,4 @@
-# Phone Expenses 
+# Phone Expenses
 
 > Treefrog pays it's phone share.
 

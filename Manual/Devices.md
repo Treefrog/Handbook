@@ -51,4 +51,3 @@ We do not use software at Treefrog or put it on our laptops unless it has been p
 3. If you need something, ask for it. If it makes sense to buy it, we will.
 
 Also, if you need something, although it looks simple to get, we do need to think about it. Therefore, expect it to take a reasonable amount of time to get the purchase completed for you.
-

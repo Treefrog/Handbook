@@ -2,7 +2,7 @@
 
 > Don't be snoopy.
 
-The privacy of our Frogs and their personal information is of great importance to Treefrog. Everyone has a right to a reasonable expectation of his or her privacy. 
+The privacy of our Frogs and their personal information is of great importance to Treefrog. Everyone has a right to a reasonable expectation of his or her privacy.
 
 #### General Personal Privacy
 
@@ -70,5 +70,4 @@ Anything with a client's name on it that has been put into the recycling bin bec
 4. scribbles with client names on them
 5. architectures, thoughts, ideas
 
-If in question at ALL, shred it. 
-
+If in question at ALL, shred it.

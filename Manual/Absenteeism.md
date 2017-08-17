@@ -62,4 +62,3 @@ Frogs with excessive absences will receive a letter that is issued by your [Pod 
 If absences continue, a further meeting will be held to identify the reasons for the ongoing absences. Each case will be reviewed individually, and appropriate steps will be taken in accordance to the severity of the issue.
 
 Majority of the work done at Treefrog is interdependent on co-workers. Therefore, it is extremely important that each Frog is punctual and consistent with his or her schedule. Habitually arriving late for work is not acceptable and is subject to disciplinary action.
-

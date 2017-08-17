@@ -16,4 +16,3 @@ Bounties are only paid out if you do these on your own time or if your role at T
 ### Special Projects
 
 You can work on additional projects after hours under certain circumstances.
-

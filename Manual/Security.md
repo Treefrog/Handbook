@@ -11,4 +11,3 @@ In the event that you are working alone, you must ensure you have communicated a
 Under no circumstances are you to have a client meeting alone in the office after hours. If a client meeting is required after hours, it must be scheduled in a public setting.
 
 It is not acceptable to bring friends or other personal guests into the office location off hours. This is a breach of company privacy and would require approval from the CEO.
-

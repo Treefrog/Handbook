@@ -46,7 +46,7 @@ Request for other religious holidays may be made in writing and submitted to the
 
 We have all seen the transformation of the Christmas party to the Holiday party, the Christmas tree to the “Holiday Tree", and then the slow decline to ignoring Christmas altogether. We have been programmed to be politically correct and wish our colleagues Happy Holidays rather than Merry Christmas or not recognize it at all.
 
-Sadly, with all this political correctness, some of us have missed the real lessons and some of us have grown resentful. The real lesson is recognizing and appreciating we are not all culturally and religiously the same. In turn, we need to recognize that some of us do not celebrate Christmas while some of us do. Be cautious. Do not blindly wish everyone a Merry Christmas. Be open to learning about your colleagues' religious and cultural backgrounds and celebrate and honour those differences.  This includes, continuing to honour Christmas.
+Sadly, with all this political correctness, some of us have missed the real lessons and some of us have grown resentful. The real lesson is recognizing and appreciating we are not all culturally and religiously the same. In turn, we need to recognize that some of us do not celebrate Christmas while some of us do. Be cautious. Do not blindly wish everyone a Merry Christmas. Be open to learning about your colleagues' religious and cultural backgrounds and celebrate and honour those differences. This includes, continuing to honour Christmas.
 
 So before you grow resentful or damn the torpedoes and put up decorations "anyway", ask yourself:
 
@@ -64,8 +64,8 @@ Celebrating all differences, including the difference of the majority, is import
 
 As it is also a fundamental human right to be private about our religious beliefs, we cannot celebrate everyone's religious holidays in order to be universally tolerant. Additionally, this would create chronic religious celebration, and we need to keep the main focus the main focus - Our work. Therefore, **we shall not formally celebrate any one religious holiday** over another.
 
-We shall instead celebrate being a Frog regularly and in every way we can. 
-Celebrations we will and will not participant in are as follows: 
+We shall instead celebrate being a Frog regularly and in every way we can.
+Celebrations we will and will not participant in are as follows:
 
 1. Treefrog will not pay for Religious Celebrations. We will not have any Company Religious Celebrations.
 2. You are welcome to celebrate your own religious celebrations in your own space providing you acknolwedge and communicate with others about their religious celebrations to ensure no one is offended.
@@ -76,9 +76,3 @@ Celebrations we will and will not participant in are as follows:
 #### When will I be eligible to receive holiday pay?
 
 Frogs will receive payment for PUBLIC Holidays by calculating all of the "regular wages the Frog earned" and all of the "vacation pay that was payable" to the Frog in the four weeks ending just before the work week that includes the holiday. This total amount is divided by 20 to determine the amount of holiday pay the Frog will receive. (ROUGHLY EQUALS ONE DAYS' PAY)
-
-
-
-
-
-

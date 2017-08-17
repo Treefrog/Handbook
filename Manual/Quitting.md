@@ -3,12 +3,12 @@
 > If you leave Treefrog high and dry, you suck.
 
 Treefrog doesn't fire people, if at all possible.
-	
+
 *Anyone at Treefrog has the right to leave at any time (**voluntary leaving**), and we have the right to ask people to leave at any time (**involuntary leaving**) - but the Treefrog philosophy is that Treefrog goes **far above and beyond to try and make things work with members of our team** if they are not performing well or are unhappy. In return we humbly request that people don’t suddenly quit and leave us high and dry - but rather they work with the rest of us to figure out how to be happy or in a worse case scenario, transition out amicably while both you and the company remain intact.*
 
 Loyalty goes both ways, we should protect one another past the point of comfort.
 
-In other word, Treefrog doesn't fire people unless there is absolutely no way we can make it work (**dysfunctional leaving**), a very rare occurence, although if we can’t figure out a mutually satisfying direction, we can mutually agree that its best that we go different ways (**functional leaving**). Most people “quit" because they are “in the dip” and can’t see a way out - and usually, once a few conversations are had, we can find a new place for them at Treefrog (or their skills just get naturally strengthened over time) and they are now astonishingly happy here and valuable members of our team a few months later. “Quitting” doesn’t help anyone, any more than “firing people when things look a little bad” does. 
+In other word, Treefrog doesn't fire people unless there is absolutely no way we can make it work (**dysfunctional leaving**), a very rare occurence, although if we can’t figure out a mutually satisfying direction, we can mutually agree that its best that we go different ways (**functional leaving**). Most people “quit" because they are “in the dip” and can’t see a way out - and usually, once a few conversations are had, we can find a new place for them at Treefrog (or their skills just get naturally strengthened over time) and they are now astonishingly happy here and valuable members of our team a few months later. “Quitting” doesn’t help anyone, any more than “firing people when things look a little bad” does.
 
 There is an expectation that we'll have each other's back.
 
@@ -16,21 +16,21 @@ Plus, at Treefrog we treat each other much more like family than other companies
 
 ### Standard Process
 
-Unfortunately, every situation for someone leaving is completely different. Although it has been suggested that we should have a “standard process” for people who leave - pretty much everyone who leaves leaves on different terms and for different reasons. 
+Unfortunately, every situation for someone leaving is completely different. Although it has been suggested that we should have a “standard process” for people who leave - pretty much everyone who leaves leaves on different terms and for different reasons.
 
 ## Quitting vs. Transitioning
 
-*There are remarkably different ways to leave.* 
+*There are remarkably different ways to leave.*
 
 ### Quitting
 
 If you disappear with very little notice (aka "**quit**"), you don’t give Treefrog a chance...
 
-- to re-strategize around your disappearing, 
-- to find a replacement in time without hurting others or clients (or adjust the pod structure or sales goals accordingly), 
-- and to help you to ensure we can’t do something better or different to support you. 
+- to re-strategize around your disappearing,
+- to find a replacement in time without hurting others or clients (or adjust the pod structure or sales goals accordingly),
+- and to help you to ensure we can’t do something better or different to support you.
 
-If you quit without notice, you are hurting the people you leave behind. You hurt the clients we were working on, you hurt our relationships and you lower everyone else’s salary. All of these results are counter-intuitive to Treefrog core philosophies - by quitting, you are breaking with the mutual agreement of "more mutual loyalty than at other companies". 
+If you quit without notice, you are hurting the people you leave behind. You hurt the clients we were working on, you hurt our relationships and you lower everyone else’s salary. All of these results are counter-intuitive to Treefrog core philosophies - by quitting, you are breaking with the mutual agreement of "more mutual loyalty than at other companies".
 
 #### How do I know I’m quitting?
 
@@ -66,7 +66,7 @@ In many cases, we get requests to "pretend lay off" as opposed to "accept quitti
 2. We have to replace you. All possible grants/benefits that the government might have given us to help the transition hole you left are now impossible to get.
 3. If we are trying to do something (like get people into the coutry), this negatively affects the perception of Treefrog to government arms.
 
-YES, we lay people off due to lack of work, in absolute and complete desperate circumstances. It's an unfortunate part of life, but it means the company survives to possibly hire you back in the future. 
+YES, we lay people off due to lack of work, in absolute and complete desperate circumstances. It's an unfortunate part of life, but it means the company survives to possibly hire you back in the future.
 
 NO, if you quit or transition, we will not pretend you didn't.
 
@@ -88,13 +88,13 @@ NO, if you quit or transition, we will not pretend you didn't.
 
 ### “Last to Know”
 
-Most people have a sense that they are “the last to know”, and feel like they have been slighted because there isn’t a giant fanfare about people leaving (as if we always know months ahead that people are leaving, which we do not) - giving them the ability to hug it out and mourn their family loss accordingly. But the rule of thumb is this: if people have announced they are quitting, this leaves a dark cloud following said person around the last few weeks they are around, lowers everyone’s productivity, and makes everyone miserable. It adds complexity and rumours and self-doubt. It costs everyone major hassle and slows their future success. 
+Most people have a sense that they are “the last to know”, and feel like they have been slighted because there isn’t a giant fanfare about people leaving (as if we always know months ahead that people are leaving, which we do not) - giving them the ability to hug it out and mourn their family loss accordingly. But the rule of thumb is this: if people have announced they are quitting, this leaves a dark cloud following said person around the last few weeks they are around, lowers everyone’s productivity, and makes everyone miserable. It adds complexity and rumours and self-doubt. It costs everyone major hassle and slows their future success.
 
 Additionally, every time someone walks around the office and hugs everyone on their way out, it causes completely unnecessary emotional chaos, puts everyone is shock and makes everyone feel like suddenly Treefrog is a horrible place to be (which, for record, it is not). The person always has to have an “excuse”, which is unnecessary and often contrived.
 
 People leave. It sucks. We hate it. But we are not going to mourn or celebrate it. We will keep going.
 
-The rule of thumb: 
+The rule of thumb:
 
 - If someone is transitioning, we’ll announce it publicly well ahead of time, and give people lots of chance to talk it out and come to terms with it. There is a fair assumption that this isn’t a dysfunctional disappearance, and it’s just a life change. Though unfortunate, it is respectful and dignified.
 
@@ -128,19 +128,17 @@ In many cases, people would like to remain friends with people who leave, which 
 
 Ergo, effective immediately, we will be instituting a new policy at Treefrog: the goodbye dinner. It works like this;
 
-1) People who leave will be asked if they want a goodbye party. They may or may not want this. 
+1) People who leave will be asked if they want a goodbye party. They may or may not want this.
 2) This will be booked for approximately ONE WEEK after their last paid day, on an evening, organized by them.
 3) Frogs will be let known of this date, anyone who can make it, can come out.
 3) Treefrog takes no responsibility for the costs or anything whatsoever of the party.
- 
+
 ### The 6-Month Mourning Period
 
 If you left on bad terms, please don't come back. It's just weird.
 
-Coming back into the office within a few days of leaving is tacky, and makes everyone uncomfortable. After you have left - don't come back to the office again. If you need to get stuff you have forgotten, arrange to come in with a senior Frog to collect your stuff at the end of the day, so you don't cause a bunch of emotion 
+Coming back into the office within a few days of leaving is tacky, and makes everyone uncomfortable. After you have left - don't come back to the office again. If you need to get stuff you have forgotten, arrange to come in with a senior Frog to collect your stuff at the end of the day, so you don't cause a bunch of emotion
 
 If you transitioned, after 6 months, it's fine to come back and visit. We'd love to see you!
 
 If you quit, give it a decade or two.
- 
- 

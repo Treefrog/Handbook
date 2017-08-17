@@ -20,7 +20,7 @@ One place where this breaks down is in items you use for commuting or dual-purpo
 
 There are a number of reasons why we, as a team, do not want your personal belongings at work:
 
-1. Personal items are not insured on the premises unless explicitly listed in our insurance list and originally paid for by Treefrog. Personal items could be stolen, or "borrowed", or damaged by others and are considered to be outside of our bubble of liability. 
+1. Personal items are not insured on the premises unless explicitly listed in our insurance list and originally paid for by Treefrog. Personal items could be stolen, or "borrowed", or damaged by others and are considered to be outside of our bubble of liability.
 2. If you suddenly get sick or called away and we have to move your belongings while you are gone, we do not know what is yours and what belongs to the company.
 
 ### Examples
@@ -28,7 +28,3 @@ There are a number of reasons why we, as a team, do not want your personal belon
 1. We have had several examples of people "borrowing", from each other's desks, items that go missing for weeks (e.g. charging cables).
 2. We regularly have external events, kids, friends, etc. roaming around the place. We do not want to worry about your special Luck Troll.
 3. A company we used to work with made their employees bring in their own toilet paper to keep costs down. This is a broken idea.
-
-
-
-

@@ -16,12 +16,10 @@ If a situation occurs where a Frog believes that a condition of employment or a 
 
 **Step 3**: If after step 2 the Frog is unsatisfied with the decision, the Frog may go approach another pod leader who also has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
 
-**Step 4**: If after step 3 the Frog is unsatisfied with the decision, the Frog may go approach the CEO.  The CEO has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
+**Step 4**: If after step 3 the Frog is unsatisfied with the decision, the Frog may go approach the CEO. The CEO has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
 
-**Step 5**: If after step 4 the Frog is unsatisfied with the decision, the Frog may go approach a 3rd party, such as the HR Consultant (HR Performance & Results).  The consultant has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
+**Step 5**: If after step 4 the Frog is unsatisfied with the decision, the Frog may go approach a 3rd party, such as the HR Consultant (HR Performance & Results). The consultant has 5 days to respond to the problem presented by the Frog. The response must be in writing since the problem needs to be documented and must indicate his or her decision and the reason for the decision.
 
 The Frog may discontinue the procedure at any step along the way.
 
 Not every problem can be resolved to everyone’s total satisfaction. It is only through understanding and discussion of mutual problems for everyone that we develop confidence and trust in each other. This confidence and trust is important to the operation’s efficient and harmonious work environment.
-
-

@@ -39,5 +39,4 @@ You can clarify the trademark in one of the following ways:
 
 #### SEO Implications
 
-"Treefrog" does not equal "Treefrog®" - it is a different word. Our site should carry the footnote, and NOT the trademark symbol. 
-
+"Treefrog" does not equal "Treefrog®" - it is a different word. Our site should carry the footnote, and NOT the trademark symbol.

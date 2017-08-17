@@ -96,5 +96,3 @@ Some other relevant information about hours worked;
 - We support the flexibility of going and getting your license renewed or your teeth cleaned during the day so that you do not have to on your weekend - that is stupid. If you do not catch up on the time in a meaningful way, however, you are hurting the person sitting next to you by not carrying your weight.
 
 - If FrogWeb shows you below 40 hours of work in a trailing quarter, there are red flags. You will not even be considered for a raise for the hour of time required to dig into your time expenditure and overall contribution to the team. Other people get the conversation first. Your fewer hours of negative value as equivalent to an unrealized cash bonus you have self-assigned.
-
-

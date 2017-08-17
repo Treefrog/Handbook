@@ -1,6 +1,6 @@
 # Mileage
 
-> Mileage is not a way for you to pad your salary. 
+> Mileage is not a way for you to pad your salary.
 
 *Mileage is a way for us to make sure you are adequately compensated for wear and tear on your vehicle where an alternative transportation method cannot be provided for you.*
 
@@ -13,9 +13,9 @@ The following guidelines are to be followed to claim mileage and other company r
 1. You must request access to a vehicle first. We will try to have one for you to borrow that matches our brand and philosophies.
 2. Mileage must be calculated from the work site as the starting point.
 
-If travelling **less than 85 km round trip**, please try to use the electric car (for obvious environmental reasons), and if it’s not available, then request a rental car to be booked through  Client Care.  If you chose to use your own vehicle, Treefrog will pay a maximum of the cost of a rental car (roughly $45, subject to change), or $.52/km, whichever is **lower**.
+If travelling **less than 85 km round trip**, please try to use the electric car (for obvious environmental reasons), and if it’s not available, then request a rental car to be booked through  Client Care. If you chose to use your own vehicle, Treefrog will pay a maximum of the cost of a rental car (roughly $45, subject to change), or $.52/km, whichever is **lower**.
 
-If travelling more than 85 km round trip, please try to use the electric car, and if it’s not available, then request a rental car to be booked ([Client Care] (aka reception), handles this).  If you chose to use your own vehicle, Treefrog will pay a maximum of $45, since that would be the cost of a rental.
+If travelling more than 85 km round trip, please try to use the electric car, and if it’s not available, then request a rental car to be booked ([Client Care] (aka reception), handles this). If you chose to use your own vehicle, Treefrog will pay a maximum of $45, since that would be the cost of a rental.
 
 Frogs may use their personal vehicle for business purposes if it is less expensive than renting a car, taking a taxi, or using alternate transportation, and **your car represents Treefrog's brand accordingly**. Otherwise, you are taking advantage of Treefrog for your own gain or representing our team incorrectly. *Use your common sense judgement when interpreting this: as in, the amount you are billing for mileage shouldn't exceed what you are paying for your car.*
 

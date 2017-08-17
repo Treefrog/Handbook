@@ -6,17 +6,17 @@
 
 These policies and procedures are designed to act as a guideline for all Treefrog expenses. While this handbook does contain suggested expense limits, all Frogs should use professional judgment when incurring expenses on behalf of the Company. Treefrog recognizes that, in some isolated cases, business related expenses might need to be reviewed on a case-by-case basis; however, this primarily applies if the expense in question was not discussed in this policy.
 
-This policy is designed to accomplish the following key points: 
+This policy is designed to accomplish the following key points:
 
 - Ensure all Frogs have a clear and consistent understanding of policies and procedures for business travel and expenses.
 - Ensure Frogs are reimbursed for legitimate business travel and entertainment expenses.
 
-Once a month, if you have appropriate expenses, you should submit an expense report to the Controller for reimbursement from Treefrog. 
+Once a month, if you have appropriate expenses, you should submit an expense report to the Controller for reimbursement from Treefrog.
 
 When submitting expenses:
 
 1. Expense reports must be completed, approved by your Pod Leader and forwarded to the Controller.
-2. Original receipts must be submitted as attachments to the expense report.  If an itemized receipt is missing, the Frog should contact the vendor to obtain one. This is your job, not the Controller's.
+2. Original receipts must be submitted as attachments to the expense report. If an itemized receipt is missing, the Frog should contact the vendor to obtain one. This is your job, not the Controller's.
 3. Expense reports must be filled out for anything charged to a company credit card.
 4. Expenses are paid within 30 days of submission of an approved expense report, within reason.
 5. Expenses must be claimed within 30 days. If expenses are not claimed within 30 days, no matter how small, they require CEO sign-off.

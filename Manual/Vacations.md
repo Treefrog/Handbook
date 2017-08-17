@@ -20,7 +20,7 @@ You should take vacation days during the calendar year in which it is earned. Ho
 
 1. Permission to carry over any unused vacation time must be requested prior to the start of a new calendar year.
 2. Should a Frog carry over vacation time from one year to the next, at the time permission is requested to carry such time over, the Frog must provide Treefrog with a timeframe as to when said vacation time shall be used.
-3. Anything in excess of 10 days that has been carried over and not used by the pre-determined timeframe will be lost and not compensated. Upon termination of employment, an employee shall receive vacation pay for any accrued but unused vacation. If the employee terminates from the company with a negative vacation balance, their final pay cheque will be reduced by those hours/days taken in advance.   As per the Ontario Employment Standards Act, 2000, an employee shall not receive less than 4% of gross wages in vacation pay for any unused vacation.  
+3. Anything in excess of 10 days that has been carried over and not used by the pre-determined timeframe will be lost and not compensated. Upon termination of employment, an employee shall receive vacation pay for any accrued but unused vacation. If the employee terminates from the company with a negative vacation balance, their final pay cheque will be reduced by those hours/days taken in advance. As per the Ontario Employment Standards Act, 2000, an employee shall not receive less than 4% of gross wages in vacation pay for any unused vacation.
 
 You are responsible to schedule your own vacations. If you feel pressured by Treefrog in any way to *not* take your vacation, please send it in writing directly to the CEO, who will help you manage it accordingly. Everybody needs a break.
 

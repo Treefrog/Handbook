@@ -23,7 +23,7 @@ access to email from Monday, June 22nd until Thursday, July 2nd, 2016.
 If your matter is urgent, please call the office during regular business
 hours and speak with Andrea Gust, extension 113, or email, andrea@treefrog.ca.
 
-If you are an existing client requiring website or network support, 
+If you are an existing client requiring website or network support,
 please email support@treefrog.ca
 
 Otherwise, I very much look forward to speaking with you upon my return!
@@ -37,5 +37,3 @@ Me
 ### Dissappearance
 
 See, we actually care about you. So if someone notices that you haven't been around for 24 hours - we reserve the right to come looking for you.
-
-

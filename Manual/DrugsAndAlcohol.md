@@ -2,11 +2,11 @@
 
 > Feel free to drink. Do not drink and work. Do not drink and drive.
 
-Treefrog is concerned with the safety of its Frogs under the influence of drugs, recreational drugs or alcohol while on the job because being under the influence poses serious safety and health risks to themselves and others. In addition to affecting job performance, it could also affect Treefrog's excellent and professional reputation. 
+Treefrog is concerned with the safety of its Frogs under the influence of drugs, recreational drugs or alcohol while on the job because being under the influence poses serious safety and health risks to themselves and others. In addition to affecting job performance, it could also affect Treefrog's excellent and professional reputation.
 
-It is Treefrog’s desire to provide a drug-free, healthy and safe workplace. To promote this goal, frogs are required to report to work in appropriate mental and physical condition to perform their jobs in a satisfactory manner.  Using, possessing, buying, selling, or having illegal drugs, recreational drugs or alcohol in one's system, during working time, on Treefrog premises, or while operating Treefrog vehicles is absolutely forbidden and will result in termination with cause or other discipline as Treefrog deems appropriate.
+It is Treefrog’s desire to provide a drug-free, healthy and safe workplace. To promote this goal, frogs are required to report to work in appropriate mental and physical condition to perform their jobs in a satisfactory manner. Using, possessing, buying, selling, or having illegal drugs, recreational drugs or alcohol in one's system, during working time, on Treefrog premises, or while operating Treefrog vehicles is absolutely forbidden and will result in termination with cause or other discipline as Treefrog deems appropriate.
 
-Treefrog reserves the right to require any employee using perscription drugs to provide medical certification that the use of the drug will not impair the ability of the frog to perform his or her job properly and safely.  
+Treefrog reserves the right to require any employee using perscription drugs to provide medical certification that the use of the drug will not impair the ability of the frog to perform his or her job properly and safely.
 
 ### Drinking and Driving
 
@@ -33,4 +33,3 @@ Make sure they are always served by someone with a [**Smart Serve**](http://www.
 ### [**Smart Serve**](http://www.smartserve.ca) Certification
 
 Ideally, everyone should get trained in [**Smart Serve**](http://www.smartserve.ca).
-

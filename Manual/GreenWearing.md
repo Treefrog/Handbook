@@ -21,4 +21,3 @@ Every dollar is at the CEO's discretion.
 ### Green Bucks
 
 Green Bucks are dollars with a green sticker on them. As this sticker is easily removable, it does not damage the currency (that would be defacing them, which is illegal). As the Royal Canadian Mint regularly now uses Loonies for their own advertising purposes, this seems natural.
-

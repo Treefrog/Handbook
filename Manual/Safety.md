@@ -36,9 +36,8 @@ Treefrog is a place of safety for everyone. We are not going to try and negotiat
 
 If anyone feels unsafe at any time for any reason at Treefrog or outside of Treefrog, please communicate with the CEO, and we will make arrangements to ensure your safety. We will work together to create a safety plan for you, and if necessary, we will assist you in getting help through agencies who are better equipped to support you. We have each other's backs. This is the Frog way.
 
-In addition, during a period where a specific Frog feels unsafe, we will take additional measures to ensure his or her safety. 
+In addition, during a period where a specific Frog feels unsafe, we will take additional measures to ensure his or her safety.
 
 ### Ergonomics
 
 We take your long-term health seriously, and will provide you anything that might keep you working into your silver-haired years. Talk to your Pod Leader if you think there is an assistive device that could help you.
-

@@ -58,5 +58,3 @@ In the event that weather conditions are severe and you are unable to safely mak
 When inclement weather occurs, stay safe. There is too much paperwork if you die in a horrible snow-ball-related winter death. However, realize that Treefrog wants you to [live-close](manual/live-close.md) to the office so that this is not an issue.
 
 Technically, Frogs should be able to survive the winter without problems. There are five known species of freeze-tolerant frogs in North America, including the well-studied wood frog, the Cope’s gray tree frog, the eastern gray tree frog, spring peepers frog, and the western chorus frog. In the fall, these frogs bury themselves under the leaves on the forest floor, not deeply enough, however, to escape the icy fingers of Jack Frost.
-
-

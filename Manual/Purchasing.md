@@ -10,7 +10,7 @@ We purchase the best quality products in the marketplace before the cost curve i
 - We can expect the product to last longer if it is of better quality, and this will ensure that we get a longer return on our investment
 - There are less setup and admin costs when replacing the product
 - There are less training costs when replacing the product
-- If the product lasts longer, we return less to the garbage. Therefore, we are more environmentally friendly 
+- If the product lasts longer, we return less to the garbage. Therefore, we are more environmentally friendly
 - We get more joy during the product's use by creating more functionality or additional competitive advantage
 - We are the best, and so, we want to be represented by the best
 - We sustain a competitive advantage by staying out in front
@@ -77,10 +77,5 @@ Cash is King in our business, and we are always tight and trying to grow. Theref
 Leases, though expensive, keep cash in our bank account and allow us to grow. Leases help our credit rating, help add value to our bottom line, and keep the company moving.
 
 1. **Always Lease to Buy for $1** - This way, we can sell the product or keep it longer than expected.
-2. **Bundle Leases for Common Business Units** - Small leases get lost in adminstration, and we end up paying the lease by mistake years later. Fewer leases mean less administrative mistakes. 
+2. **Bundle Leases for Common Business Units** - Small leases get lost in adminstration, and we end up paying the lease by mistake years later. Fewer leases mean less administrative mistakes.
 3. **Check all Lease Options before Leasing** - Leasing people have no soul. Make sure you check the numbers with multiple lease people before signing anything.
-
-
-
-
-

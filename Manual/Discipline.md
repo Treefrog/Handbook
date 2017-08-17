@@ -20,4 +20,3 @@ The following outlines our progressive discipline procedures:
 4. **4th occurrence: Termination of Employment**
 
 These are guidelines, and some instances may demand the elimination of one or more steps.
-
