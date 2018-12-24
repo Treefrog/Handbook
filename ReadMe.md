@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Treefrog Handbook in 2019!
+Welcome to the Treefrog Handbook!
 
 This handbook is designed to replace the classic (and legally required) "employee manual" provided by most companies. However, as per the Treefrog way, this handbook is designed to be **an oblique solution to a necessary problem**: getting everyone on the same page and rowing in the same direction, without the Damoclean Sword of draconian bureaucracy preventing our overall and individual creativity and thus ultimate radical success.
 
