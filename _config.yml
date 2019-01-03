@@ -1,0 +1,9 @@
+remote_theme: pmarsceill/just-the-docs
+title: Handbook
+lang: en-CA
+
+readme_index:
+  remove_originals: true
+
+optional_front_matter:
+  remove_originals: true
