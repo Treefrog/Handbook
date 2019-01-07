@@ -1,4 +1,4 @@
-### Pet Emergencies
+# Pet Emergencies
 
 > We love dogs and cats, too. But your pet is your cost.
 

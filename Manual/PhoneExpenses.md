@@ -1,6 +1,6 @@
 # Phone Expenses
 
-> Treefrog pays it's phone share.
+> Treefrog pays its phone share.
 
 *If you MUST have a phone for work, or you incur visible expenses you otherwise wouldn't due to Treefrog's involvement, we'll pay Treefrog's share.*
 

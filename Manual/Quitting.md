@@ -84,8 +84,6 @@ NO, if you quit or transition, we will not pretend you didn't.
 
 4) **Quit** - X left with effectively zero notice (asked to be walked to the door, even though this would have been a disaster for many of our clients), talked to clients before they left about their leaving (damaging tens of thousands of dollars of work for us, albeit innocently), talked to Frogs about it (sowing seeds of discontent and doubt for others, and creating emotional chaos and lowering productivity for everyone - going on walks and meeting for hours about the decision), left on a week when their team was mostly on holiday (thus ruining their team member’s holidays) etc., etc. It had a direct cost to us of thousands of dollars, indirect costs of tens of thousands of dollars, and cost everyone here at the company anguish (some more than others) and ultimately, salary (we eat what we kill).
 
-
-
 ### “Last to Know”
 
 Most people have a sense that they are “the last to know”, and feel like they have been slighted because there isn’t a giant fanfare about people leaving (as if we always know months ahead that people are leaving, which we do not) - giving them the ability to hug it out and mourn their family loss accordingly. But the rule of thumb is this: if people have announced they are quitting, this leaves a dark cloud following said person around the last few weeks they are around, lowers everyone’s productivity, and makes everyone miserable. It adds complexity and rumours and self-doubt. It costs everyone major hassle and slows their future success.

@@ -24,7 +24,6 @@ We will ensure that people with Assistive Devices have access to our building.
 
 We will communicate with people with disabilities, to the best of our ability, in ways that take into account their disability and offer communication methods that are suitable to their communication needs (i.e. e-mail, telephone, or in-person, etc.).
 
-
 ### Service Animals
 
 We welcome people with disabilities and their service animals. (Service animals are allowed on parts of the premises that are open to the public).

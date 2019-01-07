@@ -38,5 +38,3 @@ You may believe that X needs to change *right now*, but consider: what are the i
 What if you stayed in your job exactly the way it is a little longer? Would the problems start to rectify themselves?
 
 Does bringing up the same issue repeatedly add value to what you are doing, or are you merely reacting to a specific problem and forcing a change? Is this truly a trend, or is this an exception?
-
-

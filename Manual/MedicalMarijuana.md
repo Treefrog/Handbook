@@ -4,7 +4,6 @@
 
 *We will work with any frog who requests accommodation for the use of medical marijuana as prescribed by their doctor.*
 
-
 Treefrog will work with any frog who requests accommodation to use medical marijuana in an effort to ensure that any accommodation measures are effective, consistent with the frog’s medical needs, and operationally feasible, having regard for safety and cost. Medical marijuana will be treated the same as all other prescription medication. We haves the same expectations from frogs who use medical marijuana as who use all other types of medication and will accommodate individuals up to the point of undue hardship and having regard to the safety of all other frogs.
 
 Employees may only use medical marijuana with a license in their name from a duly qualified physician. If frog is required to use medical marijuana while at work, he/she must inform the CEO. A frog is not required to disclose the specific medical diagnosis or condition for which the medical marijuana is required. However, they are required to provide a note from his/her physician which includes the following information:

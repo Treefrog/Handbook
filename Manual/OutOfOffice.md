@@ -30,8 +30,6 @@ Otherwise, I very much look forward to speaking with you upon my return!
 
 Sincerely
 Me
-
-
 ```
 
 ### Dissappearance

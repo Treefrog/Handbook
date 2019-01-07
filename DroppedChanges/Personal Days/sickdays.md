@@ -4,14 +4,14 @@
 
 A sick day is just a Personal Day kept in reserve for emergencies, requiring a Doctor's Note.
 
-As per the [Personal Day]() accrual, sick days are accrued through months of service, up to a maximum of 3 emergency reserved sick days. 
+As per the [Personal Day]() accrual, sick days are accrued through months of service, up to a maximum of 3 emergency reserved sick days.
 
 | Years at Treefrog    | Accumulated Days | Time to Accumulate 3 Sick Days |
 |----------------------|:----------------:|:------------------------------:|
 | First Year           | .5               | 6 Months                       |
 | 2-1000 Years         | 1                | 3 Months                       |
 
-Frogs will not be paid for time-off due to sickness in their first 3 months. However, if you get sick in your first 3 months, you can take a day off with a Doctor's Note - you just don't get paid for it. 
+Frogs will not be paid for time-off due to sickness in their first 3 months. However, if you get sick in your first 3 months, you can take a day off with a Doctor's Note - you just don't get paid for it.
 
 Once Sick Days (and eventually Personal Days) have been accrued, should a person take the day off sick, a accrued day is removed from their accrued amount of days - starting with whatever Personal Days are available.
 
@@ -44,13 +44,13 @@ Different types of sicknesses have different policies:
 
 ##### Really Sick
 
-- If you are bed-ridden, ride the bed. Do not force yourself to work. The world will continue, and we will survive. 
+- If you are bed-ridden, ride the bed. Do not force yourself to work. The world will continue, and we will survive.
 - Get better and we will talk about it when you get back to work if you are over you sick-day allotment. If possible, let your Pod Leader know what to expect ASAP so they can work around you.
 
 ##### Kinda Sick Coldie Fluie
 
-- If you have a communicable illness, if there is any chance you can pass it on, please do not come to work. But, if you can work at 75% capacity or above, we still need you to work so work from home. 
-- We have arranged for practically everyone to be capable of doing work at home. If you do not have a mechanism to work effectively from home, please let me know and we will solve it for you. Working from home means at least 75% productive, a definition you choose for yourself. When you are working from home, communicate regularly and effectively to the team. Otherwise, your work may be in vain. 
+- If you have a communicable illness, if there is any chance you can pass it on, please do not come to work. But, if you can work at 75% capacity or above, we still need you to work so work from home.
+- We have arranged for practically everyone to be capable of doing work at home. If you do not have a mechanism to work effectively from home, please let me know and we will solve it for you. Working from home means at least 75% productive, a definition you choose for yourself. When you are working from home, communicate regularly and effectively to the team. Otherwise, your work may be in vain.
 - If you are getting sick, rest. If you are in the final stages of getting better, work.
 
 ##### Broken/Busted
@@ -79,12 +79,8 @@ For the most part, we do not want to become a crazy hell-hole of bureaucratic pa
 
 Even easier, if you want to work a half-day because you are looking after a loved one, then just make it up at another time. It is not worth the administrative hours to fuss with, and we have a great system, Frogweb, to lean on.
 
-
 ### “Frog Blog Day”
 
 If you are sick but are still able to work from home, you may request a “Frog blog day” and blog from home. You must track your time on “Frog web” if you are blogging.
 
-
 Be sensitive to the fact that you have a brain-related job and sickness prevents you from doing your job properly. Do not, for example, lick the walls, or kiss random sick people. Tina needs to be emailed or copied directly if you are sick. She is responsible for updating sick time in the holiday system and Frogweb. Tina needs to know if you take a full sick day or partial so she can update your hours accurately in Frogweb. If you are absent for 3 consecutive sick days, you are technically required to provide a doctor’s note. Also, we may want to have a discussion about EI if you are going to be sick for a while. We pay into it so we should take advantage of it. Part time Frogs are not eligible for sick benefits.
-
-

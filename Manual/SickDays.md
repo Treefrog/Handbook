@@ -12,7 +12,6 @@ Frogs cannot carry over unused sick leave days or trade them for vacation time.
 
 If you take a sick day, you need to log it at http://holidays.treefrog.ca or contact Tina so she can update it for you.
 
-
 ### Get Better, For Goodness' Sake
 
 Especially during winter, we need to ensure that we minimize the issues of chronic team collapse due to sickness usually around flus and colds. As we are a high-production, high-energy team in close quarters and regular contact, sickness can decimate our productivity. There are several critical things to consider:
@@ -64,7 +63,6 @@ No, we do not want an administrative nightmare of trying to count partial days. 
 For the most part, we do not want to become a crazy hell-hole of bureaucratic paperwork. But if you wish, we will split up days into half-sick-days if that would help. Ergo, you can work a half-sick day if you want, just let Tina know.
 
 Even easier, if you want to work a half-day because you are looking after a loved one, then just make it up at another time. It is not worth the administrative hours to fuss with, and we have a great system, Frogweb, to lean on.
-
 
 ### “Frog Blog Day”
 

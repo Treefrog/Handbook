@@ -10,7 +10,7 @@ A Personal Day is an accumulated day for you to use for anything. You can use it
 
 However, unlike a [**vacation**] () or a [**holiday**] () (to which you are entitled), during a Personal Day there is a soft expectation that you keep an eye on Treefrog (if at all reasonably possible), to make sure the company doesn't burn to the ground while you are not physically working.
 
-Personal Days *can* be used to extend holiday days... but you should always leave a buffer of a few Personal Days in reserve in case an emergency crops up. Don't treat future accruals with entitlement (i.e. have zero accumulated Personal Days and then book a vacation 6 months in advance expecting to use 6 Personal Days in your vacation). Anything could happen! These days are designed as an insurance policy for month-tomonth real life issues and to help you balance your life - not as a replacement for vacation days. You have [time set aside]() for that. 
+Personal Days *can* be used to extend holiday days... but you should always leave a buffer of a few Personal Days in reserve in case an emergency crops up. Don't treat future accruals with entitlement (i.e. have zero accumulated Personal Days and then book a vacation 6 months in advance expecting to use 6 Personal Days in your vacation). Anything could happen! These days are designed as an insurance policy for month-tomonth real life issues and to help you balance your life - not as a replacement for vacation days. You have [time set aside]() for that.
 
 ### How do I Accumulate Personal Days?
 
@@ -29,7 +29,7 @@ You can **only use these first 3 accumulated days for sickness**, not personal u
 
 ### How Many Personal Days Do I Get?
 
-Every additional year as a Frog, you have the potential to earn an additional maximum Personal Days, up to a maximum of 10 Personal Days. 
+Every additional year as a Frog, you have the potential to earn an additional maximum Personal Days, up to a maximum of 10 Personal Days.
 
 *Treefrog Days Off Per Year*
 
@@ -63,7 +63,7 @@ Three letters: ask.
 Tina will count 3 numbers on your Pay Stub:
 
 - Accumulated Sick Days (up to a maximum of 3, accumulated first)
-- Accumulated Personal Days (your total accumulated days, after 3) 
+- Accumulated Personal Days (your total accumulated days, after 3)
 - Potential Personal Days (anywhere between 3 and 10, depending on your tenure)
 
 **Example 1:** (A Frog who has been around for three years and has been sick at least one day)
@@ -85,7 +85,7 @@ Don't do this, please. If you work less than an hour, it's considered a full Per
 ### Do Personal Days Roll Over at the End of the Year?
 
 This question doesn't make any sense. Personal Days accumulate with months worked - ergo, the have nothing to do with calendar years at all.
- 
+
 ### What's the Difference Between a Sick Day and a Personal Day?
 
 You can't use your sick days for personal needs. You must have a Doctor's Note to use your sick days - these days are reserved for genuine sickness. They exist as an insurance policy - an "absence overdraft" into which you can dip when sick.
@@ -96,7 +96,7 @@ A Vacation Day is meant for you to get away and not think about Treefrog (as muc
 
 During your "Personal Days", it is expected that you maintain reaaonable contact with Treefrog (by Slack/email/phone) to ensure that you can continue to help keep the company rolling.
 
-We do not collect for or manage your salary relating to Personal Days. Ergo, if you quit, you are not paid out on these days, either. 
+We do not collect for or manage your salary relating to Personal Days. Ergo, if you quit, you are not paid out on these days, either.
 
 ### What Happens my First Year?
 
@@ -109,4 +109,3 @@ You should NOT take more than 5 consecutive days off if possible, to minimize th
 ### Buying out Your Personal Days
 
 It's a thought. Talk to the CEO.
-

@@ -17,8 +17,6 @@ Since our work is crucial for business, brand, and more, we believe that our wor
 2. We once had a Frog post something to his or her portfolio in which he or she had only been slightly involved. The Frog who did the majority of the work was extraordinarily insulted. His or her relationship with the first designer was permanently damaged. From thereon in, the two designers refused to work as a team.
 3. We once had a Frog use client code in an external project. When the client discovered this, Treefrog received a cease-and-desist. We claimed that it was not the client's code, had it taken down, and let the developer go for [moonlighting](conflictofinterest.md) with a COI.
 
-
-
 ### Sharing Work on Portfolios
 
 #### Rationale

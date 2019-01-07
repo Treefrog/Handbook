@@ -1,7 +1,5 @@
 # Performance
 
->
-
 Treefrog is committed to providing clear performance expectations and work standards for all Frogs in all jobs with the objective of maximizing performance, efficiency, and quality. Treefrog believes that performance appraisals are critical in enhancing performance and job satisfaction. The appraisal process is intended to be a two-way dialogue similar to the “State of the Union” open table discussions. Any new job tasks or duties to be assigned will be discussed and agreed upon with a timeframe established. Performance review discussion will take place annually.
 
 ### Performance Improvement

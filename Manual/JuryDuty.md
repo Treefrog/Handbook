@@ -1,4 +1,4 @@
-### Court or Jury Duty
+# Court or Jury Duty
 
 > Go do your duty. But we can't afford to pay for it.
 

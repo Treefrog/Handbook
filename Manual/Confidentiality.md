@@ -39,11 +39,9 @@ This includes, but is not limited to, using designs or code in external projects
 There are many reasons why:
 
 - As a Canadian business, we are legally obligated in keeping client's information confidential.
-- Many of the clients we work with are very particular about privacy. Some companies are like this because of their own privacy regulations (e.g. a Hospital) and some because of Intellectual Property (e.g. a start-up). If any information from us leaks
-
+- Many of the clients we work with are very particular about privacy. Some companies are like this because of their own privacy regulations (e.g. a Hospital) and some because of Intellectual Property (e.g. a start-up). If any information from us leaks,
 
 #### Examples
-
 
 ##### Privacy FAILS when the following occurs:
 - Throwing away client files in the "regular" garbage

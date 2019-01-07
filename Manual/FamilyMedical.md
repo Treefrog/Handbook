@@ -1,4 +1,4 @@
-### Family Medical Leave
+# Family Medical Leave
 
 > If someone in your immediate family is at risk of dying, you should go be with them.
 

@@ -41,7 +41,6 @@ All machines will have a software called “Undercover” installed. The softwar
 
 It is important to know that Treefrog has granted "Undercover" access to your laptop at any time, no matter where you are. In order to make sure this does not represent a violation of your privacy, only two people have access to this, the IT Person, currently Eric, and the CEO, currently Sean, who will only do so *for testing* with explicit warning and with your explicit permission.
 
-
 ### Software Lisencing
 
 We do not use software at Treefrog or put it on our laptops unless it has been paid for. Not only is it unethical and counterintuitive to Treefrog's values, but also, if we are caught doing this, it could hurt our team through litigation or problems.

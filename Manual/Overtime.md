@@ -47,5 +47,4 @@ Under these circumstances, expectations should be clear: you should only be work
 
 The whole discussion above is pretty stupid and for most people, at most times, is somewhat redundant. At the end of the day, all of this is: "I have a job" rhetoric, not, "glorious success and happiness for all involved on the team through the mutual sharing of energy when we have it" rhetoric. The fact is we all go through periods of energy and burnout. We all have weeks we need to take it easy and weeks we are passionately engaged to achieve more. We should be cognizant of these ebbs and flows of one another's energy as a team.
 
-
 ([ESA Overtime Guidelines](https://www.labour.gov.on.ca/english/es/pubs/guide/overtime.php) for more details)

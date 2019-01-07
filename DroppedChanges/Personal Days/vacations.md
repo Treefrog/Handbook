@@ -1,7 +1,7 @@
 # Vacations
 
 > Everyone gets 2 weeks of vacation, and should take it.
-> 
+>
 > Think about the Frogs before you book. Don't be selfish.
 
 *Treefrog will genuinely go above and beyond to accomodate your vacation so that you life will be balanced. However, you must also consider the impact of your vacation on the Frogs and overall productivity. Consideration for both you and Treefrog must be in balance!*
@@ -51,4 +51,3 @@ These no longer exist at Treefrog, they were replaced by [Personal Days] ().
 ### Champion Pod Members
 
 As [pod-champions](manual/pod-champions.md) are members of two pods (their own, and the Champion Pod), their time must be cognizant of the scheduling of both Pods. Ergo - Pod Champions set their own vacations, but are expected to make sure their own pod bases are covered in case of sickness/etc. and additionally be available for all Champion activities.
-
