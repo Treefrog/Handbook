@@ -1,6 +1,12 @@
 remote_theme: pmarsceill/just-the-docs
-title: Handbook
+title: Treefrog Handbook
 lang: en-CA
+
+exclude: ["Blank.md", "BestPractices", "DroppedChanges", "Goals"]
+
+aux_links:
+  "Handbook on GitHub":
+    - "//github.com/Treefrog/Handbook"
 
 readme_index:
   remove_originals: true
