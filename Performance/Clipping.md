@@ -1,4 +1,4 @@
-# This is Blank
+# Clipping
 
 > The Rule of Thumb
 

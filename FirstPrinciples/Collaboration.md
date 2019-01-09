@@ -1,4 +1,4 @@
-# This is Blank
+# Collaboration
 
 > NOT consensus, but collaboration
 

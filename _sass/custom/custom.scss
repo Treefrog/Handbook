@@ -1,3 +1,9 @@
+a {
+    color: $green-100;
+}
+::selection {
+    background: $green-000;
+}
 .navigation,
 .site-title,
 .site-footer {

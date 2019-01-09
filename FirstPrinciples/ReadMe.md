@@ -1,4 +1,4 @@
-# This is Blank
+# First Principles
 
 > The Rule of Thumb
 
