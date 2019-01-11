@@ -1,7 +1,11 @@
 <nav>
   <ul class="navigation-list">
     {% assign page_url_size = page.url | split:"/" | size %}
-    {% assign pages_list = site.html_pages | where_exp:"page","page.nav_exclude != true" | sort:"nav_order" %}
+    {% assign pages_grouped = site.html_pages | where_exp:"p","p.nav_exclude != true" | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
+    {% assign pages_list = "" | split:"" %}
+    {% for i in pages_grouped reversed %}
+      {% assign pages_list = i.items | sort_natural:"url" | concat: pages_list %}
+    {% endfor %}
     {% for node in pages_list %}
       {% if node.dir == "/" or node.dir == node.url %}
         {% assign node_dir_size = node.dir | split:"/" | size %}
@@ -14,7 +18,7 @@
                 {% assign first_level_title = node.title %}
               {% endif %}
               <ul class="navigation-list-child-list">
-                {% assign child_list = pages_list | where_exp:"item","item.dir contains node.dir" %}
+                {% assign child_list = pages_list | where_exp:"p","p.dir contains node.dir" %}
                 {% for child in child_list %}
                   {% unless child.url == node.url %}
                     {% if child.dir == child.url or child.dir == node.dir and child.dir != child.url %}
@@ -26,7 +30,7 @@
                         <a href="{{ child.url | absolute_url }}" class="navigation-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
                         {% if child.dir == child.url %}
                           <ul class="navigation-list-child-list">
-                            {% assign grand_child_list = child_list | where_exp:"item","item.dir == child.dir" %}
+                            {% assign grand_child_list = child_list | where_exp:"p","p.dir == child.dir" %}
                             {% for grand_child in grand_child_list %}
                               {% unless grand_child.url == child.url %}
                                 <li class="navigation-list-item{% if page.url == grand_child.url %} active{% endif %}">
