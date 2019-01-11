@@ -14,5 +14,7 @@ optional_front_matter:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Handbook on GitHub":
+  "Edit with Prose":
+    - "//prose.io/#Treefrog/Handbook"
+  "View on GitHub":
     - "//github.com/Treefrog/Handbook"
