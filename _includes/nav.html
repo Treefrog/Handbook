@@ -1,4 +1,4 @@
-<nav>
+<nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
     {% assign page_url_size = page.url | split:"/" | size %}
     {% assign pages_grouped = site.html_pages | where_exp:"p","p.nav_exclude != true" | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
