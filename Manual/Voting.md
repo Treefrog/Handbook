@@ -9,8 +9,8 @@ We do encourage all frogs to fulfill their civic obligations. Qualified electors
 ### Three Consecutive Hours
 The following are examples of what time off to vote looks like when voting hours (ie.polls open) are 8:30 a.m. to 8:30 p.m:
 
-•	The employee works from 8:00 a.m. to 4:00 p.m. – no time off required because the employee has 4.5 consecutive hours off of work to the time polls close at 8:30 p.m.
-•	The employee works from 9:00 a.m. to 5:00 p.m. – no time off required because the employee has three consecutive hours off of work to the time polls close at 8:30 p.m.
-•	The employee works from 7:00 a.m. to 7:00 p.m. – the employee may be permitted to arrive late or leave early to provide three consecutive hours off of work.
+- The employee works from 8:00 a.m. to 4:00 p.m. – no time off required because the employee has 4.5 consecutive hours off of work to the time polls close at 8:30 p.m.
+- The employee works from 9:00 a.m. to 5:00 p.m. – no time off required because the employee has three consecutive hours off of work to the time polls close at 8:30 p.m.
+- The employee works from 7:00 a.m. to 7:00 p.m. – the employee may be permitted to arrive late or leave early to provide three consecutive hours off of work.
 
 Treefrog has the right to decide what time off to provide to frogs in order to meet the required three consecutive hours (if required) and is under no obligation to make allowance for frogs' "travel time" to vote.

@@ -21,9 +21,9 @@ For harassment to occur under the Occupational Health & Safety Act, it does not 
 
 Discrimination is not defined in the Code but usually includes the following elements:
 
-•	not individually assessing the unique merits, capacities and circumstances of a person
-•	instead, making stereotypical assumptions based on a person’s presumed traits
-•	having the impact of excluding persons, denying benefits or imposing burdens.
+- not individually assessing the unique merits, capacities and circumstances of a person
+- instead, making stereotypical assumptions based on a person’s presumed traits
+- having the impact of excluding persons, denying benefits or imposing burdens.
 
 An employee who believes that he or she has been subject to any type of harassment should immediately contact his or her [Pod-Champion](manual/pod-champion.md) **and** the CEO directly.
 

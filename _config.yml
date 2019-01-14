@@ -12,6 +12,9 @@ optional_front_matter:
 
 ## Just the Docs config - https://pmarsceill.github.io/just-the-docs/docs/configuration/
 
+# Enable or disable the site search
+search_enabled: true
+
 # Aux links for the upper right navigation
 aux_links:
   "Edit with Prose":
