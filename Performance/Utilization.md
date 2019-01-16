@@ -2,7 +2,7 @@
 
 > Time is Money.
 
-![Copyright Gary Larson](images/FarSideEinstein.gif)
+![Copyright Gary Larson](/assets/images/FarSideEinstein.gif)
 
 There are always questions around “reasonable expectations” for any given **production** Frog's performance.
 

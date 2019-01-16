@@ -16,7 +16,7 @@ This exercise allows you to control your time and get more done by blocking off 
 
 Watch this video, it makes the point extremely well.
 
-[![Dr. Stephen Covey - Big Rocks](https://img.youtube.com/vi/ZHne8c5qg0g/0.jpg)](http://www.youtube.com/watch?v=ZHne8c5qg0g)
+[![Dr. Stephen Covey - Big Rocks](https://img.youtube.com/vi/t2sZ_W7TM5w/0.jpg)](https://www.youtube.com/watch?v=t2sZ_W7TM5w)
 
 Important activities are "Big Rocks", urgent activities are "Small Rocks".
 
@@ -30,11 +30,11 @@ This mechanism will help you better control the various people bugging you and g
 
 #### Setting up a Big Rocks Calendar
 
-Here is an example of a weekly default calendar:
+Here is an example of a default weekly calendar:
 
-![Big Rocks Calendar](images/BigRocks.png)
+![Big Rocks Calendar](/assets/images/BigRocks.png)
 
-To start, download this template in [OmniGraffle](images/CalendarBlocking.graffle.zip) or in [PDF](images/CalendarBlocking.pdf) form.
+To start, download this template in [OmniGraffle](/assets/images/CalendarBlocking.graffle.zip) or in [PDF](/assets/images/CalendarBlocking.pdf) form.
 
 Then, do the following;
 

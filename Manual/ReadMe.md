@@ -135,7 +135,7 @@ It is not enough to be a good place to work. Treefrog wants to set an example fo
 
 ### Common Sense
 
-![alt text](images/common-sense-superpower.jpg "Deadpool Common Sense")
+![alt text](/assets/images/common-sense-superpower.jpg "Deadpool Common Sense")
 
 Everything in this manual should be common sense to most - though given historical and cultural conditioning, we may all see the world differently. However, when confused about what the correct answer should be, lean towards common sense!
 

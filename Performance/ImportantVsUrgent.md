@@ -8,8 +8,8 @@ What's the difference between urgent and important tasks, and how can we make su
 
 This article: https://crew.co/blog/urgent-vs-important/
 
-####The Eisenhower Box
-![alt text](images/Urgentimportant.jpg)
+### The Eisenhower Box
+![alt text](/assets/images/UrgentImportant.jpg)
 
 Developed by Dwight Eisenhower, a five-star general in the United States Army, the Supreme Commander of the Allied Forces in Europe during World War II, President of Columbia University, oh, and a two-term US President, this simple box divides tasks into simple categories:
 
@@ -21,6 +21,6 @@ The bottom-left corner **(Not Important and Urgent)** might consist of interrupt
 
 The bottom-right corner **(Not Important and Not Urgent)** might consist of time wasters, pleasant activities, and other trivial tasks.
 
-###Examples
+### Examples
 
 Examples of this rule in action.

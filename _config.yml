@@ -21,3 +21,18 @@ aux_links:
     - "//prose.io/#Treefrog/Handbook"
   "View on GitHub":
     - "//github.com/Treefrog/Handbook"
+
+## Prose.io config - https://github.com/prose/prose/wiki/Prose-Configuration
+
+prose:
+  siteurl: "http://handbook.treefrog.ca"
+  media: 'assets/images'
+  ignore:
+    - .editorconfig
+    - .gitignore
+    - CNAME
+    - Gemfile
+    - _config.yml
+    - /_includes
+    - /_layouts
+  

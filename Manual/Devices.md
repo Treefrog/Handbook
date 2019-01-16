@@ -21,7 +21,7 @@ However, should you have the dumb luck to destroy or damage a device unintention
 
 When using your own personal Smartphone, iPad, or Laptop for Treefrog purposes, it is important to note that Treefrog has the right to view data on the device and that anything saved on the device should not be viewed as private. If your personal device is lost, damaged, or stolen, Treefrog is not responsible for replacing the device.
 
-If you are using your own device for Treefrog activities, please let the [quartermaster](manual/quartermaster-know.md) immediately. In most cases, it is appropriate that you will be provided with a Treefrog device that is covered by warranty and insurance.
+If you are using your own device for Treefrog activities, please let the [quartermaster](manual/quartermaster.md) know immediately. In most cases, it is appropriate that you will be provided with a Treefrog device that is covered by warranty and insurance.
 
 #### Laptop Security
 
