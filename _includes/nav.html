@@ -1,54 +1,71 @@
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
     {% assign page_url_size = page.url | split:"/" | size %}
-    {% assign pages_grouped = site.html_pages | where_exp:"p","p.nav_exclude != true" | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
-    {% assign pages_list = "" | split:"" %}
-    {% for i in pages_grouped reversed %}
-      {% assign pages_list = i.items | sort_natural:"url" | concat: pages_list %}
-    {% endfor %}
-    {% for node in pages_list %}
-      {% if node.dir == "/" or node.dir == node.url %}
-        {% assign node_dir_size = node.dir | split:"/" | size %}
-        {% if node_dir_size <= 2 %}
-          <li class="navigation-list-item{% if page.url == node.url or node.url != '/' and page.url contains node.url %} active{% endif %}">
-            <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
-            {% if node.dir == node.url and node.url != "/" %}
-              {% if page_url_size >= 3 and page.dir contains node.dir %}
-                {% assign first_level_url = node.url | absolute_url %}
-                {% assign first_level_title = node.title %}
-              {% endif %}
+    {% assign pages_hierarchy = site.html_pages | where_exp:"p","p.nav_exclude != true" | group_by_exp:"p","p.url | split:'/' | size" | sort:"name" %}
+    {% assign pages_first = "" | split:"" %}
+    {% if pages_hierarchy.size >= 2 %}
+      {% assign pages_first_grouped = pages_hierarchy[1].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
+      {% for i in pages_first_grouped reversed %}
+        {% assign pages_first = i.items | sort_natural:"url" | concat: pages_first %}
+      {% endfor %}
+      {% assign pages_first = pages_hierarchy[0].items | concat: pages_first %}
+    {% else %}
+      {% assign pages_first = pages_hierarchy[0].items %}
+    {% endif %}
+    {% assign pages_second = "" | split:"" %}
+    {% if pages_hierarchy.size >= 3 %}
+      {% assign pages_second_grouped = pages_hierarchy[2].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
+      {% for i in pages_second_grouped reversed %}
+        {% assign pages_second = i.items | sort_natural:"url" | concat: pages_second %}
+      {% endfor %}
+    {% endif %}
+    {% assign pages_third = "" | split:"" %}
+    {% if pages_hierarchy.size >= 4 %}
+      {% assign pages_third_grouped = pages_hierarchy[3].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
+      {% for i in pages_third_grouped reversed %}
+        {% assign pages_third = i.items | sort_natural:"url" | concat: pages_third %}
+      {% endfor %}
+    {% endif %}
+    {% for node in pages_first %}
+      <li class="navigation-list-item{% if page.url == node.url or node.url != '/' and page.url contains node.url %} active{% endif %}">
+        <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
+        {% if page_url_size >= 3 and node.dir != "/" and page.dir contains node.dir %}
+          {% assign first_level_url = node.url | absolute_url %}
+          {% assign first_level_title = node.title %}
+        {% endif %}
+        {% if node.dir == node.url and node.url != "/" %}
+          {% assign child_list = pages_second | where_exp:"p","p.dir contains node.dir" %}
+          {% for child in child_list %}
+            {% if forloop.first == true %}
               <ul class="navigation-list-child-list">
-                {% assign child_list = pages_list | where_exp:"p","p.dir contains node.dir" %}
-                {% for child in child_list %}
-                  {% unless child.url == node.url %}
-                    {% if child.dir == child.url or child.dir == node.dir and child.dir != child.url %}
-                      <li class="navigation-list-item{% if page.url == child.url or page.url contains child.url %} active{% endif %}">
-                        {% if page_url_size == 4 and page.dir == child.dir %}
-                          {% assign second_level_url = child.url | absolute_url %}
-                          {% assign second_level_title = child.title %}
-                        {% endif %}
-                        <a href="{{ child.url | absolute_url }}" class="navigation-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
-                        {% if child.dir == child.url %}
-                          <ul class="navigation-list-child-list">
-                            {% assign grand_child_list = child_list | where_exp:"p","p.dir == child.dir" %}
-                            {% for grand_child in grand_child_list %}
-                              {% unless grand_child.url == child.url %}
-                                <li class="navigation-list-item{% if page.url == grand_child.url %} active{% endif %}">
-                                  <a href="{{ grand_child.url | absolute_url }}" class="navigation-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child.title }}</a>
-                                </li>
-                              {% endunless %}
-                            {% endfor %}
-                          </ul>
-                        {% endif %}
-                      </li>
-                    {% endif %}
-                  {% endunless %}
-                {% endfor %}
+            {% endif %}
+                <li class="navigation-list-item{% if page.url == child.url or page.url contains child.url %} active{% endif %}">
+                  <a href="{{ child.url | absolute_url }}" class="navigation-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+                  {% if page_url_size == 4 and page.dir == child.dir or page.dir == page.url and page.dir contains child.dir %}
+                    {% assign second_level_url = child.url | absolute_url %}
+                    {% assign second_level_title = child.title %}
+                  {% endif %}
+                  {% if child.dir == child.url %}
+                    {% assign grand_child_list = pages_third | where_exp:"p","p.dir contains child.dir" %}
+                    {% for grand_child in grand_child_list %}
+                      {% if forloop.first == true %}
+                        <ul class="navigation-list-child-list">
+                      {% endif %}
+                          <li class="navigation-list-item{% if page.url == grand_child.url %} active{% endif %}">
+                            <a href="{{ grand_child.url | absolute_url }}" class="navigation-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child.title }}</a>
+                          </li>
+                      {% if forloop.last == true %}
+                        </ul>
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                </li>
+            {% if forloop.last == true %}
               </ul>
             {% endif %}
-          </li>
+          {% endfor %}
         {% endif %}
-      {% endif %}
+      </li>
     {% endfor %}
   </ul>
 </nav>
