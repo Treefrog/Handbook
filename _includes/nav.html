@@ -56,12 +56,18 @@
                           </li>
                       {% if forloop.last == true %}
                         </ul>
+                        {% if page.url == child.url %}
+                          {% assign page_toc = grand_child_list %}
+                        {% endif %}
                       {% endif %}
                     {% endfor %}
                   {% endif %}
                 </li>
             {% if forloop.last == true %}
               </ul>
+              {% if page.url == node.url %}
+                {% assign page_toc = child_list %}
+              {% endif %}
             {% endif %}
           {% endfor %}
         {% endif %}
