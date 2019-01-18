@@ -1,31 +1,31 @@
+{%- assign page_url_size = page.url | split:"/" | size -%}
+{%- assign pages_hierarchy = site.html_pages | where_exp:"p","p.nav_exclude != true" | group_by_exp:"p","p.url | split:'/' | size" | sort:"name" -%}
+{%- assign pages_first = "" | split:"" -%}
+{%- assign pages_second = "" | split:"" -%}
+{%- assign pages_third = "" | split:"" -%}
+{%- unless pages_hierarchy.size >= 2 -%}
+  {%- assign pages_first = pages_hierarchy[0].items -%}
+{%- else -%}
+  {%- assign pages_first_grouped = pages_hierarchy[1].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" -%}
+  {%- for i in pages_first_grouped reversed -%}
+    {%- assign pages_first = i.items | sort_natural:"url" | concat: pages_first -%}
+  {%- endfor -%}
+  {%- assign pages_first = pages_hierarchy[0].items | concat: pages_first -%}
+  {%- if pages_hierarchy.size >= 3 -%}
+    {%- assign pages_second_grouped = pages_hierarchy[2].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" -%}
+    {%- for i in pages_second_grouped reversed -%}
+      {%- assign pages_second = i.items | sort_natural:"url" | concat: pages_second -%}
+    {%- endfor -%}
+    {%- if pages_hierarchy.size >= 4 -%}
+      {%- assign pages_third_grouped = pages_hierarchy[3].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" -%}
+      {%- for i in pages_third_grouped reversed -%}
+        {%- assign pages_third = i.items | sort_natural:"url" | concat: pages_third -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endunless -%}
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
-    {% assign page_url_size = page.url | split:"/" | size %}
-    {% assign pages_hierarchy = site.html_pages | where_exp:"p","p.nav_exclude != true" | group_by_exp:"p","p.url | split:'/' | size" | sort:"name" %}
-    {% assign pages_first = "" | split:"" %}
-    {% if pages_hierarchy.size >= 2 %}
-      {% assign pages_first_grouped = pages_hierarchy[1].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
-      {% for i in pages_first_grouped reversed %}
-        {% assign pages_first = i.items | sort_natural:"url" | concat: pages_first %}
-      {% endfor %}
-      {% assign pages_first = pages_hierarchy[0].items | concat: pages_first %}
-    {% else %}
-      {% assign pages_first = pages_hierarchy[0].items %}
-    {% endif %}
-    {% assign pages_second = "" | split:"" %}
-    {% if pages_hierarchy.size >= 3 %}
-      {% assign pages_second_grouped = pages_hierarchy[2].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
-      {% for i in pages_second_grouped reversed %}
-        {% assign pages_second = i.items | sort_natural:"url" | concat: pages_second %}
-      {% endfor %}
-    {% endif %}
-    {% assign pages_third = "" | split:"" %}
-    {% if pages_hierarchy.size >= 4 %}
-      {% assign pages_third_grouped = pages_hierarchy[3].items | group_by_exp:"p","p.nav_order | append:'_'" | sort:"name" %}
-      {% for i in pages_third_grouped reversed %}
-        {% assign pages_third = i.items | sort_natural:"url" | concat: pages_third %}
-      {% endfor %}
-    {% endif %}
     {% for node in pages_first %}
       <li class="navigation-list-item{% if page.url == node.url or node.url != '/' and page.url contains node.url %} active{% endif %}">
         <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
