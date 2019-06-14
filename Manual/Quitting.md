@@ -143,6 +143,8 @@ To be honest, very few of these parties are well attended - not due to disrespec
 
 ### The 3-to-6-Month Mourning Period
 
+*aka "Respectful behaviour Around Leaving a Job"*
+
 After you leave for any reason, coming back onto Treefrog property within a few days after leaving is tacky, and makes everyone uncomfortable. After you have left - don't come back to the office again right away to hang out - or try to get back in after hours using your keycode (this has happened several times). Standing outside in the parking lot during work hours talking about why you hate Treefrog and why it is going to fail in full view of the whole team (also happened, several times) creates unecessary drama and prevents us all from being productive until you are gone. If you need to get stuff you have forgotten, arrange to come in with a senior Frog to collect your stuff at the end of the day, so you don't cause a bunch of unnessary emotion - or arrange to pick it up after hours.
 
 (This is not just a Treefrog rule, this is just common courtesy your mother should have taught you.)
