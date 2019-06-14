@@ -151,4 +151,4 @@ If you left on good terms (and you know this for sure), after a few months, once
 
 If you didn't leave us high and dry, you are probably Alumni, and you'd be more than welcomed - but actively invited - to future Frog events. We'd love to hear about your future self, and how you are doing, regularly.
 
-If you left on bad terms, please don't come back soon. It's just weird, and makes everyone very, very uncomfortable. Mutual trust has eroded. Give it a decade or two. Time cures all woes, eventually.
+If you left on bad terms (read: were a dick when you quit), please don't come back soon. It's just weird, and makes everyone very, very uncomfortable. Mutual trust has eroded. Give it a decade or two. Time cures all woes, eventually.
