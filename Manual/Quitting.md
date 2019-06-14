@@ -152,3 +152,5 @@ If you left on good terms (and you know this for sure), after a few months, once
 If you didn't leave us high and dry, you are probably Alumni, and you'd be more than welcomed - but actively invited - to future Frog events. We'd love to hear about your future self, and how you are doing, regularly.
 
 If you left on bad terms (read: were a dick when you quit, or acted like an ass, e.g. threw a beer jug at me (happened), told everyone to fuck off (happened), called the Health Department on us (happened), stole Treefrog equipment (happened), tried to convince everyone Treefrog is terrible and they should get a job at their new company (happened), threatened to sue over misunderstanding how ESA works (happened), etc.), please don't come back soon. It's just weird, and makes everyone very, very uncomfortable. Mutual trust has eroded. Give it a decade or two. Time cures all woes, eventually.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WlclUwqDo3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
