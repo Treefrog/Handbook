@@ -64,7 +64,7 @@ NOTE that is it possible that you attempt to transition, but overwhelming odds p
 
 ### "Pretend Lay Offs"
 
-In many cases, we get requests to "pretend lay off" as opposed to "accept quitting", so that the person in question can "scoop" some EI. **We don't do this, it is fraud.** In addition, there are several nagative implications to our company;
+In many cases, we get requests to "pretend lay off" as opposed to "accept quitting", so that the person in question can "scoop" some EI. **We don't do this, it is fraud.** In addition, there are several nagative implications to our company:
 
 1. It's fraud. That alone makes it something we wouldn't do.
 2. We have to replace you. All possible grants/benefits that the government might have given us to help the transition hole you left are now impossible to get.
@@ -93,10 +93,11 @@ NO, if you quit or transition, we will not pretend you didn't.
 Most people have a sense that they are “the last to know”, and feel like they have been slighted because there isn’t a giant fanfare about people leaving months ahead of time (as if we always know months ahead that people are leaving, which we do not). But the rule of thumb is this: if people have announced they are imminently quitting, we don't immediately go running around the office telling everyone. If people give us months of notice, we'll let everyone know well in advance.
 
 Keeping the "quiting" timing relatively private is also for several practical reasons:
-1) Although the quitter is excited to tell everyone (because they have often mentally moved on), typically, chaos ensues. "Who is going to replace them", "How will we cope", etc., etc. - productivity falls to zero for people who love drama or deeply connected to the person or role. We have people to find their replacement: not everyone needs to stop working and pay attention to the drama for two weeks.
-2) On many, many occasions, after a few days of discussion, the person wants to "unquit" (or, through the quitting discussion, we are able to fix what was ailing them, e.g. someone's mouse was malfunctioning, and we didn't know). Sometimes (no kidding) this happens the last day, as their future employer backs out at last minute. If we announce it, there's no coming back from that, and their leaving becomes self-fulfilling prophecy as no-one believes in them any more. 
-3) The announcement of "imminent quitting" leaves a dark cloud following said person around the last few weeks they are around. It adds complexity and rumours and self-doubt to everyone around them - unnecessary drama. It costs everyone major hassle and slows their future success.
-4) Once someone starts thinking about leaving (and it becomes part of their narrative), almost all conversations with them are about this, and not work. We are paying people to do work, not talk about their future life. We aren't paying people for two weeks of discussion about quitting. So why talk about it?
+
+1. Although the quitter is excited to tell everyone (because they have often mentally moved on), typically, chaos ensues. "Who is going to replace them", "How will we cope", etc., etc. - productivity falls to zero for people who love drama or deeply connected to the person or role. We have people to find their replacement: not everyone needs to stop working and pay attention to the drama for two weeks.
+2. On many, many occasions, after a few days of discussion, the person wants to "unquit" (or, through the quitting discussion, we are able to fix what was ailing them, e.g. someone's mouse was malfunctioning, and we didn't know). Sometimes (no kidding) this happens the last day, as their future employer backs out at last minute. If we announce it, there's no coming back from that, and their leaving becomes self-fulfilling prophecy as no-one believes in them any more.
+3. The announcement of "imminent quitting" leaves a dark cloud following said person around the last few weeks they are around. It adds complexity and rumours and self-doubt to everyone around them - unnecessary drama. It costs everyone major hassle and slows their future success.
+4. Once someone starts thinking about leaving (and it becomes part of their narrative), almost all conversations with them are about this, and not work. We are paying people to do work, not talk about their future life. We aren't paying people for two weeks of discussion about quitting. So why talk about it?
 
 People leave. It sucks, cause we hire awesome people. But we are not going to mourn or celebrate it. We will keep going, and so will they. No sweat.
 
@@ -110,11 +111,11 @@ Again, these are just rules of thumb, as every situation is completely different
 
 ### “Treefrog Owns the Client Relationship”
 
-There is also the additional feeling that anyone who leaves wants to talk it out with each client - especially because they've created such a personal relationship with the client in some cases. Simply put: no. Every time this happens, we get into massive expensive discussions with the client and in every case, it sends the client for a spin and prevents our and the client's future success. Sometimes the quitter even tells the client we are going to bankrupt or adds unnecessary (and untrue) drama, and damages the client relationship permanently. 
+There is also the additional feeling that anyone who leaves wants to talk it out with each client - especially because they've created such a personal relationship with the client in some cases. Simply put: no. Every time this happens, we get into massive expensive discussions with the client and in every case, it sends the client for a spin and prevents our and the client's future success. Sometimes the quitter even tells the client we are going to bankrupt or adds unnecessary (and untrue) drama, and damages the client relationship permanently.
 
 Treefrog owns the relationship. The person who picks up behind the quitter needs to manage the transition, not the quitter. We have a contract stating we own the relationship. If you talk to a client about quitting before arranging it with your superior or replacement, you are violating your contract with Treefrog.
 
-If you quit, no discussion will happen with clients about your leaving until you are gone. Or, as the spirit moves the person taking over. 
+If you quit, no discussion will happen with clients about your leaving until you are gone. Or, as the spirit moves the person taking over.
 
 If you transition, we will likely inform clients after we have found and enacted a suitable replacement to keep the clients successful and intact.
 
@@ -132,12 +133,12 @@ Basically, when you quit, we will be shutting down all communication mechanisms 
 
 In many cases, people would like to remain friends with people who leave, which is normal and appropriate, despite the professional severance. This is usually why people want to know why someone is leaving (unless it affects their job, in which case they will have a “need to know” anyway). However, in this case.
 
-Ergo, effective immediately, we will be instituting a new policy at Treefrog: the goodbye dinner. It works like this;
+Ergo, effective immediately, we will be instituting a new policy at Treefrog: the goodbye dinner. It works like this:
 
-1) People who leave will be asked if they want a goodbye party. If they do, we'll notify the whole team.
-2) This will be booked for approximately one week after their last paid day, on an evening, organized by them.
-3) Frogs will be let known of this date, anyone who can make it, can come out.
-3) Treefrog takes no responsibility for the costs or anything whatsoever of the party.
+1. People who leave will be asked if they want a goodbye party. If they do, we'll notify the whole team.
+2. This will be booked for approximately one week after their last paid day, on an evening, organized by them.
+3. Frogs will be let known of this date, anyone who can make it, can come out.
+4. Treefrog takes no responsibility for the costs or anything whatsoever of the party.
 
 To be honest, very few of these parties are well attended - not due to disrespect, but because everyone has a life, despite your moving on. Don't take it as a sign of disrespect if no-one shows up, even if they promise they will! It's just bad timing.
 
@@ -153,4 +154,4 @@ If you left on good terms (and you know this for sure), after a few months, once
 
 If you didn't leave us high and dry, you are probably Alumni, and you'd be more than welcomed - but actively invited - to future Frog events. We'd love to hear about your future self, and how you are doing, regularly.
 
-If you left on bad terms (read: were a dick when you quit, or acted like an ass, e.g. threw a beer jug at me (happened), told everyone to fuck off (happened), called the Health Department on us (happened), stole Treefrog equipment (happened), tried to convince everyone Treefrog is terrible and they should get a job at their new company (happened), threatened to sue over misunderstanding how ESA works (happened), etc. - https://www.youtube.com/watch?v=WlclUwqDo3s), please don't come back soon. It's just weird, and makes everyone very, very uncomfortable. Mutual trust has eroded. Give it a decade or two. Time cures all woes, eventually.
+If you left on bad terms (read: were a dick when you quit, or acted like an ass, e.g. threw a beer jug at me (happened), told everyone to fuck off (happened), called the Health Department on us (happened), stole Treefrog equipment (happened), tried to convince everyone Treefrog is terrible and they should get a job at their new company (happened), threatened to sue over misunderstanding how ESA works (happened), etc. - <https://www.youtube.com/watch?v=WlclUwqDo3s>), please don't come back soon. It's just weird, and makes everyone very, very uncomfortable. Mutual trust has eroded. Give it a decade or two. Time cures all woes, eventually.
