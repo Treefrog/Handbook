@@ -113,11 +113,25 @@ Again, these are just rules of thumb, as every situation is completely different
 
 There is also the additional feeling that anyone who leaves wants to talk it out with each client - especially because they've created such a personal relationship with the client in some cases. Simply put: no. Every time this happens, we get into massive expensive discussions with the client and in every case, it sends the client for a spin and prevents our and the client's future success. Sometimes the quitter even tells the client we are going to bankrupt or adds unnecessary (and untrue) drama, and damages the client relationship permanently.
 
-Treefrog owns the relationship. The person who picks up behind the quitter needs to manage the transition, not the quitter. We have a contract stating we own the relationship. If you talk to a client about quitting before arranging it with your superior or replacement, you are violating your contract with Treefrog.
+The ideal client transition process is:
 
-If you quit, no discussion will happen with clients about your leaving until you are gone. Or, as the spirit moves the person taking over.
+1. You are leaving, for whatever reason.
+2. Those who are left will strategically decide exactly what will happen to clients for which you had responsibility (commensurate on many factors, usually many beyond our control - like who we can hire to replace you in the time we have, or who has similar talents at Treefrog, etc.).
+3. Once this strategy is in place (i.e. new people have been hired, or relationships have been transitioned, or whatever), we will tell the internal team what the plan is. We will give them time to strategize and prepare for the new world order.
+4. Then, the people taking over the relationships will communicate the fact that you are leaving to *their* new clients.
 
-If you transition, we will likely inform clients after we have found and enacted a suitable replacement to keep the clients successful and intact.
+Bottom line: Treefrog owns the relationship. The person who picks up behind the quitter needs to manage the transition in order to continue to feed their children, not the quitter. If you talk to a client about quitting before arranging it with your superior or replacement, you are violating your contract with Treefrog.
+
+### "Communicating with Clients After You Leave"
+
+*Communicating with clients after you leave about work related to or unrelated to Treefrog (or Treefrog itself) is a violation of your contract with Treefrog and will be reciprocated with legal action. You are in violation of Canadian Privacy Law, your contract with Treefrog, and common courtesy itself. In addition, you are opening yourself up to significant liability.*
+
+1. *Non-Compete* - We have a contract stating we own the relationship with the client *(a "non-compete")*. You may not work for a client of Treefrog's (without explicit permission) for a period of at least two years after employment.
+2. *NDA* - We have a contract stating you may not speak about client information, data, etc. if you are not an employee of Treefrog *(an NDA, or "Non-Disclosure Agreement)*, which extends past your employment, forever. In many cases, it is a *major* privacy violation, at best, as client data and projects are protected, by law - by both us and the Canadian Government. So speaking with *us* afterwards is legally acceptable, but not with a client. This includes talking about Treefrog employees, emails, files, communication, gossip, you name it. Everything Treefrog is out of the discussion, legally.
+
+Obviously, you are welcome to have high-level opinions of Treefrog, positive or negative, and share them. But calling a past client the day after you were let go and telling them Treefrog is going to go bankrupt (happened), is just plain tacky and, technically, a comment on the machinations of Treefrog's business operations, and thus a violation of your contract. We appreciate that you are possibily emotionally disconnected - but is that a reason to hurt the people who continue to call Treefrog their home? Cause this certainly falls outside of your NDA, and opens you up to various legal issues. 
+
+Easiest way to avoid legal jeopardy, knowing the human penchant for negative gossip after leaving a company (you have your own narrative to write! You will definitely need to rationalize it in some way!): just don't talk with past clients at all, if you can help it. Obviously, you are welcome to communicate with clients as friends, or as colleagues, whenever you want. You just can't talk about Treefrog, without crossing the line of legal appropriateness - and that's a hard thing to do if your relationship was built on it.
 
 ### “Turning off the Door Code"
 
