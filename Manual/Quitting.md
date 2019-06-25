@@ -124,7 +124,7 @@ Bottom line: Treefrog owns the relationship. The person who picks up behind the 
 
 ### "Communicating with Clients After You Leave"
 
-*Communicating with clients after you leave about work related to or unrelated to Treefrog (or Treefrog itself) is a violation of your contract with Treefrog and will be reciprocated with legal action. You are in violation of Canadian Privacy Law, your contract with Treefrog, and common courtesy itself. In addition, you are opening yourself up to significant liability.*
+*Communicating with clients after you leave about work related to or unrelated to Treefrog (or Treefrog itself) is a violation of your contract with Treefrog and will be reciprocated with legal action. You are in violation of Canadian Privacy Law, your contract with Treefrog, Treefrog's contract with the client, and common courtesy itself. In addition, you are opening yourself up to significant liability.*
 
 1. *Non-Compete* - We have a contract stating we own the relationship with the client *(a "non-compete")*. You may not work for a client of Treefrog's (without explicit permission) for a period of at least two years after employment.
 2. *NDA* - We have a contract stating you may not speak about client information, data, etc. if you are not an employee of Treefrog *(an NDA, or "Non-Disclosure Agreement)*, which extends past your employment, forever. In many cases, it is a *major* privacy violation, at best, as client data and projects are protected, by law - by both us and the Canadian Government. So speaking with *us* afterwards is legally acceptable, but not with a client. This includes talking about Treefrog employees, emails, files, communication, gossip, you name it. Everything Treefrog is out of the discussion, legally.
