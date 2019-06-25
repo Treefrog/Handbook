@@ -111,7 +111,7 @@ Again, these are just rules of thumb, as every situation is completely different
 
 ### “Treefrog Owns the Client Relationship”
 
-There is also the additional feeling that anyone who leaves wants to talk it out with each client - especially because they've created such a personal relationship with the client in some cases. Simply put: no. Every time this happens, we get into massive expensive discussions with the client and in every case, it sends the client for a spin and prevents our and the client's future success. Sometimes the quitter even tells the client we are going to bankrupt or adds unnecessary (and untrue) drama, and damages the client relationship permanently.
+There is also the additional feeling that anyone who leaves wants to talk it out with each client - especially because they've created such a personal relationship with the client in some cases. Simply put: no. Every time this happens, we get into massive expensive discussions with the client and in every case, it sends the client for a spin and prevents our and the client's future success. Sometimes the leaver even tells the client we are going to bankrupt or adds unnecessary (and untrue) drama, and damages the client relationship permanently.
 
 The ideal client transition process is:
 
@@ -120,7 +120,7 @@ The ideal client transition process is:
 3. Once this strategy is in place (i.e. new people have been hired, or relationships have been transitioned, or whatever), we will tell the internal team what the plan is. We will give them time to strategize and prepare for the new world order.
 4. Then, the people taking over the relationships will communicate the fact that you are leaving to *their* new clients.
 
-Bottom line: Treefrog owns the relationship. The person who picks up behind the quitter needs to manage the transition in order to continue to feed their children, not the quitter. If you talk to a client about quitting before arranging it with your superior or replacement, you are violating your contract with Treefrog.
+Bottom line: Treefrog owns the relationship. The person who picks up behind the leaver needs to manage the transition in order to continue to feed their children, not the leaver. If you talk to a client about leaving before arranging it with your superior or replacement, you are violating your contract with Treefrog.
 
 ### "Communicating with Clients After You Leave"
 
