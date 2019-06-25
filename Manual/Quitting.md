@@ -147,11 +147,11 @@ Basically, when you quit, we will be shutting down all communication mechanisms 
 
 In many cases, people would like to remain friends with people who leave, which is normal and appropriate, despite the professional severance. This is usually why people want to know why someone is leaving (unless it affects their job, in which case they will have a “need to know” anyway). However, in this case.
 
-Ergo, effective immediately, we will be instituting a new policy at Treefrog: the goodbye dinner. It works like this:
+Here's how the Goodbye Party works;
 
 1. People who leave will be asked if they want a goodbye party. If they do, we'll notify the whole team.
 2. This will be booked for approximately one week after their last paid day, on an evening, organized by them.
-3. Frogs will be let known of this date, anyone who can make it, can come out.
+3. Frogs will be let known of this date, anyone who can make it, can come out. (The leaver can tell everyone, or request that Treefrog do so on their behalf).
 4. Treefrog takes no responsibility for the costs or anything whatsoever of the party.
 
 To be honest, very few of these parties are well attended - not due to disrespect, but because everyone has a life, despite your moving on. Don't take it as a sign of disrespect if no-one shows up, even if they promise they will! It's just bad timing.
