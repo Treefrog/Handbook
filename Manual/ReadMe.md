@@ -80,14 +80,14 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* Twitter/Social
 	* [Kids in the Office](Kids.md) - *"We want your kids to love coming here, just like you do."*
 * **Physical Stuff**
-	* [Equipment](Equipment.md) - *"."*
+	* [Equipment](Equipment.md) - *"Keep Treefrog what is Treefrog's, and yours which is yours."*
 	* [Devices](Devices.md) - *"Treat your stuff with respect."*
 	* [Belongings](Belongings.md) - *"Keep your stuff at home and Treefrog's stuff at Treefrog."*
 	* [Purchasing](Purchasing.md) - *"Purchase the best you can get within reason, and expect it to last longer."*
 * **Conflicts of Interest** ([Overview](ConflictsOfInterest.md)) - *"Don't do ethically gray stuff."*
 	* [Exclusive Service and Moonlighting](ExclusiveService.md) - *"You have ONE job."*
 	* [Inducements](Inducements.md) - *"You can't use Treefrog to get additional stuff."*
-	* [Fraud](Fraud.md) - *"."*
+	* [Fraud](Fraud.md) - *"Fraud is not cool."*
 * **Diversity & Equality**
 	* [Respect](Respect.md) - *"To get it, you must give it."*
 	* [Diversity](Diversity.md) - *Strength lies in our differences, not in our similarities."*
