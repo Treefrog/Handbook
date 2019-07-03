@@ -93,10 +93,10 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Diversity](Diversity.md) - *Strength lies in our differences, not in our similarities."*
 	* [Birthdays](Birthdays.md) - *"Let’s celebrate each other, in our own way."*
 * **Accessibility & Accommodation**
-	* [Workplace Accommodation](WorkplaceAccommodation.md) - *"."*
-	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"."*
-	* [Accessibility Standards](AccessibilityStandards.md) - *"."*
-	* [Medical Marijuana](MedicalMarijuana.md) - *"."*
+	* [Workplace Accommodation](WorkplaceAccommodation.md) - *"Treefrog is committed to providing accommodations for frogs with disabilities."*
+	* [Customer Service Accessibility](CustomerServiceAccessibility.md) - *"Treefrog is committed to excellence in serving all people with disabilities."*
+	* [Accessibility Standards](AccessibilityStandards.md) - *"Treefrog is committed to excellence in serving all people with disabilities throughout the employment life cycle."*
+	* [Medical Marijuana](MedicalMarijuana.md) - *"Treefrog will work with any frog who requests accommodation for the use of medical marijuana as prescribed by their doctor."*
 * **Problems at Work**
 	* [Discipline](Discipline.md) - *"."*
 	* [Security](Security.md) - *"."*
