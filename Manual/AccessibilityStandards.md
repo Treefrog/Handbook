@@ -1,8 +1,6 @@
 # Accessibility in Employment Standards
 
-> The Rule of Thumb
-
-*We are committed to excellence in serving all people with disabilities throughout the employment life cycle.*
+> Treefrog is committed to excellence in serving all people with disabilities throughout the employment life cycle.
 
 ### STATEMENT OF COMMITMENT:
 
