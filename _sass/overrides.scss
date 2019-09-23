@@ -1,0 +1,15 @@
+//
+// Custom overrides from a user.
+//
+blockquote {
+    border: $border;
+    border-radius: $border-radius;
+    color: $link-color;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 0;
+    padding: 0.4em;
+}
+blockquote>p {
+    margin-bottom: 0;
+}

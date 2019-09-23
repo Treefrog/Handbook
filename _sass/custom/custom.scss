@@ -1,27 +1,2 @@
-$green-tf: #558b2f;
-a {
-    color: $green-tf;
-}
-::selection {
-    background: $green-tf;
-}
-.search-input:focus + .search-icon {
-  fill: $green-tf;
-}
-.navigation,
-.site-title,
-.site-footer {
-    width: 270px;
-}
-blockquote {
-    border: 1px solid;
-    border-radius: 4px;
-    color: $green-tf;
-    font-weight: bold;
-    font-size: large;
-    margin-left: 0;
-    padding: 0.4em;
-}
-blockquote>p {
-    margin-bottom: 0;
-}
+$link-color: #558b2f;
+$nav-width: 270px;
