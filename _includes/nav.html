@@ -26,52 +26,52 @@
 {%- endunless -%}
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
-    {% for node in pages_first %}
+    {%- for node in pages_first -%}
       <li class="navigation-list-item{% if page.url == node.url or node.url != '/' and page.url contains node.url %} active{% endif %}">
         <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
-        {% if page_url_size >= 3 and node.dir != "/" and page.dir contains node.dir %}
-          {% assign first_level_url = node.url | absolute_url %}
-          {% assign first_level_title = node.title %}
-        {% endif %}
-        {% if node.dir == node.url and node.url != "/" %}
-          {% assign child_list = pages_second | where_exp:"p","p.dir contains node.dir" %}
-          {% for child in child_list %}
-            {% if forloop.first == true %}
+        {%- if page_url_size >= 3 and node.dir != "/" and page.dir contains node.dir -%}
+          {%- assign first_level_url = node.url | absolute_url -%}
+          {%- assign first_level_title = node.title -%}
+        {%- endif -%}
+        {%- if node.dir == node.url and node.url != "/" -%}
+          {%- assign child_list = pages_second | where_exp:"p","p.dir contains node.dir" -%}
+          {%- for child in child_list -%}
+            {%- if forloop.first == true -%}
               <ul class="navigation-list-child-list">
-            {% endif %}
+            {%- endif -%}
                 <li class="navigation-list-item{% if page.url == child.url or page.url contains child.url %} active{% endif %}">
                   <a href="{{ child.url | absolute_url }}" class="navigation-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
-                  {% if page_url_size == 4 and page.dir == child.dir or page.dir == page.url and page.dir contains child.dir %}
-                    {% assign second_level_url = child.url | absolute_url %}
-                    {% assign second_level_title = child.title %}
-                  {% endif %}
-                  {% if child.dir == child.url %}
-                    {% assign grand_child_list = pages_third | where_exp:"p","p.dir contains child.dir" %}
-                    {% for grand_child in grand_child_list %}
-                      {% if forloop.first == true %}
+                  {%- if page_url_size == 4 and page.dir == child.dir or page.dir == page.url and page.dir contains child.dir -%}
+                    {%- assign second_level_url = child.url | absolute_url -%}
+                    {%- assign second_level_title = child.title -%}
+                  {%- endif -%}
+                  {%- if child.dir == child.url -%}
+                    {%- assign grand_child_list = pages_third | where_exp:"p","p.dir contains child.dir" -%}
+                    {%- for grand_child in grand_child_list -%}
+                      {%- if forloop.first == true -%}
                         <ul class="navigation-list-child-list">
-                      {% endif %}
+                      {%- endif -%}
                           <li class="navigation-list-item{% if page.url == grand_child.url %} active{% endif %}">
                             <a href="{{ grand_child.url | absolute_url }}" class="navigation-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child.title }}</a>
                           </li>
-                      {% if forloop.last == true %}
+                      {%- if forloop.last == true -%}
                         </ul>
-                        {% if page.url == child.url %}
-                          {% assign page_toc = grand_child_list %}
-                        {% endif %}
-                      {% endif %}
-                    {% endfor %}
-                  {% endif %}
+                        {%- if page.url == child.url -%}
+                          {%- assign page_toc = grand_child_list -%}
+                        {%- endif -%}
+                      {%- endif -%}
+                    {%- endfor -%}
+                  {%- endif -%}
                 </li>
-            {% if forloop.last == true %}
+            {%- if forloop.last == true -%}
               </ul>
-              {% if page.url == node.url %}
-                {% assign page_toc = child_list %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        {% endif %}
+              {%- if page.url == node.url -%}
+                {%- assign page_toc = child_list -%}
+              {%- endif -%}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endif -%}
       </li>
-    {% endfor %}
+    {%- endfor -%}
   </ul>
 </nav>
