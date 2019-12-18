@@ -13,6 +13,7 @@ Working from home causes the following negative issues:
 5. **Agility** - Things are constantly changing around Treefrog. If you are not here, you cannot help the team be agile when clients change their minds, processes change, or project timelines change.
 6. **Trust** - Everybody does a little laundry when they are "working from home". Then, a quick break to watch some TV in the background (See: [Distractions](manual/Distractions)), a quick dog walk, and then maybe a little snooze, and suddenly, a few hours have gone by. You may believe that this makes you much more perky and functional but it does not - especially if you do it a few days in a row. You are fooling yourself. It is a slippery slope that the best of us have slid down.
 7. **Effect on Others** - Sure, you do not get bugged when you work from home. That is because other people are being bugged in your place. And now, it has a multiplier effect. Not only do Frogs not have the information you have, but also the Frog's own work is compromised. You are making other people less productive.
+8. **Your Mental Health** - Time and time again, it has been proven that working from home leads to feelings of isolation and depression. We need human contact to be happy. 
 
 We are much more efficient if we are all working together face-to-face. Treefrog has spent a lot of money, time, and effort trying to make a space where we can all be effective. Let us not waste it.
 
