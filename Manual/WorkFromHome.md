@@ -1,5 +1,7 @@
 # Work From Home
 
+> We don't work from home except for emergencies.
+
 You are not as valuable to Treefrog when you work from home. So, we prefer that you work out of our office.
 
 Every once and a while, working from home can be a nice change. The effect of that nice change is that you have the perception that you are super-productive despite the cost of others being less productive. However, once staying at home becomes a habit, your productiveness and value to the team overall decreases exponentially.
