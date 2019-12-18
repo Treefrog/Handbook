@@ -22,11 +22,11 @@ We are much more efficient if we are all working together face-to-face. Treefrog
 
 Once in a while, if you would like to work from home to accomplish a specific, meaningful, and long-term task, you may work from home if your Manager believes that you can work from home given your work load, under the following conditions:
 
-1. Consider the implications to your team and projects
-2. Ask permission to do so, it must be approved in advance by your assigned manager/approver
-3. Can only occur on Tuesdays, Wednesdays or Thursdays. Monday and Friday are generally critical days for launching work or closing out deliverables.
-4. Work from home two consecutive days in a row will not be approved
-5. Stay in communication at all times with your team, project management and your manager.
+1. **Review Yourself** - Consider the implications to your team and projects.
+2. **Ask Permission** - Ask permission to do so, it must be approved in advance by your assigned manager/approver.
+3. **Only Certain Days** - Can only occur on Tuesdays, Wednesdays or Thursdays. Monday and Friday are generally critical days for launching work or closing out deliverables.
+4. **One Day at a Time** - Work from home two consecutive days in a row will not be approved.
+5. **ALways On Availabillity** - Stay in communication at all times with your team, project management and your manager.
 
 
 ### Exceptions for Work From Home that is not Approved in Advance
