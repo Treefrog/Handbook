@@ -26,7 +26,7 @@ Once in a while, if you would like to work from home to accomplish a specific, m
 2. **Ask Permission** - Ask permission to do so, it must be approved in advance by your assigned manager/approver.
 3. **Only Certain Days** - Can only occur on Tuesdays, Wednesdays or Thursdays. Monday and Friday are generally critical days for launching work or closing out deliverables.
 4. **One Day at a Time** - Work from home two consecutive days in a row will not be approved.
-5. **ALways On Availabillity** - Stay in communication at all times with your team, project management and your manager.
+5. **Always Available** - Stay in communication at all times with your team, project management and your manager during your working hours.
 
 
 ### Exceptions for Work From Home that is not Approved in Advance
