@@ -33,7 +33,7 @@ The core sections of the Manual, with detailed explanations, rationale and examp
 	* [Compensation and Pay](Compensation.md) - *"We pay weekly."*
 	* [Overtime](Overtime.md) - *"We do not do overtime."* (See also: [Exempt and Non-Exempt](Exempted.md))
 	* [Raises](Raises.md) - *"We do not give 'cost of living' increases."*
-	* [Work From Home](WorkFromHome.md) - *"Don't work from home, but..."*
+	* [Work From Home](WorkFromHome.md) - *"We don't work from home except for emergencies."*
 	* [Probation](Probation.md) - *"3 months probation is normal."*
 	* [Earnings Interruptions](EarningsInterruptions.md) - *"Interrupted earnings gets reported to the government."*
 * **Vacations and Holidays**
