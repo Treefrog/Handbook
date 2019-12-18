@@ -2,17 +2,17 @@
 
 The standard work week consists of 40 paid hours, Monday to Friday, 9:00 am to 5:30 pm each day ("Normal Office Hours"). Any exceptions to the standard work day hours must be represented and approved by your Pod Leader.
 
-*Frog salaries cover all hours worked up to 44 hours per week for Non-Exempt Frogs, Exempt Frogs have no limit).*
+*(Frog salaries cover all hours worked up to 44 hours per week for Non-Exempt Frogs, Exempt Frogs have no limit).*
 
 ### Flexible Hours
 
 > Flexible Hours does not mean, "I work whenever I want". Flexible Hours means, "I have the flexibility to be accomodated for my lifestyle by setting specific hours for when I work, and only where my chosen and approved Flexible Hours do not hurt or limit the effectiveness of the team".
 
-Treefrog offers an alternative of flexible working hours for most roles at Treefrog. For those individuals who wish to have flexible hours, a request for these hours must be approved by the Pod Leader who will reasonably and appropriately allow for these flexible hours.
+Treefrog offers an alternative of flexible working hours for most roles at Treefrog. For those individuals who wish to have flexible hours, a request for these hours must be approved by management who will reasonably and appropriately allow for these flexible hours.
 
 * Core hours are not "flexible day to day", but rather "you can set a schedule of when you will be working". The rest of the team needs to know where you are consistently, so we can work around and with you.
 
-* Core hours of 11:00 am to 3:00 pm are required as part of a flexible working hours request. Please note that although every effort will be made to accommodate the request for flexible hours and granted flexible hour schedules, client and/or internal meetings will supersede these scheduling exceptions.
+* Core hours of 10:00 am to 3:00 pm are required as part of a flexible working hours request. Please note that although every effort will be made to accommodate the request for flexible hours and granted flexible hour schedules, client and/or internal meetings will supersede these scheduling exceptions.
 
 * For customer service and [safety](Manual/safety.md) reasons, the office policy requires that 2 people be in the office at all times during core hours.
 
