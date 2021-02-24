@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs@v0.2.7
+remote_theme: pmarsceill/just-the-docs@v0.3.3
 title: Treefrog Handbook
 lang: en-CA
 
@@ -6,6 +6,7 @@ exclude: ["Blank.md", "BestPractices", "DroppedChanges", "Goals"]
 
 readme_index:
   remove_originals: true
+  with_frontmatter: true
 
 optional_front_matter:
   remove_originals: true
@@ -21,6 +22,12 @@ aux_links:
     - "//prose.io/#Treefrog/Handbook"
   "View on GitHub":
     - "//github.com/Treefrog/Handbook"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_insensitive
 
 ## Prose.io config - https://github.com/prose/prose/wiki/Prose-Configuration
 
