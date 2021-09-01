@@ -61,6 +61,12 @@ These days may only be granted by the CEO during initial contractual negotiation
 
 Vacation requests are to be logged in the vacation system (http://holidays.treefrog.ca). Everyone can see a full calendar with all Frogs' time that has been booked off tentatively (orange), and approved (green). You must go into the calendar and select the time off you are requesting. Your Champion will view your request and approve or decline your request based on staffing and company deliverables. All vacation requests must be submitted in the tracking system at least 2 weeks prior to the start of your request.
 
+Once approved, your vacation time should be added to: 
+
+- your calendar in Google Workspace (to avoid you being added to meetings during that time),
+- your [work schedule in Wrike](https://www.wrike.com/accounts.htm#view/work_schedule) (so you won't be added to tasks or projects during that time),
+- your tab in the Huddle sheet.
+
 ### Champion Pod Members
 
 As [pod-champions](manual/pod-champions.md) are members of two pods (their own, and the Champion Pod), their time must be cognizant of the scheduling of both Pods. Ergo - Pod Champions set their own holidays, but are expected to make sure their own pod bases are covered in case of sickness/etc. and additionally be available for all critical Champion activities.
