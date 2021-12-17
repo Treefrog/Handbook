@@ -74,10 +74,10 @@
     {%- assign pages_1st = pages_1st | concat: pages_levels[1].items -%}
     {%- if pages_levels.size >= 3 -%}
       {%- assign pages_2nd = pages_levels[2].items -%}
-      {%- assign pages_2nd_dirs = pages_levels[2].items | map:"dir" -%}
+      {%- assign pages_2nd_dirs = pages_levels[2].items | map:"dir" | join:" " -%}
       {%- if pages_levels.size >= 4 -%}
         {%- assign pages_3rd = pages_levels[3].items -%}
-        {%- assign pages_3rd_dirs = pages_levels[3].items | map:"dir" -%}
+        {%- assign pages_3rd_dirs = pages_levels[3].items | map:"dir" | join:" " -%}
       {%- endif -%}
     {%- endif -%}
   {%- endif -%}
@@ -85,16 +85,16 @@
 
   {%- for node in pages_1st -%}
       {%- unless node.nav_exclude -%}
-      <li class="nav-list-item{% if page.url == node.url or node.url != '/' and page.url contains node.url %} active{% endif %}">
-        {%- if pages_2nd_dirs contains node.dir -%}
+      <li class="nav-list-item{% if page.url == node.url or page.url contains node.url and node.url != "/" %} active{% endif %}">
+        {%- if pages_2nd_dirs contains node.dir and node.dir != "/" -%}
           <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
         {%- endif -%}
         <a href="{{ node.url | absolute_url }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
-        {%- if page_level >= 2 and node.dir != "/" and page.dir contains node.dir -%}
+        {%- if page_level >= 2 and page.dir contains node.dir and node.dir != "/" -%}
           {%- assign first_level_url = node.url | absolute_url -%}
           {%- assign first_level_title = node.title -%}
         {%- endif -%}
-        {%- if pages_2nd_dirs contains node.dir -%}
+        {%- if pages_2nd_dirs contains node.dir and node.dir != "/" -%}
           {%- assign children_list = pages_2nd | where_exp:"p","p.dir contains node.dir" -%}
           {%- if page.url == node.url -%}
             {%- assign page_toc = children_list -%}
@@ -102,12 +102,12 @@
           <ul class="nav-list ">
           {%- for child in children_list -%}
             {%- unless child.nav_exclude -%}
-            <li class="nav-list-item {% if page.url == child.url or page.url contains child.url %} active{% endif %}">
+            <li class="nav-list-item {% if page.url contains child.url or page.url == child.url %} active{% endif %}">
               {%- if pages_3rd_dirs contains child.dir -%}
                 <a href="#" class="nav-list-expander"><svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a>
               {%- endif -%}
               <a href="{{ child.url | absolute_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
-              {%- if page_level == 3 and page.dir == child.dir or page.dir == page.url and page.dir contains child.dir -%}
+              {%- if page_level == 3 and page.dir == child.dir or page.dir contains child.dir and page.dir == page.url -%}
                 {%- assign second_level_url = child.url | absolute_url -%}
                 {%- assign second_level_title = child.title -%}
               {%- endif -%}
