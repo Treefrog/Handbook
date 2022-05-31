@@ -71,3 +71,5 @@ Anything with a client's name on it that has been put into the recycling bin bec
 5. architectures, thoughts, ideas
 
 If in question at ALL, shred it.
+
+We have Shred-It bins upstairs and downstairs, which are emptied monthly.
