@@ -29,7 +29,7 @@ It does not hurt to protect ourselves wherever possible and use the registration
 
 You can also use the footnote technique. Include a footnote at the bottom of the page after identifying the first word.
 
-Treefrog is a registered trademark.
+> Treefrog is a registered trademark.
 
 You can clarify the trademark in one of the following ways:
 
