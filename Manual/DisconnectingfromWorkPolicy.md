@@ -20,8 +20,8 @@ Due to the evolving nature of Treefrog’s business, Treefrog may amend this Pol
 
 ### Working Hours:
 
-While Frogs working hours will vary within the Company, each Frogs hours of work are defined by past practice, their employment agreement and/or by agreement with their manager.   
-If you have any questions regarding your normal hours of work, please consult with your manager.
+While Frogs working hours will vary within the Company, each Frogs hours of work are defined by past practice, their employment agreement and/or by agreement with their manager. If you have any questions regarding your normal hours of work, please consult with your manager.
+
 It is generally expected that all employees are able to complete their work, including reviewing and responding to any work-related communications, during their normal hours of work. The Company has no expectation that employees engage in work or work-related communications outside of their normal hours of work, subject to the exceptions detailed below.  
 
 If you are regularly unable to complete your work or attend to work-related communications within your normal hours of work, please notify your manager.
@@ -31,10 +31,15 @@ If you are regularly unable to complete your work or attend to work-related comm
 There are situations when it is necessary for Frogs to perform work or communicate with colleagues outside of their normal hours of work, including, but not limited to the following:
 
 -Where an emergency or exigent circumstances arise, with or without notice
+
 -To assist or fill in at short notice for a colleague
+
 -Where the nature of the Frog’s duties requires work and/or work-related communications outside of their normal hours of work
+
 -Unforeseeable business or operational reasons
+
 -An employee’s request or agreement to work certain hours or have flexible working hours; and
+
 -Other unusual circumstances as your manager may advise or which are inherent to your position.
 
 ### Work Related Communications:
