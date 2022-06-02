@@ -2,8 +2,6 @@
 
 > Interrupted earnings gets reported to the government.
 
-*If there is an interruption in earninbgs earnings of more than 7 days, a record of employment (ROE) must be filed.*
+*If there is an interruption in earnings of more than 7 days, a record of employment (ROE) must be filed.*
 
-IF YOU HAVE HAD OR ARE ANTICIPATED TO HAVE SEVEN CONSECUTIVE CALENDAR DAYS WITH NO WORK AND NO EARNINGS, AN INTERRUPTION OF EARNINGS OCCURS. THIS IS CALLED THE 7-DAY RULE. OR IF YOUR SALARY FALLS BELOW 60% OF YOUR REGULAR EARNINGS BECAUSE OF ILLNESS, INJURY, OR ANOTHER JOB PROTECTED LEAVE OF ABSENCE, THEN A RECORD OF EMPLOYMENT WIL BE ISSUED FOR YOU WITHIN 5 DAYS OF THE INTERRUPTION
-
-[Can someone please retype not in all-caps?]
+If you have had or are anticipating to have seven consecutive calendar days with no work and no earnings, an interruption of earnings has occured. This is called the 7-day rule. If your salary falls below 60% of your regular earnings because of illness, injury or another job protected leave of absence, then a record od employment will be issued for you within 5 days of the interuption. 
