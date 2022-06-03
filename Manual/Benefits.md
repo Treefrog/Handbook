@@ -37,7 +37,7 @@ We believe that vision care is imperative to the overall health of our Frogs. Af
 This expense is available to all full-time permanent Frogs who are participating in our Treefrog Benefit plan. Eligible reimbursements will be for prescription eyewear. Treefrog reserved the right to investigate expenses and deny any submissions not inline with the policy. 
 The two year cycle will begin on your hire date and renew every two years on your frogiversary. 
 
-Frogs must pay for the expense up front and submit an expense report (found here) within 30 days of the accrued expense. More information in "Expenses".
+Frogs must pay for the expense up front and submit an expense report within 30 days of the accrued expense. More information in "Expenses".
 
 Being cognisant that vision care prices vary within the market, we encourage all Frogs to do their own research on pricing and take a look at the following companies when ordering prescription glasses as they are cost effective online businesses.
 
