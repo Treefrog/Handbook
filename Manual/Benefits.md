@@ -13,7 +13,7 @@ Any changes to personal data, including dependent information, needs to be commu
 
 As per our policy, participation in the Treefrog benefits plan is mandatory unless you have coverage under a spouse's extended health care plan. 
 
-If you are covered under a spouse's plan, Health, Dental and life insurance can be waived but Long Term Disability (LTD)and Accidental(ADD)insurances are mandatory. 
+If you are covered under a spouse's plan, Health, Dental and life insurance can be waived but Long Term Disability (LTD) and Accidental (ADD) insurances are mandatory. 
 
 
 ### Voting for Benefits
