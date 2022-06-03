@@ -2,21 +2,19 @@
 
 > We want all Frogs to be healthy and protected from harm.
 
-*Sickness and bad things happen to good people. We should accept this and try to leverage the size of Treefrog to help the whole team look and feel better as much as we can.*
+All full-time Frogs are eligible to participate in our Treefrog Benefits plan following their 3 month probation period. Upon eligibility, you will receive a more detailed and comprehensive plan overview. 
 
-The following is a brief description of Treefrog’s benefit program. Upon eligibility, you will receive a more detailed and comprehensive package. All full-time Frogs are eligible to participate in the program following his or her 3-month observation period. Participation in the program is mandatory unless proper documentation is provided detailing involvement in a spouse’s benefit plan. Benefit programs are in place for:
+All dental and health forms should be submitted directly to the provider by Frogs. With the exception of vision care.
 
-1. Extended Health Care
-2. Dental Care
-3. Long Term Disability
+Any changes to personal data, including dependent information, needs to be communicated promptly to the Manager, Talent and Culture to avoid interruptions in benefit involvement.
 
-All dental and health forms should be submitted directly to the provider and directly by Frogs. Any changes to personal data, including dependent information, needs to be communicated promptly to the Controller to avoid interruptions in benefit involvement.
 
-### Everyone Must Comply
+### Everyone Must Participate 
 
-Not only because our benefits providers require it but also because we genuinely want people to be happy and healthy. We are not going to help you avoid the system just because you think you are bullet-proof or luckier than other people.
+As per our policy, participation in the Treefrog benefits plan is mandatory unless you have coverage under a spouse's extended health care plan. 
 
-Everybody gets sick. Everybody has issues. We want everyone to be protected.
+If you are covered under a spouse's plan, Health, Dental and life insurance can be waived but Long Term Disability (LTD)and Accidental(ADD)insurances are mandatory. 
+
 
 ### Voting for Benefits
 
@@ -30,8 +28,21 @@ One often forgotten reality is that *benefit rates are commensurate with usage*.
 
 In other words, there is a net effect to the whole team if you abuse the system. Therefore, do not abuse the system.
 
-### Examples
+### Vision Care 
 
-1. We had a Frog who voted that Long Term Disability was a waste of money and soon after developed cancer. Ironically, the lack of LTD required the person to quit and pursue an alternate career.
+Our Treefrog benefits plan does cover eye exams, however, it does not cover vision care as it is relates to prescription glasses, contacts etc… 
 
-2. We had a Frog suggest that *"There are only 7 days left in the calendar year! Everyone should go and get as many massages as possible!"*. Yes, massage therapy is good for you, can reduce stress, and can be a preventative to future issues. However, getting 5 massages in 7 days does not exponentially improve your health. Please be aware that the sudden influx of unnecessary massages increased our individual rates by $7 each the next year. Ironically, this situation caused everyone increased stress and thus, the need for massages. *Use the appropriate health professionals when appropriate.*
+We believe that vision care is imperative to the overall health of our Frogs. After review and negotiation, Treefrog found it was not in our best interest to add this to our current plan but to add a wellness reimbursement for vision care independently. Treefrog, therefore will allow Frogs to expense vision care up to a maximum of $200 every two years for prescription, glasses, sun glasses or contact lenses. 
+
+This expense is available to all full-time permanent Frogs who are participating in our Treefrog Benefit plan. Eligible reimbursements will be for prescription eyewear. Treefrog reserved the right to investigate expenses and deny any submissions not inline with the policy. 
+The two year cycle will begin on your hire date and renew every two years on your frogiversary. 
+
+Frogs must pay for the expense up front and submit an expense report (found here) within 30 days of the accrued expense. More information in "Expenses".
+
+Being cognisant that vision care prices vary within the market, we encourage all Frogs to do their own research on pricing and take a look at the following companies when ordering prescription glasses as they are cost effective online businesses.
+
+
+Clearly (https://www.clearly.ca/eyewear) 
+Zenni (https://ca.zennioptical.com/) 
+Eyebuy Direct (https://ca.eyebuydirect.com/default/index) 
+
